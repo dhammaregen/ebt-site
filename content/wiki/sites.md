@@ -1,12 +1,12 @@
 ---
-title: EBT Websites
-description: Websites for Early Buddhist Texts
+title: FBT-Webseiten
+description: Webseiten mit frühen buddhistischen Texten
 img: brett-zeck-eyfMgGvo9PA-unsplash.png
-img-alt: A picture of the world
+img-alt: Eine Weltkarte in Holz-Einlegearbeit
 slugDir: sites
-category: 1. General
-order: 2
+category: Hintergrundinformationen
+order: 9998
 ---
-### Contents
-Websites for Early Buddhist Texts found on [SuttaCentral](https://suttacentral.net)
+### FBT-Webseiten: Inhalt
+Webseiten mit frühen buddhistischen Texten, die man auf [SuttaCentral](https://suttacentral.net) findet
 

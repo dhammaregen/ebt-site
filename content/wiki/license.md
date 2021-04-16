@@ -3,7 +3,7 @@ title: License
 description: Software and content licenses
 img: license.png
 img-alt: A picture of MIT and CC0 licenses
-category: 2. Wiki Administration
+category: 
 order: 9999.4
 ---
 

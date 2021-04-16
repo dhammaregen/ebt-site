@@ -1,13 +1,12 @@
 ---
-title: Site Images
-description: Information about site images 
+title: Bilder auf der Webseite
+description: Informationen zu Bildern auf der Webseite 
 img: benjamin-balazs-xtiGzOiJe1Q-unsplash.png
-img-alt: Generic image for images 
+img-alt: Kamera mit einem Buddha im Display 
 slugDir: images
-category: 2. Wiki Administration
+category: Hintergrundinformationen
 order: 9999
 ---
 
-### Wiki/images Contents
-Here are the images used on this site.
-Click [Add Image](./author/add-image) for more information.
+### Bilder: Inhalt
+Hier finden Sie Informationen über die auf dieser Webseite verwendeten Bilder. Fotos ohne Quellenangabe sind eigene Fotos (mit Ausnahme von „favicon“, das zu [diesem Bild](/images/pexels-francesco-ungaro-464327) gehört).

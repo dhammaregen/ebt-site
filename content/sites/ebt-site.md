@@ -1,14 +1,10 @@
 ---
-title: ebt-site
-description: Create your own Early Buddhist Texts (EBT) website
-link: https://ebt-site.github.io/ebt-site
-img: https://ebt-site.github.io/ebt-site/amanda-flavell-9XSLoMlVhYU-unsplash.png
-img-alt: ebt-site image
+title: EBT-Site
+description: Erstellen Sie Ihre eigene Webseite mit frühen buddhistischen Texten.
+link: https://sc-voice.github.io/ebt-site
+img: https://sc-voice.github.io/ebt-site/amanda-flavell-9XSLoMlVhYU-unsplash.png
+img-alt: Bild der Webseite EBT-Site (Logo mit Buddha)
 order: 3
 ---
 
-Create an Early Buddhist Text (EBT) website
-for individual or community use.
-EBT-site is a template for creating new EBT websites.
-
-* See [Authoring Content](https://ebt-site.github.io/ebt-site/author/build-site)
+Erstellen Sie eine Webseite mit frühen buddhistischen Texten (FBT) für Ihren persönlichen Gebrauch oder für eine Gruppe. EBT-Site ist eine Vorlage, um neue FBT-Webseiten zu erstellen (Englisch).

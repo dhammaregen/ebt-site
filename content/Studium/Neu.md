@@ -23,5 +23,8 @@ Das neue *Dhammaregen* ist, ähnlich wie [Voice.suttacentral.net](https://voice.
 ### Sutta-Übersetzungen
 *Dhammaregen* beherbergt die neuen deutschen Übersetzungen der Suttas des Palikanon von Anagarika Sabbamitta. Es handelt sich um ein fortlaufendes Übersetzungsprojekt. Lesen Sie, [was bereits übersetzt ist](/Übersetzung/Übersicht), oder gehen Sie [zu den Suttas](/suttas).
 
+### Dhamma-Essays
+Besuchen Sie auch unsere Ecke mit den [Dhamma-Regentropfen](/wiki/Tropfen). Nehmen Sie einen Essay als Ausgangspunkt für eine Wanderung durch den Sutta-Wald. Wenn Suttas im Text erwähnt sind, ist, sofern sie bereits übersetzt sind, ein Link zum Suttatext angebracht, sodass Sie das Zitat gleich im Kontext lesen und von dort aus auch weitere Expeditionen antreten können. Wenn Sie möchten, nehmen Sie sicherheitshalber einen Schirm zu Ihrer Wanderung mit: Hier kann es, gemäß dem Motto der [Startseite](/wiki/welcome), immer ein bisschen feucht sein. Aber ein paar Dhamma-Regentropfen können auch nicht schaden … 😉
+
 ### Newsletter
 Das neue *Dhammaregen* hat auch einen Newsletter, der in unregelmäßigen Abständen erscheint. Er informiert über die neuesten Übersetzungen auf dieser Webseite und Sonstiges rund um frühe buddhistische Texte. Sie können sich mit einer formlosen Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com) zum Newsletter anmelden. Im [Newsletter-Archiv](/wiki/news) finden Sie alle bisher erschienenen Ausgaben.

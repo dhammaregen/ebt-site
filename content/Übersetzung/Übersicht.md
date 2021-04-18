@@ -21,7 +21,7 @@ Bisher liegen folgende Suttas auf *Dhammaregen* vor:
 - Aṅguttara-Nikāya: Einer- bis Fünferbuch; Sechserbuch in Arbeit; AN 7.36, AN 7.66; AN 8.53, AN 8.63; AN 9.1; AN 10.48, AN 10.60-61; AN 11.15
 - Khuddaka-Nikāya: Kp; Thag 1.43, Thag 4.10, Thag 15.2; Thig: Einer- bis Fünferbuch, Thig 6.5-6, Thig 6.8, Thig 10.1
 
-Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
+Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert (Gesamtfortschritt: zur Zeit 24% der geplanten Texte).
 
 [Weshalb brauchen wir neue deutsche Sutta-Übersetzungen?](/Übersetzung/Weshalb) – Überlegungen von Anagarika Sabbamitta
 

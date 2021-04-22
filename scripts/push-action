@@ -22,9 +22,20 @@ $DIR/wiki-images
 $DIR/nuxt-routes.js
 export CI=
 echo CI=$CI
-nuxt generate
-$DIR/git-commit-version PUSH
-npm run deploy:branch 
-RC=$?
+nuxt generate; RC=$? || exit $RC
+
+echo "$SCRIPT: git-commit-version"
+$DIR/git-commit-version PUSH; RC=$? 
+if [ "$RC" == "42" ]; then
+  echo "$SCRIPT: no changes (ok)"
+elif [ "$RC" == "0" ]; then
+  echo "$SCRIPT: changes committed (ok)"
+else
+  echo "$SCRIPT: ERROR $RC"
+  exit $RC
+fi
+
+npm run deploy:branch ; RC=$? || exit $RC
 
 echo "$SCRIPT: done => $RC"
+exit $RC

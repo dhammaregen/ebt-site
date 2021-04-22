@@ -1,12 +1,12 @@
 #!/bin/bash
 
 DIR=`dirname $0`
-SCRIPT=`basename $0`
+SCRIPT=`basename $0 | tr abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ`
 
 git status | grep 'nothing to commit' ; RC=$?
 if [ "$RC" == "0" ]; then
   echo -e "$SCRIPT: nothing to commit"
-  exit -1
+  exit 42
 else
   OLDVERSION=`$DIR/version`
   MSG="$SCRIPT: changes by $GITHUB_WORKFLOW $HOSTNAME"

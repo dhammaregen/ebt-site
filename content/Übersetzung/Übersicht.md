@@ -33,7 +33,7 @@ Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisier
       <figcaption>Audio: Metta-Sutta saarländisch</figcaption>
       <audio
           controls
-          src="/static/audio/mettasutta-sld.ogg">
+          src="/audio/mettasutta-sld.ogg">
               Ihr Browser untestützt das 
               <code>Audio</code>-Element nicht.
       </audio>

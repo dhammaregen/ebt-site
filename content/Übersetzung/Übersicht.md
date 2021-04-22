@@ -18,7 +18,7 @@ Bisher liegen folgende Suttas auf *Dhammaregen* vor:
 - Dīgha-Nikāya: DN 6-7, DN 10, DN 12, DN 14-15, DN 17-21, DN 23-25, DN 28-34
 - Majjhima-Nikāya: MN 2, MN 7, MN 10, MN 23, MN 33
 - Saṁyutta-Nikāya: SN 1.1; SN 3.21; SN 5; SN 6.1; SN 10.8; SN 12.1-33; SN 22.59; SN 35.28; SN 42.11; SN 45.8; SN 46.55; SN 47; SN 54.11; SN 56.1, SN 56.11, SN 56.47-48
-- Aṅguttara-Nikāya: Einer- bis Fünferbuch; Sechserbuch in Arbeit; AN 7.36, AN 7.66; AN 8.53, AN 8.63; AN 9.1; AN 10.48, AN 10.60-61; AN 11.15
+- Aṅguttara-Nikāya: Einer- bis Fünferbuch; Sechserbuch in Arbeit; AN 7.36, AN 7.66; AN 8.53, AN 8.63; AN 9.1; AN 10.48, AN 10.60-61, AN 10.109; AN 11.15
 - Khuddaka-Nikāya: Kp; Thag 1.43, Thag 4.10, Thag 15.2; Thig: Einer- bis Fünferbuch, Thig 6.5-6, Thig 6.8, Thig 10.1
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert (Gesamtfortschritt: zur Zeit 24% der geplanten Texte).

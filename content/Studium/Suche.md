@@ -56,7 +56,10 @@ Wenn Sie in ein Segment klicken, wird dieses hervorgehoben.
 
 Gleichzeitig erscheint die Segment-Kennziffer in der linken unteren Ecke des Bildschirms. Wenn Sie darauf klicken, können Sie von jeder beliebigen Stelle im Text zu dem zuletzt markeirten Segment zurückkommen.
 
+<!--
+to do
 Auch wenn Sie von einem anderen Sutta wieder zu diesem Text zurückkommen, wird der Browser automatisch zu dem zuletzt markierten Segment scrollen. Dadurch wird es einfach, zum Vergleich in ein anderes Sutta zu schauen und beim Zurückkommen die Stelle wiederzufinden, die Sie zuletzt gelesen haben.
+-->
 
 Rechts unten auf der Seite finden Sie noch Tasten, mit denen Sie zum oberen oder unteren Seitenende gelangen.
 

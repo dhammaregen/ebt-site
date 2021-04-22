@@ -45,6 +45,6 @@ Zusätzlich ermöglicht das von Karl Lew entwickelte und auch in Voice.suttacent
 
 Etwa Mitte 2019 habe ich mit dem Übersetzungsprojekt begonnen. Geplant ist, die vier Hauptnikāyas des Palikanon sowie die älteren Teile des Khuddaka-Nikāya zu übersetzen.
 
-Alle Suttas finden sich auf *Dhammaregen* sowie auf [SuttaCentral](https://suttacentral.net) und [Voice.suttaCentral.net](https://voice.suttacentral.net), wahlweise mit oder ohne den zugehörigen Palitext.
+Alle Suttas finden sich auf *Dhammaregen* sowie auf [SuttaCentral](https://suttacentral.net) und [Voice.suttacentral.net](https://voice.suttacentral.net), wahlweise mit oder ohne den zugehörigen Palitext.
 
 Rückmeldungen zu den Übersetzungen sind äußerst willkommen. Sie können eine Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com) senden oder sich auf dem SuttaCentral-Diskussionsforum [Discourse.SuttaCentral](https://discourse.suttacentral.net) an mich wenden.

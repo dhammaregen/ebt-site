@@ -8,5 +8,5 @@ category: Hintergrundinformationen
 order: 9998
 ---
 ### FBT-Webseiten: Inhalt
-Webseiten mit frühen buddhistischen Texten, die man auf [SuttaCentral](https://suttacentral.net) findet
+Webseiten mit denfrühen buddhistischen Texten von [SuttaCentral](https://suttacentral.net)
 

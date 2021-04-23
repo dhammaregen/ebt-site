@@ -1,6 +1,6 @@
 ---
 title: SuttaCentral
-description: Frühe buddhistische Texte (FBT), Übersetzungen und Parallelen.
+description: Frühe buddhistische Texte (FBT), Übersetzungen und Parallelen
 link: https://suttacentral.net
 img: suttacentral.png
 img-alt: Bild der Webseite Suttacentral

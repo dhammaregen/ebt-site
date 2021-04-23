@@ -1,6 +1,6 @@
 ---
 title: Voice.suttacentral.net
-description: Hören Sie frühe buddhistische Texte (FBT) und Übersetzungen.
+description: Frühe buddhistische Texte (FBT) und Übersetzungen hören
 link: https://voice.suttacentral.net
 img: voice.png
 img-alt: Bild der Webseite Voice.suttacentral.net

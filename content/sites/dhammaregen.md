@@ -1,6 +1,6 @@
 ---
 title: Dhammaregen
-description: Frühe buddhistische Texte in deutscher Sprache.
+description: Frühe buddhistische Texte in deutscher Sprache
 link: https://dhammaregen.github.io/dhammaregen
 img:  pexels-francesco-ungaro-464327.png
 img-alt: Bild der Webseite Dhammaregen (Wasserfall-Logo)

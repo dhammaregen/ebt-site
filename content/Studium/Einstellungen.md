@@ -17,4 +17,4 @@ Hinter dem kleinen Zahnrädchen rechts oben verbergen sich verschiedene Einstell
   
   Sie können auch einen Gongton auswählen, mit dem Sie Ihre Suttas hören möchten. Klicken Sie auf die Voreistellung, um mehr Optionen zu sehen.
 
-**Bemerkung:** Die Funktion zum Herunterladen ist bisher noch nicht aktiv, auch die anderen Audiofunktionen sind noch nicht im vollen Umfang verfügbar.
+  **Bemerkung:** Die Funktion zum Herunterladen ist bisher noch nicht aktiv, auch die anderen Audiofunktionen sind noch nicht im vollen Umfang verfügbar.

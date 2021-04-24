@@ -16,12 +16,6 @@ order: 1
 
 *Dhammaregen* ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). Es beherbergt neue deutsche Sutta-Übersetzungen von Anagarika Sabbamitta. Daneben enthält es verschiedene Hintergrundinformationen zu den frühen buddhistischen Texten (FBT).
 
-### Nachrichten von *Dhammaregen*
-
-*Dhammaregen* versendet in unregelmäßigen Abständen einen Newsletter mit Nachrichten über Neues auf dieser Webseite und rund um die frühen buddhistischen Texte. Wenn Sie den Newsletter erhalten möchten, senden Sie bitte eine formlose Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com).
-
-Auch Fragen oder Anregungen können an diese Email-Adresse gesandt werden, oder wenden Sie sich an das SuttaCentral-Diskussionsforum [Discourse.SuttaCentral](https://discourse.suttacentral.net).
-
 ### Schauen Sie sich um
 
 <a href="/suttas" class="scv-icon-btn v-btn v-btn--icon v-btn--round v-btn--router theme--dark v-size--default"><span class="v-btn__content"><span aria-hidden="true" class="v-icon notranslate theme--dark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg"><path d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z"></path></svg></span></span></a> Durchsuchen Sie [die Suttas](/suttas) – hier erfahren sie, was der Buddha gelehrt hat.
@@ -31,6 +25,12 @@ Auch Fragen oder Anregungen können an diese Email-Adresse gesandt werden, oder 
 <a href="https://github.com/dhammaregen/ebt-site" target="_blank" class="scv-icon-btn v-btn v-btn--icon v-btn--round theme--dark v-size--default" title="Github"><span class="v-btn__content"><span aria-hidden="true" class="v-icon notranslate theme--dark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg"><path d="M12,2A10,10 0 0,0 2,12C2,16.42 4.87,20.17 8.84,21.5C9.34,21.58 9.5,21.27 9.5,21C9.5,20.77 9.5,20.14 9.5,19.31C6.73,19.91 6.14,17.97 6.14,17.97C5.68,16.81 5.03,16.5 5.03,16.5C4.12,15.88 5.1,15.9 5.1,15.9C6.1,15.97 6.63,16.93 6.63,16.93C7.5,18.45 8.97,18 9.54,17.76C9.63,17.11 9.89,16.67 10.17,16.42C7.95,16.17 5.62,15.31 5.62,11.5C5.62,10.39 6,9.5 6.65,8.79C6.55,8.54 6.2,7.5 6.75,6.15C6.75,6.15 7.59,5.88 9.5,7.17C10.29,6.95 11.15,6.84 12,6.84C12.85,6.84 13.71,6.95 14.5,7.17C16.41,5.88 17.25,6.15 17.25,6.15C17.8,7.5 17.45,8.54 17.35,8.79C18,9.5 18.38,10.39 18.38,11.5C18.38,15.32 16.04,16.16 13.81,16.41C14.17,16.72 14.5,17.33 14.5,18.26C14.5,19.6 14.5,20.68 14.5,21C14.5,21.27 14.66,21.59 15.17,21.5C19.14,20.16 22,16.42 22,12A10,10 0 0,0 12,2Z"></path></svg></span></span></a> Gehen Sie zur [GitHub-Datenbank](https://github.com/dhammaregen/ebt-site) für diese Webseite.
 
 <a href="/" class="scv-icon-btn v-btn v-btn--icon v-btn--round v-btn--router theme--dark v-size--default"><span class="v-btn__content"><span aria-hidden="true" class="v-icon notranslate theme--dark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg"><path d="M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z"></path></svg></span></span></a> Kommen Sie zu dieser [Startseite](/wiki/welcome) zurück.
+
+### Nachrichten von *Dhammaregen*
+
+*Dhammaregen* versendet in unregelmäßigen Abständen einen Newsletter mit Nachrichten über Neues auf dieser Webseite und rund um die frühen buddhistischen Texte. Wenn Sie den Newsletter erhalten möchten, senden Sie bitte eine formlose Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com).
+
+Auch Fragen oder Anregungen können an diese Email-Adresse gesandt werden, oder wenden Sie sich an das SuttaCentral-Diskussionsforum [Discourse.SuttaCentral](https://discourse.suttacentral.net).
 
 ### Copyright und Datenschutz
 

@@ -6,7 +6,6 @@ img-alt: Pfosten mit Wegweisern im Wald
 order: 1
 ---
 ### Die Suttas in deutscher Sprache
-Über die deutschen Sutta-Übersetzungen auf *Dhammaregen*, SuttaCentral und Voice.suttacentral.net
 
 *Dhammaregen* beherbergt neue segmentierte deutsche Übersetzungen der Suttas des Palikanon von Anagarika Sabbamitta. Auf [SuttaCentral](https://suttacentral.net) und [Voice.suttacentral.net](https://voice.suttacentral.net) findet man zusätzlich viele frühere deutsche Übersetzungen dieser Texte.
 

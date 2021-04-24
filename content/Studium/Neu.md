@@ -6,7 +6,7 @@ img-alt: Waldboden mit Teppich aus blühenden Anemonen
 order: 9998
 ---
 ### Historisches
-*Dhammaregen* wurde ursprünglich als eine Begleitwebseite zu [Voice.suttacentral.net](https://voice.suttacentral.net) entworfen und enthielt Informationen über die Benutzung von Voice und [SuttaCentral](https://suttacentral.net) sowie auch eine Infoseite zu den deutschen Sutta-Übersetzungen von Anagarika Sabbamitta. Die Informationen zu Voice und SuttaCentral sind jetzt unter [Dhammaregen.github.io/Voice](https://dhammaregen.github.io/voice) zu finden.
+*Dhammaregen* wurde ursprünglich als eine Begleitwebseite zu [Voice.suttacentral.net](https://voice.suttacentral.net) entworfen und enthielt Informationen über die Benutzung von Voice und [SuttaCentral](https://suttacentral.net) sowie auch eine Infoseite zu den deutschen Sutta-Übersetzungen von Anagarika Sabbamitta. Die Informationen zu Voice und SuttaCentral sind jetzt unter [Dhammaregen.github.io/voice](https://dhammaregen.github.io/voice) zu finden.
 
 ### Die neue Version von Dhammaregen
 Der buddhistische Kanon hat eine recht komplexe Struktur, an der sich gewöhnlich Webseiten, die die Suttas präsentieren, orientieren. Für Neulinge ist es nicht einfach, sich darin zurechtzufinden. Daher entstand der Gedanke, eine Möglichkeit zum Studium der Suttas zu schaffen, die den Kanon auf andere Art erschließt. Mit diesem Ziel wurde *Dhammaregen* zu einer Studien-Webseite weiterentwickelt.
@@ -24,7 +24,7 @@ Das neue *Dhammaregen* ist, ähnlich wie [Voice.suttacentral.net](https://voice.
 *Dhammaregen* beherbergt die neuen deutschen Übersetzungen der Suttas des Palikanon von Anagarika Sabbamitta. Es handelt sich um ein fortlaufendes Übersetzungsprojekt. Lesen Sie, [was bereits übersetzt ist](/Übersetzung/Übersicht), oder gehen Sie [zu den Suttas](/suttas).
 
 ### Dhamma-Essays
-Besuchen Sie auch unsere Ecke mit den [Dhamma-Regentropfen](/wiki/Tropfen). Nehmen Sie einen Essay als Ausgangspunkt für eine Wanderung durch den Sutta-Wald. Wenn Suttas im Text erwähnt sind, ist, sofern sie bereits übersetzt sind, ein Link zum Suttatext angebracht, sodass Sie das Zitat gleich im Kontext lesen und von dort aus auch weitere Expeditionen antreten können. Wenn Sie möchten, nehmen Sie sicherheitshalber einen Schirm zu Ihrer Wanderung mit: Hier kann es, gemäß dem Motto der [Startseite](/wiki/welcome), immer ein bisschen feucht sein. Aber ein paar Dhamma-Regentropfen können auch nicht schaden … 😉
+Besuchen Sie auch unsere Ecke mit den [Dhamma-Regentropfen](/wiki/Tropfen). Nehmen Sie einen Essay als Ausgangspunkt für eine Wanderung durch den Sutta-Wald. Wenn Suttas im Text erwähnt sind, ist, sofern es bereits übersetzt ist, ein Link zu dem entsprechenden Sutta angebracht, sodass Sie das Zitat gleich im Kontext lesen und von dort aus auch weitere Expeditionen antreten können. Wenn Sie möchten, nehmen Sie sicherheitshalber einen Schirm zu Ihrer Wanderung mit: Hier kann es, gemäß dem Motto der [Startseite](/wiki/welcome), immer ein bisschen feucht sein. Aber ein paar Dhamma-Regentropfen können auch nicht schaden … 😉
 
 ### Newsletter
 Das neue *Dhammaregen* hat auch einen Newsletter, der in unregelmäßigen Abständen erscheint. Er informiert über die neuesten Übersetzungen auf dieser Webseite und Sonstiges rund um frühe buddhistische Texte. Sie können sich mit einer formlosen Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com) zum Newsletter anmelden. Im [Newsletter-Archiv](/wiki/news) finden Sie alle bisher erschienenen Ausgaben.

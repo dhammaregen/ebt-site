@@ -14,7 +14,7 @@ Wenn Sie nicht wissen, wo Sie anfangen sollen, klicken Sie auf die Schaltfläche
 
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./result.png" alt="Bildschirmfoto von Suchergebnis">
 
-Klick auf den Text hinter dem Pfeil im Ergebnisfeld zeigt die Suttas an, in denen der betreffende Suchbegriff vorkommt:
+Klick auf die Textzeile mit dem Pfeil im Ergebnisfeld zeigt die Suttas an, in denen der betreffende Suchbegriff vorkommt:
 
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./result-suttas.png" alt="Bildschirmfoto von Suttaliste">
 
@@ -40,7 +40,7 @@ Am Fuß der Seite kann man zum vorherigen oder nächsten Sutta nach der Ordnung 
 
 ### 4. Ergebnis-Chronik benutzen
 
-Es ist einfach, in *Dhammaregen* zu Ihrem letzten Sutta zurückzugehen. Sie sehen die Chronik links und rechts oben beim Sutta-Titel. Links ist das Sutta, von dem Sie zuletzt gekommen sind, rechts sehen Sie das Sutta, wo sie von der aktuellen Seite aus vorher hingegangen waren.
+Es ist einfach, in *Dhammaregen* zu Ihrem letzten Sutta zurückzugehen. Sie sehen die Chronik links und rechts oben beim Sutta-Titel. Links ist das Sutta, von dem Sie zuletzt gekommen sind, rechts sehen Sie das Sutta, wo sie von der aktuellen Seite aus schon einmal hingegangen waren.
 
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./memory.png" alt="Bildschirmfoto von Chronik">
 

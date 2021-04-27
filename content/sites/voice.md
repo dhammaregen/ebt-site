@@ -11,6 +11,6 @@ Voice bietet einen Audio-Zugang zu ausgewählten frühen buddhistischen Texten (
 
 Voice wurde für Menschen mit Sehbehinderung entwickelt und hat eine minimalistische Benutzeroberfläche, die gut mit Bildschirmlesern zu bedienen ist. Mit dem Audioplayer von Voice kann man FBT hören und sie gleichzeitig lesen. Zusätzlich können nach Bedarf Audiodateien zum Herunterladen für die Offline-Nutzung erzeugt werden. 
 
-Weitere Informationen zu Voice finden Sie [hier](https://dhammaregen.github.io/dhammaregen/de/100-intro-voice).
+Weitere Informationen zu Voice finden Sie [hier](https://dhammaregen.github.io/voice/de/100-intro-voice).
 
 

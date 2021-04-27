@@ -15,7 +15,7 @@ Der buddhistische Kanon hat eine recht komplexe Struktur, an der sich gewöhnlic
 
 Stellen Sie sich eine Wanderung durch den Wald vor: Sie gehen einen Weg entlang und sehen unterwegs einen neuen Wegweiser oder etwas anderes, das Sie neugierig macht. Sie beschließen, dem Hinweis zu folgen, und entdecken etwas Neues. Manchmal kommen Sie auch unerwartet wieder an einer bekannten Stelle heraus; anfangs vielleicht nicht so häufig, aber mit der Zeit immer öfter. So werden Sie nach und nach mit dem Gelände sehr vertraut.
 
-Lesen Sie [hier](/wiki/Studium), wie Sie die Suttas besser kennenlernen können, oder gehen Sie zur [Startseite](/wiki/welcome).
+Lesen Sie [hier](/wiki/Studium), wie Sie die Suttas besser kennenlernen können.
 
 ### Audiofunktion
 Das neue *Dhammaregen* ist, ähnlich wie [Voice.suttacentral.net](https://voice.suttacentral.net), mit einer Audiofunktion ausgestattet. Damit können Sie die Suttas sowohl *lesen* als auch *hören*! Lesen Sie [hier](/Studium/Hören), wie's funktioniert.

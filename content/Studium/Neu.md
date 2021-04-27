@@ -24,7 +24,7 @@ Das neue *Dhammaregen* ist, ähnlich wie [Voice.suttacentral.net](https://voice.
 *Dhammaregen* beherbergt die neuen deutschen Übersetzungen der Suttas des Palikanon von Anagarika Sabbamitta. Es handelt sich um ein fortlaufendes Übersetzungsprojekt. Lesen Sie, [was bereits übersetzt ist](/Übersetzung/Übersicht), oder gehen Sie [zu den Suttas](/suttas).
 
 ### Unterschiede zu den Webseiten SuttaCentral und Voice.suttacentral.net
-Alle drei Webseiten, [SuttaCentral](https://suttacentral.net), [Voice](https://voice.suttacentral.net) und *Dhammaregen*, nutzen die gleiche [Datenbank für die Suttas](https://github.com/suttacentral/bilara-data) und können daher auf die gleichen Texte zugreifen. Das Sutta [AN 10.61](/suttas?search=an10.61%2Fde) zum Beispiel, „Unwissenheit“, können Sie auf allen drei Webseiten finden. Die Webseiten haben allerdings untershiedliche Ansätze und sind daher für verschiedene Zwecke jeweils mehr geeignet.
+Alle drei Webseiten, [SuttaCentral](https://suttacentral.net), [Voice](https://voice.suttacentral.net) und *Dhammaregen*, nutzen die gleiche [Datenbank für die Suttas](https://github.com/suttacentral/bilara-data) und können daher auf die gleichen Texte zugreifen. Das Sutta [AN 10.61](/suttas?search=an10.61%2Fde) zum Beispiel, „Unwissenheit“, können Sie auf allen drei Webseiten finden. Die Webseiten haben allerdings untershiedliche Ansätze und sind daher für verschiedene Zwecke jeweils besser geeignet.
 
 Hier folgen ein paar Bemerkungen zu den Unterschieden zwischen den Seiten.
 
@@ -38,7 +38,7 @@ Voice.suttacentral.net hat den gleichen reduzierten Ansatz wie *Dhammaregen*. Es
 
 *Dhammaregen* beschreitet ein wenig einen Mittelweg, was die Benutzerfreundlichkeit für lesende und hörende Menschen betrifft. Der helle Webseitenhintergrund wird von gut sehenden Menschen im Vergleich zum schwarzen Hintergrund von Voice meist als freundlicher empfunden und ist gleichzeitig nicht so belastend für die Augen sehbehinderter Menschen wie reines Weiß. Für die Audiofunktion gibt es keinen separaten Suttaplayer wie bei Voice, sondern das Audio wird direkt im Textsegment abgespielt. Damit ist die Auswahl des Textes, der gehört werden soll, viel leichter zu steuern.
 
-Dies sind nur ein paar Punkte, um die drei Webseiten miteinander zu vergleichen. Am besten probieren Sie selbst aus, was Ihnen am meisten zusagt.
+Dies sind nur ein paar Punkte, um die drei Webseiten miteinander zu vergleichen. Am besten probieren Sie selbst aus, was Ihnen zusagt.
 
 ### Dhamma-Essays
 Besuchen Sie auch unsere Ecke mit den [Dhamma-Regentropfen](/wiki/Tropfen). Nehmen Sie einen Essay als Ausgangspunkt für eine Wanderung durch den Sutta-Wald. Wenn Suttas in einem Essay erwähnt sind, ist, sofern es bereits übersetzt ist, ein Link zu dem entsprechenden Sutta angebracht, sodass Sie das Zitat gleich im Kontext lesen und von dort aus auch weitere Expeditionen antreten können. Wenn Sie möchten, nehmen Sie sicherheitshalber einen Schirm zu Ihrer Wanderung mit: Hier kann es, gemäß dem Motto der [Startseite](/wiki/welcome), immer ein bisschen feucht sein. Aber ein paar Dhamma-Regentropfen können schließlich nicht schaden … 😉

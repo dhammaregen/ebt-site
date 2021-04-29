@@ -26,7 +26,7 @@ Das neue *Dhammaregen* ist, ähnlich wie [Voice.suttacentral.net](https://voice.
 ### Unterschiede zu den Webseiten SuttaCentral und Voice.suttacentral.net
 Alle drei Webseiten, [SuttaCentral](https://suttacentral.net), [Voice](https://voice.suttacentral.net) und *Dhammaregen*, nutzen die [gleiche Datenbank](https://github.com/suttacentral/bilara-data) für die Suttas und können daher auf die gleichen Texte zugreifen. Das Sutta [AN 10.61](/suttas?search=an10.61%2Fde) zum Beispiel, „Unwissenheit“, können Sie auf allen drei Webseiten finden. Die Webseiten haben allerdings untershiedliche Ansätze und sind daher für verschiedene Zwecke jeweils besser geeignet.
 
-Hier folgen ein paar Bemerkungen zu den Unterschieden zwischen den Seiten.
+Hier folgen ein paar Bemerkungen zu den Unterschieden zwischen den Webseiten.
 
 Im Unterschied zu *Dhammaregen* ist SuttaCentral wesentlich umfassender. Es hat den Ansatz, alle existierenden frühen buddhistischen Texte möglichst vollständig zu zeigen. Neben den Quelltexten der Palitradition hat es auch solche, die in chinesischer übersetzung oder in anderen Sprachen wie Sanskrit, Tibetisch usw. überliefert wurden. Wer die Parallelen zwischen diesen Texten studieren will, ist auf SuttaCentral bestens aufgehoben. SuttaCentral hat auch Übersetzungen in viele verschiedene moderne Sprachen und ist eine wahrhaft internationale Webseite.
 

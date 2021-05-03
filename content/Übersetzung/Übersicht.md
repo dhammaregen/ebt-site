@@ -32,7 +32,7 @@ Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisier
       <figcaption>Audio: Metta-Sutta saarländisch</figcaption>
       <audio
           controls
-          src="https://dhammaregen.github.io/dhammaregen/audio/mettasutta-sld.ogg">
+          src="/dhammaregen/audio/mettasutta-sld.ogg">
               Ihr Browser untestützt das 
               <code>Audio</code>-Element nicht.
       </audio>

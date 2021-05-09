@@ -32,8 +32,7 @@ Wenn Sie nach einem bestimmten Thema suchen, fangen Sie an, ein Wort, an das Sie
 
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./searchfield.png" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen">
 
-Sie können auch Suttas nach Kennziffer suchen, zum Beispiel „AN 10.61“. Suttas, für die noch keine Übersetzung vorliegt, erscheinen dann als leere Seite oder, wenn Sie die zweisprachige Darstellung gewählt haben, als Palitext ohne Übersetzung.
-
+Sie können auch Suttas nach Kennziffer suchen, zum Beispiel „AN 10.61“. Für Suttas, für die noch keine segmentierte deutsche Übersetzung vorliegt, wird Bhante Sujatos englische Übersetzung gezeigt.
 ### 3. Zu benachbarten Suttas gehen
 
 Am Fuß der Seite kann man zum vorherigen oder nächsten Sutta nach der Ordnung des Kanon springen.

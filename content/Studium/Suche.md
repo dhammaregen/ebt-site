@@ -33,13 +33,16 @@ Wenn Sie nach einem bestimmten Thema suchen, fangen Sie an, ein Wort, an das Sie
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./searchfield.png" alt="Bildschirmfoto von Suchfeld mit Wort Wasser und Suchbegriffen">
 
 Sie können auch Suttas nach Kennziffer suchen, zum Beispiel „AN 10.61“. Für Suttas, für die noch keine segmentierte deutsche Übersetzung vorliegt, wird Bhante Sujatos englische Übersetzung gezeigt.
+
+Suche mit freiem Text ist auf *Dhammaregen* nicht möglich. Wenn ein Suchtext eingegeben wird, für den kein Beispiel-Suchbegriff vorliegt, wird auf SuttaCentral verwiesen.
+
 ### 3. Zu benachbarten Suttas gehen
 
 Am Fuß der Seite kann man zum vorherigen oder nächsten Sutta nach der Ordnung des Kanon springen.
 
 ### 4. Ergebnis-Chronik benutzen
 
-Es ist einfach, in *Dhammaregen* zu Ihrem letzten Sutta zurückzugehen. Sie sehen die Chronik links und rechts oben beim Sutta-Titel. Links ist das Sutta, von dem Sie zuletzt gekommen sind, rechts sehen Sie das Sutta, wo sie von der aktuellen Seite aus schon einmal hingegangen waren.
+Es ist einfach, in *Dhammaregen* zu Ihrem letzten Sutta zurückzugehen. Sie sehen die Chronik links und rechts oben beim Sutta-Titel. Links ist das Sutta, von dem Sie zuletzt gekommen sind, rechts sehen Sie das Sutta, wo Sie von der aktuellen Seite aus schon einmal hingegangen waren.
 
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./memory.png" alt="Bildschirmfoto von Chronik">
 
@@ -53,14 +56,11 @@ Wenn Sie in ein Segment klicken, wird dieses hervorgehoben.
 
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./segment.png" alt="Bildschirmfoto mit einem hervorgehobenen Segment">
 
-Gleichzeitig erscheint die Segment-Kennziffer in der linken unteren Ecke des Bildschirms. Wenn Sie darauf klicken, können Sie von jeder beliebigen Stelle im Text zu dem zuletzt markeirten Segment zurückkommen.
+Gleichzeitig erscheint die Segment-Kennziffer in der linken Ecke der unteren Navigationsleiste. Wenn Sie darauf klicken, können Sie von jeder beliebigen Stelle im Text zu dem zuletzt markeirten Segment zurückkommen.
 
-<!--
-to do
-Auch wenn Sie von einem anderen Sutta wieder zu diesem Text zurückkommen, wird der Browser automatisch zu dem zuletzt markierten Segment scrollen. Dadurch wird es einfach, zum Vergleich in ein anderes Sutta zu schauen und beim Zurückkommen die Stelle wiederzufinden, die Sie zuletzt gelesen haben.
--->
+Auch wenn Sie von einem anderen Sutta wieder zu diesem Text zurückkommen, bleibt das zuletzt angeklickte Segment markiert. Dadurch wird es einfach, zum Vergleich in ein anderes Sutta zu schauen und beim Zurückkommen die Stelle wiederzufinden, die Sie zuletzt gelesen haben.
 
-Rechts unten auf der Seite finden Sie noch Tasten, mit denen Sie zum oberen oder unteren Seitenende gelangen.
+In der rechten Ecke der unteren Navigationsleiste finden Sie noch Tasten, mit denen Sie zum oberen oder unteren Seitenende gelangen.
 
 **Bitte beachten:** Alle Schaltflächen auf der unteren Navigationsleiste haben derzeit nur für den Sutta-Bereich eine Funktion, nicht für den Wiki-Bereich.
 

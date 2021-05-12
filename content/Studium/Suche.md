@@ -36,9 +36,9 @@ Sie können auch Suttas nach Kennziffer suchen, zum Beispiel „AN 10.61“. Fü
 
 Suche mit freiem Text ist auf *Dhammaregen* nicht möglich. Wenn ein Suchtext eingegeben wird, für den kein Beispiel-Suchbegriff vorliegt, wird auf SuttaCentral verwiesen.
 
-### 3. Zu benachbarten Suttas gehen
+### 3. Zu benachbarten Suttas oder zu SuttaCentral gehen
 
-Am Fuß der Seite kann man zum vorherigen oder nächsten Sutta nach der Ordnung des Kanon springen.
+Am Fuß der Seite kann man zum vorherigen oder nächsten Sutta nach der Ordnung des Kanon springen. Der Link in der Mitte am unteren und auch am obern Ende der Seite führt zu dem entsprechenden Sutta auf SuttaCentral.
 
 ### 4. Ergebnis-Chronik benutzen
 

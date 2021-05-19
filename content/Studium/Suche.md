@@ -38,15 +38,19 @@ Suche mit freiem Text ist auf *Dhammaregen* nicht möglich. Wenn ein Suchtext ei
 
 ### 3. Zu benachbarten Suttas oder zu SuttaCentral gehen
 
-Am Fuß der Seite kann man zum vorherigen oder nächsten Sutta nach der Ordnung des Kanon springen. Der Link in der Mitte am unteren und auch am obern Ende der Seite führt zu dem entsprechenden Sutta auf SuttaCentral.
+Am Fuß der Seite kann man zum vorherigen oder nächsten Sutta nach der Ordnung des Kanon springen. In der Mitte befinden sich sowohl am unteren als auch am obern Ende der Seite Links zu dem entsprechenden Sutta auf SuttaCentral.
+
+<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./links.png" alt="Bildschirmfoto von Links am unteren Seitenende">
 
 ### 4. Ergebnis-Chronik benutzen
 
-Es ist einfach, in *Dhammaregen* zu Ihrem letzten Sutta zurückzugehen. Sie sehen die Chronik links und rechts oben beim Sutta-Titel. Links ist das Sutta, von dem Sie zuletzt gekommen sind, rechts sehen Sie das Sutta, wo Sie von der aktuellen Seite aus schon einmal hingegangen waren.
+Es ist einfach, in *Dhammaregen* zu Ihrem letzten Sutta zurückzugehen. Sie sehen die Chronik in der unteren Navigationsleiste. In der Mitte sehen Sie das zuletzt angeklickte Segment Ihres gegenwärtigen Sutta, links ist das Sutta, von dem Sie zuletzt gekommen sind, und rechts sehen Sie das Sutta, wo Sie von der aktuellen Seite aus schon einmal hingegangen waren.
 
-<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./memory.png" alt="Bildschirmfoto von Chronik">
+<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./history1.png" alt="Bildschirmfoto von Chronik">
 
-Die Chronik merkt sich einen längeren Suchverlauf und zeigt immer das jeweils Letzte und Nächste an.
+Die Chronik merkt sich einen längeren Suchverlauf. Wenn Sie mit der Maus über die linken und rechten Chronik-Links gehen, sehen Sie noch weitere Suttas in der Reiehnfolge, in der Sie sie besucht haben.
+
+<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./history2.png" alt="Bildschirmfoto von Chronik">
 
 **Bitte beachten:** Für diese Funktion müssen Cookies aktiviert sein.
 

@@ -60,11 +60,11 @@ Wenn Sie in ein Segment klicken, wird dieses hervorgehoben.
 
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./segment.png" alt="Bildschirmfoto mit einem hervorgehobenen Segment">
 
-Gleichzeitig erscheint die Segment-Kennziffer in der linken Ecke der unteren Navigationsleiste. Wenn Sie darauf klicken, können Sie von jeder beliebigen Stelle im Text zu dem zuletzt markeirten Segment zurückkommen.
+Gleichzeitig erscheint die Segment-Kennziffer in der Mitte der unteren Navigationsleiste (siehe Bildschirmfoto unter „Chronik“). Wenn Sie darauf klicken, können Sie von jeder beliebigen Stelle im Text zu dem zuletzt markeirten Segment zurückkommen.
 
 Auch wenn Sie von einem anderen Sutta wieder zu diesem Text zurückkommen, bleibt das zuletzt angeklickte Segment markiert. Dadurch wird es einfach, zum Vergleich in ein anderes Sutta zu schauen und beim Zurückkommen die Stelle wiederzufinden, die Sie zuletzt gelesen haben.
 
-In der rechten Ecke der unteren Navigationsleiste finden Sie noch Tasten, mit denen Sie zum oberen oder unteren Seitenende gelangen.
+An der rechten Seite der unteren Navigationsleiste finden Sie noch Tasten, mit denen Sie zum oberen oder unteren Seitenende gelangen.
 
 **Bitte beachten:** Alle Schaltflächen auf der unteren Navigationsleiste haben derzeit nur für den Sutta-Bereich eine Funktion, nicht für den Wiki-Bereich.
 

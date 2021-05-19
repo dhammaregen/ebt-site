@@ -6,7 +6,7 @@ img-alt: Kissen mit MP3-Player am Fuß eines Baumes
 order: 2
 ---
 
-Die Bedienelemente für die Audiofunktion finden sich in der unteren Navigationsleiste.
+Die Schaltfläche für die Audiofunktion findet sich links an der unteren Navigationsleiste.
 
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./play.png" alt="Bildschirmfoto des Audio-Bedienelements">
 

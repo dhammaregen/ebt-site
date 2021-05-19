@@ -66,8 +66,6 @@ Auch wenn Sie von einem anderen Sutta wieder zu diesem Text zurückkommen, bleib
 
 An der rechten Seite der unteren Navigationsleiste finden Sie noch Tasten, mit denen Sie zum oberen oder unteren Seitenende gelangen.
 
-**Bitte beachten:** Alle Schaltflächen auf der unteren Navigationsleiste haben derzeit nur für den Sutta-Bereich eine Funktion, nicht für den Wiki-Bereich.
-
 ### 6. Suchbegriffe im Text
 
 Die Beispiel-Suchbegriffe, die *Dhammaregen* verwendet, sind im Text hervorgehoben, wenn sie dort auftreten. So können Sie leicht interessante Begriffe finden, die sich zum Vergleich von verschiedenen Texten untereinander anbieten. Die Begriffe sind mit Links versehen. Wenn Sie darauf klicken, kommen Sie zu einer Ergebnisliste mit allen Suttas, in denen der Begriff vorkommt, wie oben unter „Such mir etwas aus!“ beschrieben.

@@ -52,7 +52,9 @@ Die Chronik merkt sich einen längeren Suchverlauf. Wenn Sie mit der Maus über 
 
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./history2.png" alt="Bildschirmfoto von Chronik">
 
-**Bitte beachten:** Für diese Funktion müssen Cookies aktiviert sein. Wenn Sie Ihre Chronik löschen wollen, schalten Sie die entsprechenden Cookies aus und laden Sie die Seite neu.
+Neben dem bisher beschriebenen „Langzeitgedächtnis“ hat die Chronik auch ein „Kurzzeitgedächtnis“. Jedes neue Sutta, in dem Sie ein Segment anklicken oder anhören, wird mit einer Pin-Nadel versehen. Damit wird seine Position in der Chronik nach vorne gerückt. Das erleichtert es, zwischen Texten hin- und herzuwechseln, die man früher an einer anderen Stelle in der Chronik-Reihenfolge aufgerufen hatte. Die Nadeln bleiben 24 Stunden bestehen.
+
+**Bitte beachten:** Für die Chronik-Funktion müssen Cookies aktiviert sein. Wenn Sie Ihre Chronik löschen wollen, schalten Sie die entsprechenden Cookies aus und laden Sie die Seite neu.
 
 ### 5. Einzelne Segmente ansteuern
 

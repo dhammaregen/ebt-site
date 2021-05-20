@@ -34,7 +34,7 @@ Wenn Sie nach einem bestimmten Thema suchen, fangen Sie an, ein Wort, an das Sie
 
 Sie können auch Suttas nach Kennziffer suchen, zum Beispiel „AN 10.61“. Für Suttas, für die noch keine segmentierte deutsche Übersetzung vorliegt, wird Bhante Sujatos englische Übersetzung gezeigt.
 
-Suche mit freiem Text ist auf *Dhammaregen* nicht möglich. Wenn ein Suchtext eingegeben wird, für den kein Beispiel-Suchbegriff vorliegt, wird auf SuttaCentral verwiesen.
+Suche mit freiem Text ist auf *Dhammaregen* nicht möglich. Wenn ein Suchtext eingegeben wird, für den kein Beispiel-Suchbegriff vorliegt, wird auf Voice.suttacentral.net verwiesen.
 
 ### 3. Zu benachbarten Suttas oder zu SuttaCentral gehen
 
@@ -52,7 +52,7 @@ Die Chronik merkt sich einen längeren Suchverlauf. Wenn Sie mit der Maus über 
 
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./history2.png" alt="Bildschirmfoto von Chronik">
 
-**Bitte beachten:** Für diese Funktion müssen Cookies aktiviert sein.
+**Bitte beachten:** Für diese Funktion müssen Cookies aktiviert sein. Wenn Sie Ihre Chronik löschen wollen, schalten Sie die entsprechenden Cookies aus und laden Sie die Seite neu.
 
 ### 5. Einzelne Segmente ansteuern
 

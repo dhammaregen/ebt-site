@@ -38,7 +38,7 @@ Suche mit freiem Text ist auf *Dhammaregen* nicht möglich. Wenn ein Suchtext ei
 
 ### 3. Zu benachbarten Suttas oder zu SuttaCentral gehen
 
-Am Fuß der Seite kann man zum vorherigen oder nächsten Sutta nach der Ordnung des Kanon springen. In der Mitte befinden sich sowohl am unteren als auch am obern Ende der Seite Links zu dem entsprechenden Sutta auf SuttaCentral.
+Am Fuß der Seite kann man zum vorherigen oder nächsten Sutta nach der Ordnung des Kanon springen. In der Mitte befindet sich ein Link zu dem entsprechenden Sutta auf SuttaCentral.
 
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./links.png" alt="Bildschirmfoto von Links am unteren Seitenende">
 
@@ -72,6 +72,6 @@ An der rechten Seite der unteren Navigationsleiste finden Sie noch Tasten, mit d
 
 Die Beispiel-Suchbegriffe, die *Dhammaregen* verwendet, sind im Text hervorgehoben, wenn sie dort auftreten. So können Sie leicht interessante Begriffe finden, die sich zum Vergleich von verschiedenen Texten untereinander anbieten. Die Begriffe sind mit Links versehen. Wenn Sie darauf klicken, kommen Sie zu einer Ergebnisliste mit allen Suttas, in denen der Begriff vorkommt, wie oben unter „Such mir etwas aus!“ beschrieben.
 
-Manchmal genügt es, sich kurz ein Bild zu machen über andere Vorkommen des Begriffs, und mit der Segmenttaste links unten kommen Sie schnell wieder zu der Stelle, an der Sie zuletzt waren. Manchmal möchten Sie vielleicht ein anderes Sutta etwas genauer anschauen. Auch dann können Sie mit Hilfe der Chronik leicht wieder zu Ihrem ursprünglichen Text zurückfinden.
+Manchmal genügt es, sich kurz ein Bild zu machen über andere Vorkommen des Begriffs, und mit der Segmenttaste in der unteren Navigationsleiste kommen Sie schnell wieder zu der Stelle, an der Sie zuletzt waren. Manchmal möchten Sie vielleicht ein anderes Sutta etwas genauer anschauen. Auch dann können Sie mit Hilfe der Chronik leicht wieder zu Ihrem ursprünglichen Text zurückfinden.
 
 So können Sie mit *Dhammaregen* durch die Suttas fliegen! 🐦

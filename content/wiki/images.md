@@ -5,7 +5,7 @@ img: benjamin-balazs-xtiGzOiJe1Q-unsplash.png
 img-alt: Kamera mit einem Buddha im Display 
 slugDir: images
 category: Hintergrundinformationen
-order: 9999
+order: 9998
 ---
 
 ### Bilder: Inhalt

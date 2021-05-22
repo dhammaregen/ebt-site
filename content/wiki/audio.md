@@ -1,11 +1,13 @@
 ---
 title: Audio
-description: Audio sources
+description: Audioquellen
 img: pexels-magicbowls-3543916.png
 img-alt: Generic image for sounds 
-category: 2. Wiki Administration
+category: Hintergrundinformationen
 order: 9999
 ---
+
+Gongtöne, die am Ende eines Sutta abgespielt werden können.
 
 ### [383542__alixgaus__turn-page.mp3](https://www.pexels.com/photo/woman-holding-a-wooden-stick-and-a-bowl-3543916/)
 <audio controls src="/audio/383542__alixgaus__turn-page.mp3"></audio>

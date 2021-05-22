@@ -15,6 +15,6 @@ Hinter dem kleinen Zahnrädchen rechts oben verbergen sich verschiedene Einstell
 - Unter „Suchergebnisse“ können Sie wählen, wieviele Suchergebnisse Sie maximal sehen wollen. Die Voreinstellung ist 5; wenn Sie mehr sehen möchten, klicken Sie darauf und ändern Sie die Einstellung.
 - Unter „Audio“ können Sie zwischen verschiedenen Audioformaten zum Herunterladen von Sutta-Audios wählen. Klicken Sie auf die Voreistellung, um mehr Optionen zu sehen.
   
-  Sie können auch einen Gongton auswählen, mit dem Sie Ihre Suttas hören möchten. Klicken Sie auf die Voreistellung, um mehr Optionen zu sehen.
+  Sie können auch einen Gongton auswählen, der am Ende eines Sutta abgespielt wird. Klicken Sie auf die Voreistellung, um mehr Optionen zu sehen.
 
-  **Bemerkung:** Die Funktion zum Herunterladen ist bisher noch nicht aktiv, auch die anderen Audiofunktionen sind noch nicht im vollen Umfang verfügbar.
+  **Bemerkung:** Die Funktion zum Herunterladen ist bisher noch nicht aktiv.

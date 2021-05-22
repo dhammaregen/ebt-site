@@ -4,7 +4,7 @@ description: How to use EBT-Site
 img: wheel.png
 img-alt: Generic image for study 
 slugDir: study
-category: 2. Sutta study
+category:
 order: 9999
 ---
 ### Getting to know the Suttas

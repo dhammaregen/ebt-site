@@ -4,7 +4,7 @@ description: (Add channel1 description)
 img: pexels-s-migaj-747964.png
 img-alt: Image of meditation in solitude
 slugDir: channel1
-category: 2. Sutta study
+category:
 order: 9999.1
 ---
 ### Welcome to channel1!

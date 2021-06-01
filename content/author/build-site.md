@@ -48,7 +48,7 @@ Let's make it.
 1. Click <kbd>Settings</kbd>
 1. Click on *Pages* in the left bar
 1. Select the *Source* of your Github page to be the `gh-pages` branch.
-1. Click <kbd>Save</kbd>
+1. Click <kbd>Save</kbd> if necessary (it may already be saved).
 
 It takes a while to build an EBT site. 
 Eventually you will see a green box:
@@ -66,6 +66,33 @@ To enable content updates, we need to enable the _schedule-actions_ workflow.
 1. Select the <kbd>Actions</kbd> tab
 1. Click <kbd>schedule-actions</kbd>
 1. Click <kbd>Enable workflow</kbd>
+
+### Step 6. Changing time for schedule-actions
+Code and content updates are handled by the `.github/workflow/schedule-actions.yml` file.
+
+<pre>
+name: schedule-actions
+on: 
+  schedule:
+    - cron: 20 4,12,20 * * *
+jobs:
+  build-job:
+    ...
+</pre>
+
+To change the update schedule, edit the following line:
+
+<pre>
+cron: 20 4,12,20 * * *
+</pre>
+
+It is recommendable to set your time slightly *after* the time of the mother site, like
+
+<pre>
+cron: 40 4,12,20 * * *
+</pre>
+
+See [crontab.guru](https://crontab.guru/) for help 
 
 ### Next Steps
 Congratulations! You now have your own EBT website.

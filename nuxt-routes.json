@@ -101,10 +101,6 @@
 	"images/newpath",
 	"_content/newdress",
 	"images/newdress",
-	"_content/mn1-pin",
-	"images/mn1-pin",
-	"_content/mn1-5-sariputta",
-	"images/mn1-5-sariputta",
 	"_content/listen",
 	"images/listen",
 	"_content/links",
@@ -174,5 +170,7 @@
 	"_content/Hören",
 	"Studium/Hören",
 	"_content/Einstellungen",
-	"Studium/Einstellungen"
+	"Studium/Einstellungen",
+	"_content/Chronik",
+	"Studium/Chronik"
 ]

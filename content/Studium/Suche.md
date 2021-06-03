@@ -42,9 +42,9 @@ Am Fuß der Seite kann man zum vorherigen oder nächsten Sutta nach der Ordnung 
 
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./links.png" alt="Bildschirmfoto von Links am unteren Seitenende">
 
-### 4. Ergebnis-Chronik benutzen
+### 4. Suchchronik benutzen
 
-Es ist einfach, in *Dhammaregen* zu Ihrem letzten Sutta zurückzugehen. Sie sehen die Chronik in der unteren Navigationsleiste. In der Mitte sehen Sie das zuletzt angeklickte Segment Ihres gegenwärtigen Sutta, links ist das Sutta, von dem Sie zuletzt gekommen sind, und rechts sehen Sie das Sutta, wo Sie von der aktuellen Seite aus schon einmal hingegangen waren.
+Es ist einfach, in *Dhammaregen* zu Ihrem letzten Sutta zurückzugehen. Sie sehen die Chronik in der unteren Navigationsleiste. Die Suttas sind in der Reihenfolge ihres ersten Aufrufs von links nach rechts angeordnet. In der Mitte sehen Sie das Sutta, das Sie gegenwärtig geöffnet haben, mit dem zuletzt angeklickten Segment.
 
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./history1.png" alt="Bildschirmfoto von Chronik">
 
@@ -52,7 +52,7 @@ Die Chronik merkt sich einen längeren Suchverlauf. Wenn Sie mit der Maus über 
 
 <img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./history2.png" alt="Bildschirmfoto von Chronik">
 
-Neben dem bisher beschriebenen „Langzeitgedächtnis“ hat die Chronik auch ein „Kurzzeitgedächtnis“. Jedes neue Sutta, in dem Sie ein Segment anklicken oder anhören, wird mit einer Pin-Nadel versehen. Damit wird seine Position in der Chronik nach vorne gerückt. Das erleichtert es, zwischen Texten hin- und herzuwechseln, die man früher an einer anderen Stelle in der Chronik-Reihenfolge aufgerufen hatte. Die Nadeln bleiben 24 Stunden bestehen.
+Für eine ausführlichere Beschreibung der Chronik-Funktion siehe [hier](/Studium/Chronik).
 
 **Bitte beachten:** Für die Chronik-Funktion müssen Cookies aktiviert sein. Wenn Sie Ihre Chronik löschen wollen, schalten Sie die entsprechenden Cookies aus und laden Sie die Seite neu.
 

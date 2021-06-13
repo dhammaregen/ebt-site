@@ -6,9 +6,7 @@ img-alt: Zwei Papageien, die sich mit den Schnäbeln liebkosen
 order: 0
 ---
 
-Auf der Grundlage eines Vortrags vom Freitag, den 8. Mai 2015 im buddhistischen Zentrum Dhammaloka, Perth, Australien.
-
-Überarbeitete Auflage
+Auf der Grundlage eines Vortrags vom Freitag, den 8. Mai 2015 im buddhistischen Zentrum Dhammaloka, Perth, Australien. Überarbeitete Auflage. 
 
 Lektorat für die deutsche Übersetzung: Bhikkhu Bodhidhaja
 

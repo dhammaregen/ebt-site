@@ -10,7 +10,7 @@ Auf der Grundlage eines Vortrags vom Freitag, den 8. Mai 2015 im buddhistischen 
 
 Lektorat für die deutsche Übersetzung: Bhikkhu Bodhidhaja
 
-Originaltitel: *Why Samatha and Vipassanā are Inseparable*
+Originaltitel: *Why Samatha and Vipassanā are Inseparable*. Zum [Originaltext](https://bswa.org/teaching/samatha-vipassana-inseparable/) (PDF zum Herunterladen, 88 kB).
 
 Copyright: Ajahn Brahmali
 

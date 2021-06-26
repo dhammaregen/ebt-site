@@ -10,7 +10,7 @@ order: 1
 > *„Es ist, wie wenn es auf einem Berggipfel stark regnet, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie das Meer.*
 > 
 > *Ebenso füllt der Faktor des Umgangs mit guten Menschen, wenn er voll wird, den Faktor auf, der wahren Lehre zuzuhören. Wenn der Faktor, der wahren Lehre zuzuhören, voll wird, füllt er … Wissen und Freiheit auf.“*
-<div style="text-align: right;">Zum Sutta <a href="/suttas?search=an10.61%2Fde">AN 10.61</a></div>
+<div style="text-align: right;">Zum Sutta <a href="/suttas#an10.61/de/sabbamitta:8.1">AN 10.61</a></div>
 
 ### Was Sie auf *Dhammaregen* finden
 

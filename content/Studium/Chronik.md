@@ -14,7 +14,7 @@ Erinnerung verblasst mit der Zeit.
 
 Wir geben uns viel Mühe, um Suttas zu lernen und uns daran zu erinnern. Doch es bleibt nicht aus, dass diese hart erarbeiteten Erinnerungen verblassen. Nach und nach vergessen wir die Worte. Was früher klar war, wird verschwommen, bevor es schließlich ganz verschwindet. Und nach einer Weile fragen wir uns: „Was war nochmal dieses Sutta?“
 
-> [AN 5.14:4.2](suttas?search=an5.14): Da ist ein edler Schüler achtsam. Er besitzt äußerste Achtsamkeit und Wachheit, und **an Dinge, die vor langer Zeit getan oder gesagt wurden, kann er sich erinnern und sie sich ins Gedächtnis rufen**.
+> [AN 5.14:4.2](suttas#an5.14/de/sabbamitta:4.2): Da ist ein edler Schüler achtsam. Er besitzt äußerste Achtsamkeit und Wachheit, und an Dinge, die <span class="ebt-matched">vor langer Zeit getan oder gesagt</span> wurden, kann er sich erinnern und sie sich ins Gedächtnis rufen.
 
 Erinnerung ist wesentlich für die Achtsamkeit.
 
@@ -29,7 +29,7 @@ Die, die ein schlechtes Gedächtnis haben, wollen vielleicht lieber hören.
 Die, die ein tiefes Verständnis haben, erinnern sich vielleicht über ein eingehendes Prüfen. 
 Und denen, die gut abstrahieren können, hilft vielleicht das gedankliche Erfassen beim Erinnern.
 
-> [AN4.191:1.1](suttas?search=an4.191): „Mönche und Nonnen, man kann vier vorteilhafte Folgen erwarten, wenn man den Lehren mit dem Ohr gefolgt ist, sie durch Aufsagen gefestigt hat, sie mit dem Geist geprüft und gedanklich erfasst hat.“
+> [AN4.191:1.1](suttas#an4.191/de/sabbamitta:1.1): „Mönche und Nonnen, man kann vier vorteilhafte Folgen erwarten, wenn man den Lehren <span class="ebt-matched">mit dem Ohr gefolgt</span> ist, sie durch Aufsagen gefestigt hat, sie mit dem Geist geprüft und gedanklich erfasst hat.“
 
 Aber es gibt über 4000 Suttas im MN, SN, DN, AN und KN. 
 Wie können wir sie alle regelmäßig aufsagen?

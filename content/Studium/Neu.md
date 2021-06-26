@@ -24,7 +24,7 @@ Das neue *Dhammaregen* ist, ähnlich wie [Voice.suttacentral.net](https://voice.
 *Dhammaregen* beherbergt die neuen deutschen Übersetzungen der Suttas des Palikanon von Anagarika Sabbamitta. Es handelt sich um ein fortlaufendes Übersetzungsprojekt. Lesen Sie, [was bereits übersetzt ist](/Übersetzung/Übersicht), oder gehen Sie [zu den Suttas](/suttas).
 
 ### Unterschiede zu den Webseiten SuttaCentral und Voice.suttacentral.net
-Alle drei Webseiten, [SuttaCentral](https://suttacentral.net), [Voice](https://voice.suttacentral.net) und *Dhammaregen*, nutzen die [gleiche Datenbank](https://github.com/suttacentral/bilara-data) für die Suttas und können daher auf die gleichen Texte zugreifen. Das Sutta [AN 10.61](/suttas?search=an10.61%2Fde) zum Beispiel, „Unwissenheit“, können Sie auf allen drei Webseiten finden. Die Webseiten haben allerdings unterschiedliche Ansätze und sind daher für verschiedene Zwecke jeweils besser geeignet.
+Alle drei Webseiten, [SuttaCentral](https://suttacentral.net), [Voice](https://voice.suttacentral.net) und *Dhammaregen*, nutzen die [gleiche Datenbank](https://github.com/suttacentral/bilara-data) für die Suttas und können daher auf die gleichen Texte zugreifen. Das Sutta [AN 10.61](/suttas#an10.61/de/sabbamitta:0.1) zum Beispiel, „Unwissenheit“, können Sie auf allen drei Webseiten finden. Die Webseiten haben allerdings unterschiedliche Ansätze und sind daher für verschiedene Zwecke jeweils besser geeignet.
 
 Hier folgen ein paar Bemerkungen zu den Unterschieden zwischen den Webseiten.
 

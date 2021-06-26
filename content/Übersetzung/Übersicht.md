@@ -25,7 +25,7 @@ Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisier
 [Weshalb brauchen wir neue deutsche Sutta-Übersetzungen?](/Übersetzung/Weshalb) – Überlegungen von Anagarika Sabbamitta
 
 ### Andere deutsche Übersetzungen von Anagarika Sabbamitta auf SuttaCentral
-- Die Rede über den Kuhhirten aus dem chinesischen Saṁyuktāgama, [SA 1249](https://suttacentral.net/sa1249/de/sabbamitta), eine Parallele zu [MN 33](/suttas?search=mn33%2Fde) (Die Übersetzung wurde auf der Grundlage [von Bhikkhu Anālayos englischer Übersetzung](https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/exemplary-qualities1.pdf) erstellt.)
+- Die Rede über den Kuhhirten aus dem chinesischen Saṁyuktāgama, [SA 1249](https://suttacentral.net/sa1249/de/sabbamitta), eine Parallele zu [MN 33](/suttas#mn33/de/sabbamitta:0.1) (Die Übersetzung wurde auf der Grundlage [von Bhikkhu Anālayos englischer Übersetzung](https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/exemplary-qualities1.pdf) erstellt.)
 - Saarländisch: Es Metta-Sutta in [Snp 1.8](https://suttacentral.net/snp1.8/sld/sabbamitta) und [Kp 9](https://suttacentral.net/kp9/sld/sabbamitta) (Die Übersetzung wurde auf der Grundlage [der englischen Übersetzung des Amaravati-Sangha](https://suttacentral.net/kp9/en/amaravati) erstellt.)  
 
   <figure>

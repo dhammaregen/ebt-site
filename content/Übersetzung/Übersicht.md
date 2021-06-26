@@ -47,3 +47,5 @@ von Anagarika Sabbamitta
 - Des weiteren gilt mein Dank allen, die dieses Projekt wohlwollend begleiten, die ich hier nicht im Einzelnen nennen kann.
 
 Meine Übersetzung ist all denen gewidmet, die einen Ausweg aus dem Leiden suchen, insbesondere aber meinen Eltern.
+
+<!-- insbesondere aber meinen Eltern; und einem Baby, das knapp sieben Schwangerschaftsmonate bei mir war und dann einen anderen Weg gehen musste. -->

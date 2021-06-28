@@ -14,7 +14,6 @@ Auf SuttaCentral gibt es auch verschiedene Essays, die in die frühen buddhistis
 
 Mehr Infos zu SuttaCentral in deutscher Sprache finden Sie [hier](https://dhammaregen.github.io/voice/de/300-intro-sc).
 
-Bitte [unterstützen Sie SuttaCentral](https://suttacentral.net/donations)
-bei seinen Bemühungen, die Worte des Buddha allen Menschen auf der Welt zugänglich zu machen.
+Sie können SuttaCentral bei seinen Bemühungen, die Worte des Buddha allen Menschen auf der Welt zugänglich zu machen, [unterstützen](https://suttacentral.net/donations).
 
 

@@ -20,7 +20,7 @@ Klick auf die Textzeile mit dem Pfeil im Ergebnisfeld zeigt die Suttas an, in de
 
 Klick auf eins der angezeigten Suttas zeigt den Suchbegriff im Kontext seines Textsegmentes:
 
-<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./result-segment.png" alt="Bildschirmfoto eines Ergebnissegments">
+<img src="./result-segment.png" class="ebt-image" alt="Bildschirmfoto eines Ergebnissegments">
 
 Bereits auf dieser Ebene können Sie vergleichen, ob ein bestimmter Begriff immer im gleichen Zusammenhang vorkommt oder nicht.
 

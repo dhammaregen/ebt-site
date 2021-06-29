@@ -4,7 +4,7 @@ description: Gedächtnis und Erinnerung
 img: timothy-eberly-4NnHD9qRE2M-unsplash.png
 img-alt: Aufgeschlagenes Buch
 category: Hintergrundinformationen
-order: 3
+order: 4
 ---
 
 [Originalartikel](https://ebt-site.github.io/ebt-site/study/history) von Karl Lew

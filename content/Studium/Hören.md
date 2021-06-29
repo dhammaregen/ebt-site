@@ -8,7 +8,7 @@ order: 2
 
 Die Schaltfläche für die Audiofunktion 🗣️ findet sich links an der unteren Navigationsleiste.
 
-<img style="border:1pt solid #cccccc; border-radius: 0.5em;" src="./play.png" alt="Bildschirmfoto des Audio-Bedienelements">
+<img src="./play.png" class="ebt-image" alt="Bildschirmfoto des Audio-Bedienelements">
 
 **Schrittweise Wiedergabe:**
 Wenn Sie ein Textsegment anklicken, kann dieses mit der Audio-Schaltfläche abgespielt werden. Am Ende des Segments springt der Cursor zum nächsten Segment. Klicken Sie erneut die Audio-Schaltfläche oder drücken Sie die Leertaste, um die Wiedergabe fortzusetzen.

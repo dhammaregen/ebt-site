@@ -1,8 +1,8 @@
 ---
 title: Sutta-Zitate
 description: Den Dhamma mit anderen teilen
-img: pixabay-notepad-1558811_640.png
-img-alt: Leerer Schreibblock mit Stift
+img: quote.png
+img-alt: Papierrolle mit Aufschrift "Sutta-Zitat der Woche" hängt vom Baum
 order: 3
 ---
 

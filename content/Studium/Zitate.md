@@ -2,7 +2,7 @@
 title: Sutta-Zitate
 description: Den Dhamma mit anderen teilen
 img: quote.png
-img-alt: Papierrolle mit Aufschrift "Sutta-Zitat der Woche" hängt vom Baum
+img-alt: Papierrolle mit Aufschrift „Sutta-Zitat der Woche“ hängt vom Baum
 order: 3
 ---
 

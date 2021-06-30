@@ -16,7 +16,7 @@ Ganz oben neben der Suttakennziffer, wo sich auch die Pin-Nadel befindet, sehen 
 
 Wenn Sie mit der Maus darüberfahren, sehen Sie die dazugehörige Internet-Adresse:
 
-`https://dhammaregen.github.io/dhammaregen/suttas?search=an6.19`
+`https://dhammaregen.github.io/dhammaregen/suttas#an6.19`
 
 Beim Klicken auf das Symbol wird diese in die Zwischenablage kopiert, und Sie können sie in Ihre Email oder in Ihren Post auf dem Diskussionsforum einfügen.
 

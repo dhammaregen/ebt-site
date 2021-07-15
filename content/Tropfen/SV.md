@@ -158,7 +158,7 @@ Ich möchte ein Paar Beispiele geben für hilfreiche Betrachtungen oder Meditati
 
 #### Betrachtung des Alters
 
-Die erste Betrachtung, die der Buddha empfiehlt, ist die Betrachtung des Alters, die Besinnung darauf, dass wir alle in diese Richtung gehen. Wenn du dich selbst als jung ansiehst, denk daran, dass die Kehrseite der Jugend das Alter ist. Bereits das Wort „Jungend“ schließt das Alter mit ein; Jugend gibt es nur im Verhältnis zum Alter. Sie sind zwei Seiten derselben Medaille. Wenn du dich daran erinnerst, weißt du, dass das Alter ein Teil von dir ist. Die Saat für das Alter wurde gesät, und du wirst die Früchte davon ernten.
+Die erste Betrachtung, die der Buddha empfiehlt, ist die Betrachtung des Alters, die Besinnung darauf, dass wir alle in diese Richtung gehen. Wenn du dich selbst als jung ansiehst, denk daran, dass die Kehrseite der Jugend das Alter ist. Bereits das Wort „Jugend“ schließt das Alter mit ein; Jugend gibt es nur im Verhältnis zum Alter. Sie sind zwei Seiten derselben Medaille. Wenn du dich daran erinnerst, weißt du, dass das Alter ein Teil von dir ist. Die Saat für das Alter wurde gesät, und du wirst die Früchte davon ernten.
 
 Wir denken vielleicht, das sei offensichtlich, aber sehr oft vergessen wir es. Weil wir es vergessen, setzen wir die falschen Prioritäten: Wir tun im Leben Dinge, die entweder zu nichts führen oder von denen wir später wünschen, wir hätten sie nicht getan. Einfach über das Alter nachzudenken hilft, Unsinn aus unserem Geist zu entfernen, und wir nutzen unsere begrenzte Zeit für lohnendere Dinge.
 

@@ -11,6 +11,6 @@ order: 5
 Einige Funktionen von *Dhammaregen* können mithilfe der Tastatur gesteuert werden. Das ist unter anderem für sehbehinderte Menschen hilfreich.
 - `LEERTASTE`: Wiedergabe des Segments, in dem sich der Cursor befindet / Wiedergabe pausieren; zweimal drücken, um die kontinuierliche Wiedergabe zu starten
 
-- <kbd>ENTER</kbd> : Kontinuierliche Wiedergabe ab dem Segment, in dem sich der Cursor befindet
-- <kbd>PFEIL NACH OBEN</kbd> : Vorheriges Segment auswählen
-- <kbd>PFEIL NACH UNTEN</kbd> : Nächstes Segment auswählen
+- `ENTER`: Kontinuierliche Wiedergabe ab dem Segment, in dem sich der Cursor befindet
+- `PFEIL NACH OBEN`: Vorheriges Segment auswählen
+- `PFEIL NACH UNTEN`: Nächstes Segment auswählen

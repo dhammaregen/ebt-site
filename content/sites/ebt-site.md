@@ -2,8 +2,8 @@
 title: EBT-Site
 description: Eine eigene Webseite mit frühen buddhistischen Texten erstellen
 link: https://ebt-site.github.io/ebt-site
-img: amanda-flavell-9XSLoMlVhYU-unsplash.png
-img-alt: Bild der Webseite EBT-Site (Logo mit Buddha)
+img: pexels-philippe-donn-1133957.png
+img-alt: Bild der Webseite EBT-Site (Kolibri, der auf große Blüte zufliegt)
 order: 4
 ---
 

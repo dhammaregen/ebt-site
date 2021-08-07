@@ -59,11 +59,11 @@ Wenn Sariputta *Dhammaregen* für sein Studium von AN 3.70 – AN 3.74 benutzen 
 
 <img src="an3.70-74.png" class="ebt-image"/>
 
-Die *Dhammaregen*-Chronik markiert die Suttas, die Sie studieren, zum Zeitpunkt ihres ersten Aufrufs mit einem Zeitstempel. Aufgerufene Suttas werden von links nach rechts angeordnet, wobei die zuletzt aufgerufenen rechts der älteren Suttas zu sehen sind. So hilft die *Dhammaregen*-Chronik, festzulegen, welche Suttas bei der Wiederholung in Abständen an der Reihe sind. Sariputta wird einfach die weiter rechts stehenden Texte intensiver studieren als die weiter links stehenden.
+Die *Dhammaregen*-Chronik markiert die Suttas mit einem Zeitstempel. Aufgerufene Suttas werden von links nach rechts angeordnet, wobei die zuletzt aufgerufenen rechts der früher aufgerufenen Suttas zu sehen sind, da sie jüngere Zeitstempel haben. So hilft die *Dhammaregen*-Chronik, festzulegen, welche Suttas bei der Wiederholung in Abständen an der Reihe sind. So kann Sariputta leicht die bekannteren Suttas finden, indem er links nach den älteren Suttas schaut.
 
 … und nach einer Weile …
 
-Nach einer Weile stellt Sariputta fest, dass AN 3.70 ziemlich lang und viel komplexer als die anderen ist und ein intensiveres und häufigeres Studium verdient. Was kann Sariputta tun, um AN 3.70 rechts von AN 3.74 anzuordnen?
+Nach einer Weile stellt Sariputta fest, dass AN 3.70 ziemlich lang und viel komplexer als die anderen ist und ein intensiveres und häufigeres Studium verdient. AN 3.70 erscheint als fünftes in der Reihe, aber Sariputta hätte es gerne auf dem ersten Platz. Was kann Sariputta tun, um AN 3.70 rechts von AN 3.74 anzuordnen?
 
 ### Ein Sutta festpinnen
 

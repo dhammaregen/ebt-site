@@ -40,6 +40,6 @@ Copyright: Für die Software dieser Webseite gilt die [MIT-Lizenz](https://githu
 
 *Dhammaregen* erhebt und speichert keine personenbezogenen Daten. Auf Wunsch können Sie in den Einstellungen Cookies aktivieren, mit denen Ihre Einstellungen und die Chronik Ihres Sutta-Suchverlaufs in Ihrem Browser gespeichert werden. 
 
-[Impressum und ausführliche Datenschuterklärung](/wiki/Impressum)
+[Impressum und ausführliche Datenschutzerklärung](/wiki/Impressum)
 
 

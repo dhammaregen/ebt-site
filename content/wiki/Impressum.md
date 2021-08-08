@@ -54,7 +54,7 @@ GitHub Inc.
 San Francisco, CA 94107  
 United States
 
-Dieser ist Empfänger der personenbezogenen Daten der Webseitenbesucherin. Dies entspricht dem berechtigten Interesse der Webseitenbetreiberin im Sinne des Art. 6 Abs. 1 Buchst. f DSGVO, selbst keinen Server vorhalten zu müssen. Serverstandort sind die USA.
+Dieser ist Empfänger der personenbezogenen Daten der Besucherin der Webseite. Dies entspricht dem berechtigten Interesse der Webseitenbetreiberin im Sinne des Art. 6 Abs. 1 Buchst. f DSGVO, selbst keinen eigenen Server vorhalten zu müssen. Serverstandort sind die USA.
 
 Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie unter: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages
 

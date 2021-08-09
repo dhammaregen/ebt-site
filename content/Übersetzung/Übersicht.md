@@ -44,6 +44,7 @@ von Anagarika Sabbamitta
 - Als nächstes möchte ich Bhante Sujato danken, der die englische Übersetzung angefertigt hat, auf die ich mich bei meinem Projekt stütze. Seine Recherchen und Überlegungen zu schwierigen Passagen hat er in [zahlreichen Aufsätzen](https://discourse.suttacentral.net/t/bhante-sujato-s-translation-essays/8867) festgehalten, die nicht nur hilfreich, sondern oft auch sehr unterhaltsam zu lesen sind. Zusammen mit dem Team von [SuttaCentral](https://dhammaregen.github.io/voice/de/301-wurdigung-sc) unterstützt er auf seiner englischen Version aufbauende Übersetzungen in andere Sprachen, die dann dort der Öffentlichkeit zugänglich gemacht werden. Sadhu, Sadhu, Sadhu!
 - Eine weitere unschätzbare Hilfe ist die Übersetzungs-Software [Bilara](https://bilara.suttacentral.net), die von Blake Walsh entwickelt wurde und wird.
 - Für Rückmeldungen zu meiner Übersetzung und Korrekturlesen danke ich Sabrina Reininger und Wolfgang Neufing.
+- Für kundige Führung durch den Dschungel der deutschen und europäischen Datenschutzgesetze bei der Erstellung dieser Webseite danke ich Klaus Wollsieffer.
 - Des weiteren gilt mein Dank allen, die dieses Projekt wohlwollend begleiten, die ich hier nicht im Einzelnen nennen kann.
 
 Meine Übersetzung ist all denen gewidmet, die einen Ausweg aus dem Leiden suchen, insbesondere aber meinen Eltern.

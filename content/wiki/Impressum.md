@@ -15,8 +15,8 @@ Geschäftliche oder kommerzielle Interessen werden nicht verfolgt, auch soll nic
 
 Kontakt:  
 Maria Backes  
-St. Ingberter Str. 34 b  
-66583 Spiesen-Elversberg  
+c/o Gerhart-Hauptmann-Straße 25  
+66386 St. Ingbert  
 Deutschland  
 [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com)
 
@@ -30,8 +30,8 @@ Diese Webseite legt Wert auf den Schutz der persönlichen Daten ihrer Besucherin
 
 Für die Datenverarbeitung auf dieser Webseite verantwortlich ist:  
 Maria Backes  
-St. Ingberter Str. 34 b  
-66583 Spiesen-Elversberg  
+c/o Gerhart-Hauptmann-Straße 25  
+66386 St. Ingbert  
 Deutschland  
 [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com)
 
@@ -45,8 +45,8 @@ Der Hoster dieser Webseite erhebt in sogenannten Logfiles folgende Daten, die ih
 IP-Adresse, die Adresse der vorher besuchten Webseite (Referer Anfrage-Header), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich-Mean-Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Webseite, von der die Anforderung kommt, und Informationen zu Browser und Betriebssystem.
 
 Das ist erforderlich, um diese Webseite anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht dem berechtigten Interesse der Webseitenbetreiberin im Sinne des Art. 6 Abs. 1 Buchst. f DSGVO.
-Es erfolgt kein Tracking, und von Seiten der Webseitenbetreiberin besteht kein Zugriff auf die erhobenen Daten.
 
+Es erfolgt kein Tracking, und von Seiten der Webseitenbetreiberin besteht kein direkter Zugriff auf die erhobenen Daten, sondern lediglich auf eine anonymisierte, statistische Zusammenfassung. Diese beinhaltet die Adresse der vorher besuchten Seite, die Häufigkeit der jeweils aufgerufenen Seiten und die Anzahl eindeutiger Besucher. Diese Daten werden nicht mit anderen Daten zusammengeführt.
 
 Die Webseite wird mit folgendem Hoster zur Verfügung gestellt:  
 GitHub Inc.  
@@ -71,6 +71,16 @@ Es soll in diesem Zusammenhang darauf hingewiesen werden, dass mit dem Einsatz g
 #### Cookies
 
 Diese Webseite verwendet in den Grundeinstellungen keine Cookies. Wenn Sie es wünschen, können Sie in den Einstellungen dieser Seite Cookies aktivieren, um die Benutzerfreundlichkeit zu erhöhen. Zu einem anderen als dem genannten Zweck werden Cookies auf dieser Webseite nicht verwendet. Sie können die betreffende Einstellung jederzeit ändern.
+
+#### YouTube-Videos
+
+Auf manchen Seiten dieser Webseite sind YouTube-Videos eingebettet. Bei YouTube handelt es sich um ein Videoportal der YouTube LLC., 901 Cherry Ave., 94066 San Bruno, CA, USA. YouTube ist ein Tochterunternehmen der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland.
+
+Diese Webseite nutzt YouTube mit der Funktion „Erweiterter Datenschutzmodus“, um Ihnen Videos anzuzeigen. Rechtsgrundlage ist Art. 6 Abs. 1 Buchst. f DSGVO. Das berechtigte Interesse liegt in der Verbesserung der Qualität des Internetauftritts durch die einfache Bereitstellung von Videos. Nach den Angaben von YouTube werden durch die Funktion „Erweiterter Datenschutzmodus“ die im folgenden Absatz aufgeführten Daten nur dann an den Server von YouTube übermittelt, wenn Sie ein Video starten. Die Übertragung der Daten ist erforderlich, um das betreffende Video auf dieser Internetseite in Ihren Internet-Browser abzuspielen. Dabei wird YouTube Ihre IP-Adresse, Datum und Uhrzeit sowie die Webseite, in die das Video eingebettet ist, erfassen und verarbeiten. Außerdem wird eine Verbindung zu „DoubleClick“ (ein Werbenetzwerk von Google) hergestellt. Falls Sie parallel zum Besuch meiner Webseite bei YouTube eingeloggt sind, weist YouTube die Verbindungsinformationen Ihrem YouTube-Konto zu. Wenn Sie das verhindern möchten, sollten Sie sich vor dem Besuch meiner Webseite bei YouTube ausloggen.
+
+Über Ihren Internet-Browser speichert YouTube Cookies auf dem Gerät, mit dem Sie das Video auf dieser Webseite betrachten. Falls Sie mit dieser Verarbeitung nicht einverstanden sind, können Sie die Speicherung der Cookies durch eine Einstellung in Ihrem Internet-Browsers verhindern.
+
+Weitergehende Informationen über die Erhebung und Nutzung von Daten sowie über Ihre Rechte und Schutzmöglichkeiten hält Google in seinen Datenschutzhinweisen bereit, die unter https://policies.google.com/privacy abrufbar sind.
 
 #### Kontakt per Email
 

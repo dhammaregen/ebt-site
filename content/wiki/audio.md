@@ -1,6 +1,6 @@
 ---
-title: Audio
-description: Audioquellen
+title: Audionachweis
+description: Quellenangaben zu Audios auf der Webseite
 img: pexels-magicbowls-3543916.png
 img-alt: Generic image for sounds 
 category: Hintergrundinformationen

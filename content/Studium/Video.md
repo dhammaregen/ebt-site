@@ -12,4 +12,8 @@ Die wichtigsten Funktionen werden gezeigt und einige Fragen beantwortet.
 
 <iframe width="690" height="388" src="https://www.youtube-nocookie.com/embed/PB5_pNGTM4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Eine weitere Frage-Antwort-Sitzung über Dhammaregen ist für den 13. August 2021 geplant; weitere Infos und Anmeldung [hier](https://www.samita.be/de/2021/06/28/ancient-teachings-awesome-websites/).
+### Dhammaregen-Präsentation vom 13.08.2021 beim iSangha des Klosters Tilorien
+
+Frage-Antwort-Stunde
+
+<iframe width="690" height="388" src="https://www.youtube-nocookie.com/embed/RUVGicBgiZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

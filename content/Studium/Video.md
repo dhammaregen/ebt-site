@@ -1,6 +1,6 @@
 ---
 title: Mit Dhammaregen durch die Suttas fliegen 
-description: Erklärvideo, Juni 2021
+description: Erklärvideos für Dhammaregen
 img: arne-verbist-PTv6AOEQn_0-unsplash.png
 img-alt: Vogel, der über Bäumen dahinfliegt
 order: 9

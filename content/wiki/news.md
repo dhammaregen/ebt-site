@@ -7,7 +7,7 @@ slugDir: news
 category: Dhammaregen
 order: 9999
 ---
-### Newslsetter: Inhalt
+### Newslsetter-Archiv
 
 Um unsere Nachrichten zu empfangen, melden Sie sich bitte mit einer formlosen Email an [dhammaregen@gmail.com](mailto:dhammaregen@gmail.com) zum Newsletter an.
 

@@ -1,8 +1,8 @@
 ---
 title: Wie soll man die Suttas lesen?
 description: Bhikkhu Sujato
-img: wheel.png
-img-alt: Blume mit acht Blütenblättern
+img: sujato.png
+img-alt: Bhante Sujato sitzt auf Felsen
 order: 9.5
 ---
 

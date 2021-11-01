@@ -3,7 +3,7 @@ title: Top Ten Suttas
 description: Bhikkhu Sujato
 img: sujato.png
 img-alt: Bhante Sujato sitzt auf Felsen
-order: 9.6
+order: 9.4
 ---
 
 … und zehn weitere, die sich ebenfalls zu lesen lohnen

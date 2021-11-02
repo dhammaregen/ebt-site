@@ -35,6 +35,7 @@ Gute Frage! Der buddhistische Kanon ist tatsächlich alles andere als übersicht
 Ein paar Anregungen, um den Einstieg zu erleichtern:
 - Ein paar [allgemeine Überlegungen zum Lesen der Suttas](/Studium/SuttasLesen) von Bhante Sujato
 - Bhante Sujatos Aufsatz [*Top Ten Suttas (… und zehn weitere, die sich ebenfalls zu lesen lohnen)*](/Studium/Einstieg) schlägt beliebte Suttas vor sowie einige weitere, die genauso unsere Aufmerksamkeit verdienen.
+- Lassen Sie sich vom Zufall helfen – klicken Sie „Such mir etwas aus!“ und fangen Sie einfach an. [Erläuterungen zum Durchsuchen der Suttas auf *Dhammaregen*](/Studium/Suche)
 - Die Ausgaben des [*Dhammaregen*-Newsletters](/wiki/news) führen jeweils an eine kleine Zahl von Suttas heran und bieten so kleine „Wanderführer“ für eine Sutta-Wanderung.
 - Die Seite [*Dhammaregen* in neuem Kleid](/Studium/Neu) vermittelt einen Überblick über die grundsätzliche Idee hinter *Dhammaregen*. 
 

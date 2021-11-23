@@ -14,7 +14,7 @@ order: 1
 
 ### Was Sie auf *Dhammaregen* finden
 
-*Dhammaregen* ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). Es beherbergt neue deutsche Sutta-Übersetzungen von Anagarika Sabbamitta. Daneben enthält es verschiedene Hintergrundinformationen zu den frühen buddhistischen Texten (FBT).
+*Dhammaregen* ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). Es beherbergt neue deutsche Sutta-Übersetzungen von Sabbamitta Silashin. Daneben enthält es verschiedene Hintergrundinformationen zu den frühen buddhistischen Texten (FBT).
 
 Neu bei den Suttas? Finden Sie hier [ein paar Tipps zum Einstieg](/Studium/Einstieg).  
 Neu bei *Dhammaregen*? Lesen Sie hier [über die Idee hinter der Webseite](/Studium/Neu).
@@ -37,9 +37,9 @@ Auch Fragen oder Anregungen können an diese Email-Adresse gesandt werden, oder 
 
 ### Copyright und Datenschutz
 
-Alle deutschen Übersetzungen von Texten und Essays sowie auch Originalessays auf *Dhammaregen* sind, soweit nicht anders angegeben, von Anagarika Sabbamitta.
+Alle deutschen Übersetzungen von Texten und Essays sowie auch Originalessays auf *Dhammaregen* sind, soweit nicht anders angegeben, von Sabbamitta Silashin.
 
-Copyright: Für die Software dieser Webseite gilt die [MIT-Lizenz](https://github.com/dhammaregen/dhammaregen/blob/main/LICENSE). Inhalte, die von SuttaCentral stammen, unterliegen den [Lizenzbedingungen von SuttaCentral](https://dhammaregen.github.io/voice/de/301-lizenzen-sc). Originalessays von Anagarika Sabbamitta auf dieser Webseite folgen den gleichen Lizenzbedingungen. Texte anderer Autorinnen folgen den jeweiligen Lizenzbedingungen der Quelle. Wenn nicht anders angegeben, entspricht das ebenfalls den Lizenzbedingungen von SuttaCentral.
+Copyright: Für die Software dieser Webseite gilt die [MIT-Lizenz](https://github.com/dhammaregen/dhammaregen/blob/main/LICENSE). Inhalte, die von SuttaCentral stammen, unterliegen den [Lizenzbedingungen von SuttaCentral](https://dhammaregen.github.io/voice/de/301-lizenzen-sc). Originalessays von Sabbamitta Silashin auf dieser Webseite folgen den gleichen Lizenzbedingungen. Texte anderer Autorinnen folgen den jeweiligen Lizenzbedingungen der Quelle. Wenn nicht anders angegeben, entspricht das ebenfalls den Lizenzbedingungen von SuttaCentral.
 
 *Dhammaregen* erhebt und speichert keine personenbezogenen Daten. Auf Wunsch können Sie in den Einstellungen Cookies aktivieren, mit denen Ihre Einstellungen und die Chronik Ihres Sutta-Suchverlaufs in Ihrem Browser gespeichert werden. 
 

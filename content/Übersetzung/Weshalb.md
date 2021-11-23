@@ -1,6 +1,6 @@
 ---
 title: Weshalb brauchen wir neue deutsche Sutta-Übersetzungen?
-description: Anagarika Sabbamitta, 2020
+description: Sabbamitta Silashin, 2020
 img: newpath.png
 img-alt: Waldweg, in den von der Seite die Sonne fällt
 order: 2

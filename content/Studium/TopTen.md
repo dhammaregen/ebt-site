@@ -10,7 +10,7 @@ order: 9.4
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/top-ten-suttas-and-ten-more-to-read-as-well/12978)
 
-*(Bemerkung: Suttas, die noch nicht von Anagarika Sabbamitta übersetzt wurden, werden ersatzweise auf Englisch angezeigt; Sie können über den SuttaCentral-Link am Fuß jeder Sutta-Seite zu einer deutschen Übersetzung auf SuttaCentral gelangen.)*
+*(Bemerkung: Suttas, die noch nicht von Sabbamitta Silashin übersetzt wurden, werden ersatzweise auf Englisch angezeigt; Sie können über den SuttaCentral-Link am Fuß jeder Sutta-Seite zu einer deutschen Übersetzung auf SuttaCentral gelangen.)*
 
 Es gibt Tausende von Lehrreden, die der Buddha gehalten hat, aber nur wenige sind gut bekannt und werden in den buddhistischen Traditionen in Ehren gehalten. Diese Lehrreden werden gechantet, studiert und geübt, während die übrigen häufig übersehen werden.
 

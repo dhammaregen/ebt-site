@@ -23,8 +23,17 @@ $DIR/touch-content
 
 export BABEL_ENV=deploy
 nuxt --version
-$DIR/wiki-images
-$DIR/nuxt-routes.js
+
+echo "$SCRIPT: repo-info"
+$DIR/repo-info > ebt-repo.json
+
+echo "$SCRIPT: wiki-images"
+$DIR/wiki-images; RC=$? || exit $RC
+
+echo "$SCRIPT: nuxt-routes"
+$DIR/nuxt-routes.js; RC=$? || exit $RC
+
+echo "$SCRIPT: nuxt generate"
 export CI=
 echo CI=$CI
 nuxt generate; RC=$? || exit $RC

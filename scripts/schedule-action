@@ -27,8 +27,6 @@ echo "$SCRIPT: ACCOUNT:$ACCOUNT REPO:$REPO UPSTREAM:$UPSTREAM"
 
 if [ "$UPSTREAM" == "" ]; then
   echo "$SCRIPT: No upstream repository (ok)"
-  $DIR/build PUSH; RC=$? || exit $RC
-  $DIR/push-action; RC=$? || exit $RC
 else
   echo "$SCRIPT: pulling from upstream repository $UPSTREAM"
   git config remote.upstream.url https://github.com/$UPSTREAM.git
@@ -41,4 +39,6 @@ else
   npm install
 fi
 
-$DIR/push-action
+$DIR/build PUSH; RC=$? || exit $RC
+$DIR/push-action; RC=$? || exit $RC
+

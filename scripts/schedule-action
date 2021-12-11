@@ -1,6 +1,7 @@
 #!/bin/bash
 
 git --version
+git config --list
 DIR=`dirname $0`
 SCRIPT=`basename $0 | tr abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ`
 cd $DIR/..

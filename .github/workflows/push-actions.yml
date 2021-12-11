@@ -5,7 +5,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy: 
       matrix:
-        os: [ubuntu-18.04]
+        os: [ubuntu-20.04]
         node: [14]
     name: Node=${{ matrix.node }} OS=${{ matrix.os }}
     steps:

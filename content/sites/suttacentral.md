@@ -9,11 +9,62 @@ order: 1
 ### Frühe buddhistische Texte
 SuttaCentral ist die Quelle für alle frühen buddhistischen Texte (FBT), die auf dieser Webseite gezeigt werden. Es ist eine internationale Webseite mit FBT in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen in frühen Texten.
 
-Auf SuttaCentral gibt es auch verschiedene Essays, die in die frühen buddhistischen Texte einführen und sie erläutern. Bisher sind auf Deutsch übersetzt:
-- [Ein Leitfaden zu den Pali‐Suttas](https://dhammaregen.github.io/voice/de/321-leitfaden-palisuttas)
+Sehen Sie hier eine Video-Präsentation der Webseite:
 
-Mehr Infos zu SuttaCentral in deutscher Sprache finden Sie [hier](https://dhammaregen.github.io/voice/de/300-intro-sc).
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hh0fwCp4tsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Sie können SuttaCentral bei seinen Bemühungen, die Worte des Buddha allen Menschen auf der Welt zugänglich zu machen, [unterstützen](https://suttacentral.net/donations).
+Im Folgenden finden Sie Links zu den im Video gezeigten Seiten.
 
+### Allgemeine Informationen
+SuttaCentral hat verschiedene Seiten mit Hinweisen zur Benutzung der Webseite und zahlreichen Hintergrundinformationen (bitte die Sprache der Webseite auf „Deutsch“ einstellen, um die deutschen Übersetzugen zu lesen):
 
+<details>
+<summary><h4 style="margin-top: 0.4em;">Einführende Texte zu SuttaCentral</h4></summary>
+
+* [Über SuttaCentral](https://suttacentral.net/about): Idee und Entstehung der Webseite SuttaCentral.
+* [Einführung zu SuttaCentral](https://suttacentral.net/introduction): Über die Inhalte von SuttaCentral.
+* [Methodik und Quellen](https://suttacentral.net/methodology): Die Entdeckung von Parallelen zwischen frühen buddhistischen Texten aus verschiedenen Überlieferungen als Keim, aus dem SuttaCentral sich entwickelt hat; Textquellen und Bibliografie.
+* [Nummerierung der Suttas](https://suttacentral.net/numbering): Richtlinien für die Kennziffern früher buddhistischer Texte.
+* [Abkürzungen](https://suttacentral.net/abbreviations): Unverwechselbare Kürzel für alle Texteinheiten.
+* [Sprachen auf SuttaCentral](https://suttacentral.net/languages): Alte Sprachen (Quellsprachen) und Sprachen, in die übersetzt wurde.
+* [Lizenzen](https://suttacentral.net/licensing): Urheberrecht auf SuttaCentral.
+* [Zum Herunterladen](https://suttacentral.net/downloads): EPUBs, PDFs und mehr.
+* [Würdigung](https://suttacentral.net/acknowledgments): Menschen und Organisationen, die SuttaCentral möglich gemacht haben.
+* [Spenden an SuttaCentral](https://suttacentral.net/donations): Wie Sie SuttaCentral unterstützen können.
+</details><br>
+
+### Essays zu den frühen buddhistischen Texten auf SuttaCentral
+Auf SuttaCentral gibt es verschiedene Essays, die in die frühen buddhistischen Texte einführen und sie erläutern.
+
+<details>
+<summary><h4 style="margin-top: 0.4em;">Die drei Körbe (<em>Tipiṭaka</em>)</h4></summary>
+Sie finden auf SuttaCentral allgemeine Einführungen zu den drei Abschnitten oder „Körben“ des Palikanon, in denen die Texte überliefert sind: 
+
+* [Lehrreden](https://suttacentral.net/discourses-guide-sujato) von Bhikkhu Sujato
+* [Ordensrecht](https://suttacentral.net/vinaya-guide-brahmali) von Bhikkhu Brahmali
+* [Abhidhamma](https://suttacentral.net/abhidhamma-guide-sujato) von Bhikkhu Sujato
+</details>
+
+<details>
+<summary><h4>Essays von Bhikkhu Sujato und Bhikkhu Bodhi zu den Pali-Suttas</h4></summary>
+Bhante Sujato hat für SuttaCentral umfangreiche Leitfäden zu den Palisuttas verfasst, die zahlreiche Einzelheiten und Feinheiten ausführlich behandeln. Auch ein Essay von Bhikkhu Bodhi zum Aṅguttara-Nikāya ist auf SuttaCentral zu lesen. Essays, die noch nicht übersetzt sind, werden ersatzweise auf Englisch angezeigt.
+
+* [Ein Leitfaden zu den Pali‐Suttas](https://suttacentral.net/general-guide-sujato) von Bhikkhu Sujato
+* [Die Langen Lehrreden: der Dhamma als Literatur und Zusammenstellung ](https://suttacentral.net/dn-guide-sujato) von Bhikkhu Sujato
+* [Die Mittleren Lehrreden: Gespräche über Gegenstände von tiefer Wahrheit ](https://suttacentral.net/mn-guide-sujato) von Bhikkhu Sujato
+* [Die Verbundenen Lehrreden: Blaupause für die buddhistische Philosophie ](https://suttacentral.net/sn-guide-sujato) von Bhikkhu Sujato
+* [Die nummerierten Lehrreden: nützliche Dinge für jeden Tag ](https://suttacentral.net/an-guide-sujato) von Bhikkhu Sujato
+* [Ein thematischer Leitfaden zum Aṅguttara-Nikāya ](https://suttacentral.net/an-introduction-bodhi) von Bhikkhu Bodhi
+</details><br>
+
+## Indexe
+SuttaCentral hat verschiedene Indexe und ein Verzeichnis der wichtigsten Palitermini, die ebenfalls helfen können, zu finden, was man sucht. Verzeichnisse, die noch nicht übersetzt sind, werden ersatzweise auf Englisch angezeigt.
+
+<details>
+<summary><h4 style="margin-top: 0.4em;">Indexe und Glossar</h4></summary>
+
+* [Themenregister](https://suttacentral.net/subjects) 
+* [Register der Gleichnisse ](https://suttacentral.net/similes) 
+* [Namensregister](https://suttacentral.net/names) 
+* [Grundlegende Pali-Terminologie ](https://suttacentral.net/terminology) 
+</details>

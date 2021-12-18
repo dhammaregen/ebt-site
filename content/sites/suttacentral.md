@@ -15,10 +15,10 @@ Sehen Sie hier eine Video-Präsentation der Webseite:
 
 Im Folgenden finden Sie Links zu den im Video gezeigten Seiten.
 
+**Bitte die Sprache der Webseite auf „Deutsch“ einstellen, um die deutsche Version der Texte zu lesen:**
+
 ### Allgemeine Informationen
 SuttaCentral hat verschiedene Seiten mit Hinweisen zur Benutzung der Webseite und zahlreichen Hintergrundinformationen. 
-
-**Bitte die Sprache der Webseite auf „Deutsch“ einstellen, um die deutsche Version der Texte zu lesen:**
 
 <details>
 <summary><h4 style="margin-top: 0.4em;">Einführende Texte zu SuttaCentral</h4></summary>

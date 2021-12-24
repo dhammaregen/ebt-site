@@ -49,7 +49,7 @@ Sie finden auf SuttaCentral allgemeine Einführungen zu den drei Abschnitten ode
 
 <details>
 <summary><h4>Essays von Bhikkhu Sujato und Bhikkhu Bodhi zu den Pali-Suttas</h4></summary>
-Bhante Sujato hat für SuttaCentral umfangreiche Leitfäden zu den Palisuttas verfasst, die zahlreiche Einzelheiten und Feinheiten ausführlich behandeln. Auch ein Essay von Bhikkhu Bodhi zum Aṅguttara-Nikāya ist auf SuttaCentral zu lesen. Essays, die noch nicht übersetzt sind, werden ersatzweise auf Englisch angezeigt.
+Bhante Sujato hat für SuttaCentral umfangreiche Leitfäden zu den Palisuttas verfasst, die zahlreiche Einzelheiten und Feinheiten ausführlich behandeln. Auch ein Essay von Bhikkhu Bodhi zum Aṅguttara-Nikāya ist auf SuttaCentral zu lesen. <em>Essays, die noch nicht übersetzt sind, werden ersatzweise auf Englisch angezeigt.</em>
 
 * [Ein Leitfaden zu den Pali‐Suttas](https://suttacentral.net/general-guide-sujato) von Bhikkhu Sujato
 * [Die Langen Lehrreden: der Dhamma als Literatur und Zusammenstellung ](https://suttacentral.net/dn-guide-sujato) von Bhikkhu Sujato
@@ -60,7 +60,7 @@ Bhante Sujato hat für SuttaCentral umfangreiche Leitfäden zu den Palisuttas ve
 </details><br>
 
 ## Indexe
-SuttaCentral hat verschiedene Indexe und ein Verzeichnis der wichtigsten Palitermini, die ebenfalls helfen können, zu finden, was man sucht. Verzeichnisse, die noch nicht übersetzt sind, werden ersatzweise auf Englisch angezeigt.
+SuttaCentral hat verschiedene Indexe und ein Verzeichnis der wichtigsten Palitermini, die ebenfalls helfen können, zu finden, was man sucht. <em>Verzeichnisse, die noch nicht übersetzt sind, werden ersatzweise auf Englisch angezeigt.</em>
 
 <details>
 <summary><h4 style="margin-top: 0.4em;">Indexe und Glossar</h4></summary>

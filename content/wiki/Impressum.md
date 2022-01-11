@@ -29,7 +29,7 @@ Diese Webseite legt Wert auf den Schutz der persönlichen Daten ihrer Besucherin
 #### Verantwortliche Stelle
 
 Für die Datenverarbeitung auf dieser Webseite verantwortlich ist:  
-Maria Backes  
+Maria Backes (Silashin Sabbamitta)  
 c/o Gerhart-Hauptmann-Straße 25  
 66386 St. Ingbert  
 Deutschland  

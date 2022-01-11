@@ -14,7 +14,7 @@ Es ist das Ziel dieser Webseite, interessierten Besuchern frühe buddhistische T
 Geschäftliche oder kommerzielle Interessen werden nicht verfolgt, auch soll nicht für eine bestimmte Religionszugehörigkeit geworben werden.
 
 Kontakt:  
-Maria Backes  
+Maria Backes (Silashin Sabbamitta)  
 c/o Gerhart-Hauptmann-Straße 25  
 66386 St. Ingbert  
 Deutschland  

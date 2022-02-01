@@ -100,7 +100,7 @@ Dies ist in Kürze die Funktionsweise des Abhängigen Entstehens. Es zeigt uns, 
     <a class="footnote-backref" href="/Tropfen/Entstehen#fnref4">↩</a>
   </li>
   <li id="fn5" class="footnote-item">
-    Siehe zum Beispiel die Anweisungen des Buddha im berühmten Anattalakkhana-Sutta (<a href="/suttas?search=sn22.59%2Fde">SN 22.59</a>).
+    Siehe zum Beispiel die Anweisungen des Buddha im berühmten Anattalakkhana-Sutta (<a href="/suttas#sn22.59/de/sabbamitta:0.1">SN 22.59</a>).
     <a class="footnote-backref" href="/Tropfen/Entstehen#fnref5">↩</a>
   </li>
   <li id="fn6" class="footnote-item">

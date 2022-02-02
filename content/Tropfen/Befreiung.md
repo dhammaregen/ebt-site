@@ -1,5 +1,5 @@
 ---
-title: ABHÄNGIGE BEFREIUNG
+title: Abhängige Befreiung
 description: Bhikkhu Brahmāli
 img: ammonite.png
 img-alt: Ein Ammonit

@@ -3,7 +3,7 @@ title: Abhängige Befreiung
 description: Bhikkhu Brahmāli
 img: ammonite.png
 img-alt: Ein Ammonit
-order: 2
+order: 1
 ---
 
 Dieses Werk wurde in deutscher Sprache erstmals 2014 vom Verlag [Beyerlein & Steinschulte](http://www.buddhareden.de) unter Mithilfe von Horst Neugebauer als Lektor publiziert.

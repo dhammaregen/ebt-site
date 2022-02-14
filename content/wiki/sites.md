@@ -4,7 +4,7 @@ description: Webseiten mit frühen buddhistischen Texten
 img: brett-zeck-eyfMgGvo9PA-unsplash.png
 img-alt: Eine Weltkarte in Holz-Einlegearbeit
 slugDir: sites
-category: Hintergrundinformationen
+category: Weitere Informationen
 order: 9997
 ---
 ### FBT-Webseiten: Inhalt

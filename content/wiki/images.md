@@ -4,7 +4,7 @@ description: Quellenangaben zu Bildern auf der Webseite
 img: benjamin-balazs-xtiGzOiJe1Q-unsplash.png
 img-alt: Kamera mit einem Buddha im Display 
 slugDir: images
-category: Hintergrundinformationen
+category: Weitere Informationen
 order: 9998
 ---
 

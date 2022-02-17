@@ -14,7 +14,7 @@ Ab Juni 2022 bietet Dhammaregen in Kooperation mit [Aloka-Dharma-Zoom](https://a
 
 Programmablauf: 
 - Ayya Sabbamitta stellt einen Suttatext vor.
-- Diskussion und Fragen an die Referentinnen.
+- Diskussion, Kommentare und Fragen an die Referentinnen.
 - Ayya Santacitta leitet eine Meditation zum Thema an.
 
 Bei Interesse senden Sie bitte eine Email an dhammaregen@gmail.com. Sie werden dann kurz vor dem jeweiligen Termin die Zoom-Zugangsdaten erhalten.

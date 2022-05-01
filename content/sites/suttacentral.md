@@ -65,8 +65,8 @@ SuttaCentral hat verschiedene Indexe und ein Verzeichnis der wichtigsten Paliter
 <details>
 <summary><h4 style="margin-top: 0.4em;">Indexe und Glossar</h4></summary>
 
-* [Themenregister](https://suttacentral.net/subjects) 
-* [Register der Gleichnisse ](https://suttacentral.net/similes) 
-* [Namensregister](https://suttacentral.net/names) 
-* [Grundlegende Pali-Terminologie ](https://suttacentral.net/terminology) 
+* [Themenregister](https://suttacentral.net/subjects?lang=de) 
+* [Register der Gleichnisse ](https://suttacentral.net/similes?lang=de) 
+* [Namensregister](https://suttacentral.net/names?lang=de) 
+* [Grundlegende Pali-Terminologie ](https://suttacentral.net/terminology?lang=de) 
 </details>

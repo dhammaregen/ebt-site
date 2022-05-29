@@ -6,7 +6,7 @@ img-alt: Viele aufgeschlagene Bücher neben- und übereinander
 order: 2.5
 ---
 
-*[Dieser Text Ajahn Brahmalis bezieht sich auf Übersetzungen ins Englische; das Meiste ist aber auch für Übersetzungen ins Deutsche oder in andere Sprachen anwendbar. Die Grundsätze wurden bei der Übersetzung von Vinaya-Texten zusammengestellt, sind aber größtenteils auch für die Suttas anwendbar. Diese Grundsätze sind für meine eigene Übersetzungsarbeit eine wichtige Orientierungshilfe. — A.d.Ü.]*
+*[Dieser Text Ajahn Brahmalis bezieht sich auf Übersetzungen ins Englische; das Meiste ist aber auch für Übersetzungen ins Deutsche oder in andere Sprachen anwendbar. Die Grundsätze wurden bei der Übersetzung von Vinaya-Texten zusammengestellt, sind aber größtenteils auch für die Suttas anwendbar. Punkt 10 wurde dem ursprünglichen Aufsatz aus der Diskussion hinzugefügt. Diese Grundsätze sind für meine eigene Übersetzungsarbeit eine wichtige Orientierungshilfe. — A.d.Ü.]*
 
 Zum [Originaltext](https://discourse.suttacentral.net/t/principles-of-translation/19485) mit Diskussion
 

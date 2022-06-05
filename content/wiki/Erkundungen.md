@@ -19,3 +19,6 @@ Programmablauf:
 
 Bei Interesse senden Sie bitte eine Email an dhammaregen@gmail.com. Sie werden dann kurz vor dem jeweiligen Termin die Zoom-Zugangsdaten erhalten.
 
+### Bisherige Folgen (Audio)
+
+- 3. Juni 2022: [AN 10.61 mit Meditation zu den sieben Faktoren des Erwachens](https://av.dharmaseed.org/talks/70946/?access_key=6B7ywiZsCP)

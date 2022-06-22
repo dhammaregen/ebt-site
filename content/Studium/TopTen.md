@@ -63,7 +63,7 @@ Diese berühmte Sammlung von Lehren über das Meditieren stellt die Grundlage f�
 
 Das Satipaṭṭhāna-Sutta ist mit seiner Betonung eines bestimmten Gliedes des achtfachen Pfades recht ungewöhnlich. Häufiger hat der Buddha das gelehrt, was man die „stufenweise Schulung“ nennt, die den vollständigen und ganzheitlichen Pfad vom ersten Hören des Dhamma bis zum vollständigen Verwirklichen von Nibbana darlegt. Das wird zwar viele Male gelehrt, aber die schönste und machtvollste Darlegung ist das Sāmaññaphala-Sutta, in dem der Buddha zu dem unehrenhaften König Ajātasattu über die Vorzüge des Übens des kontemplativen Pfades spricht.
 
-### 7. Sie kennen: das Dhammapada (--> [Dhp](/suttas#dhp167/de/sabbamitta:0.1))
+### 7. Sie kennen: das Dhammapada (--> [Dhp](/suttas#dhp1/de/sabbamitta:0.1))
 
 Diese Verssammlung bleibt ein anhaltender Lieblingstext, nicht nur unter Buddhisten. Sie wurde viele Male übersetzt und gilt als die älteste Sammlung der Welt an ergreifenden Sprüchen. Sie ist die ursprüngliche Quelle vieler Bilder und Zitate, die im Buddhismus zirkulieren, und heutzutage ist Vieles davon mit der spirituellen Weisheit der Welt verschmolzen.
 

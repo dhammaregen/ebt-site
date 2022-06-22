@@ -63,13 +63,13 @@ Diese berühmte Sammlung von Lehren über das Meditieren stellt die Grundlage f�
 
 Das Satipaṭṭhāna-Sutta ist mit seiner Betonung eines bestimmten Gliedes des achtfachen Pfades recht ungewöhnlich. Häufiger hat der Buddha das gelehrt, was man die „stufenweise Schulung“ nennt, die den vollständigen und ganzheitlichen Pfad vom ersten Hören des Dhamma bis zum vollständigen Verwirklichen von Nibbana darlegt. Das wird zwar viele Male gelehrt, aber die schönste und machtvollste Darlegung ist das Sāmaññaphala-Sutta, in dem der Buddha zu dem unehrenhaften König Ajātasattu über die Vorzüge des Übens des kontemplativen Pfades spricht.
 
-### 7. Sie kennen: das Dhammapada (--> [Dhp](/suttas#dhp1/de/sabbamitta:0.1))
+### 7. Sie kennen: den Dhammapada (--> [Dhp](/suttas#dhp1/de/sabbamitta:0.1))
 
 Diese Verssammlung bleibt ein anhaltender Lieblingstext, nicht nur unter Buddhisten. Sie wurde viele Male übersetzt und gilt als die älteste Sammlung der Welt an ergreifenden Sprüchen. Sie ist die ursprüngliche Quelle vieler Bilder und Zitate, die im Buddhismus zirkulieren, und heutzutage ist Vieles davon mit der spirituellen Weisheit der Welt verschmolzen.
 
 ### Warum lesen Sie nicht: das Udāna (--> [Ud](/suttas#ud1.1/de/sabbamitta:0.1))
 
-Obwohl der Pali-Dhammapada zweifelsohne der beliebteste ist, ist er nur eins von vielen Beispielen einer buddhistischen Textgattung, die in den Traditionen weit verbreitet ist. SuttaCentral zählt zwölf Dhammapadas auf, und das ist wohl nur ein Bruchteil derer, die in den alten Tagen existierten. Doch die Dhammapadas sind auch eng mit einer anderen Gruppe von Texten, den Udānas, verwandt. Während der Dhammapada, zumindest im Pali, eine reine Verssammlung ist, setzt das Udāna die Strophen in eine Geschichte, die ein vertieftes Verständnis und ermöglicht und so stärkere Wirkung hat.
+Obwohl der Pali-Dhammapada zweifelsohne der beliebteste ist, ist er nur eins von vielen Beispielen einer buddhistischen Textgattung, die in den Traditionen weit verbreitet ist. SuttaCentral zählt zwölf Dhammapadas auf, und das ist wohl nur ein Bruchteil derer, die in den alten Tagen existierten. Doch die Dhammapadas sind auch eng mit einer anderen Gruppe von Texten, den Udānas, verwandt. Während der Dhammapada, zumindest im Pali, eine reine Verssammlung ist, setzt das Udāna die Strophen in eine Geschichte, die ein vertieftes Verständnis ermöglicht und so stärkere Wirkung hat.
 
 ### 8. Sie kennen: die letzten Tage des Buddha (--> [DN 16](/suttas#dn16/de/sabbamitta:0.1))
 
@@ -77,11 +77,11 @@ Das Mahāparinibbāna-Sutta ist der zutiefst bewegende Bericht von der letzten R
 
 ### Warum lesen Sie nicht: die vierfache Versammlung (--> [Kd 1](https://staging.suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow))
 
-Wenn das Mahāparinibbāna von der Abenddämmerung erzählt, so ist das die Geschichte der Morgendämmerung. Es ist fast so lang wie die letzte Reise; es beginnt mit dem Erwachen des Buddha und erzählt, wie er allmählich sein Lehrsystem aufbaut. Im Pali ist es ein Teil des Vinaya, aber die Sanskritversion war eine Lehrrede im Dīrghāgama, der Entsprechung zum Dīgha-Nikāya.
+Wenn das Mahāparinibbāna von der Abenddämmerung erzählt, so ist dies die Geschichte der Morgendämmerung. Es ist fast so lang wie die letzte Reise; es beginnt mit dem Erwachen des Buddha und erzählt, wie er allmählich sein Lehrsystem aufbaut. Im Pali ist es ein Teil des Vinaya, aber die Sanskritversion war eine Lehrrede im Dīrghāgama, der Entsprechung zum Dīgha-Nikāya.
 
 ### 9. Sie kennen: wie die Stiefmutter des Buddha ordiniert wurde (--> [AN 8.51](/suttas#an8.51/de/sabbamitta:0.1))
 
-Während die Tatsache, dass der Buddha Frauen die Ordination gab, etwas zum Feiern ist, sind die Umstände, unter denen das geschah, ein dicker Wermutstropfen. Es heißt, der Buddha habe es nur widerstrebend erlaubt, nachdem er seine Stiefmutter Mahāpajāpatī Gotamī zunächst abgewiesen hatte. Es gab bereits viel Diskussion darüber, ob das ein authentischer Text ist, und was er bedeuten soll. Ich denke, es ist eine entstellte Erinnerung an die Ordination speziell von Mahāpajāpatī und spieglt wider, dass sie lernen musste, mit dem Stolz auf ihre Stellung als Mutter des Buddha fertig zu werden. Aber was auch immer Sie darüber denken, es ist wichtig, anzuerkennen, dass nicht alles in unserer Überlieferung klar und einfach zu verstehen ist, und dass es echte Probleme mit der Deutung gibt.
+Während die Tatsache, dass der Buddha Frauen die Ordination erteilte, ein Grund zum Feiern ist, sind die Umstände, unter denen das geschah, ein dicker Wermutstropfen. Es heißt, der Buddha habe es nur widerstrebend erlaubt, nachdem er seine Stiefmutter Mahāpajāpatī Gotamī zunächst abgewiesen hatte. Es gab bereits viel Diskussion darüber, ob das ein authentischer Text ist, und was er bedeuten soll. Ich denke, es ist eine entstellte Erinnerung an die Ordination speziell von Mahāpajāpatī und spiegelt wider, dass sie lernen musste, mit dem Stolz auf ihre Stellung als Mutter des Buddha fertig zu werden. Aber was auch immer Sie darüber denken, es ist wichtig, anzuerkennen, dass nicht alles in unserer Überlieferung klar und einfach zu verstehen ist, und dass es echte Probleme mit der Deutung gibt.
 
 ### Warum lesen Sie nicht: die Therīgāthā (--> [Thig](/suttas#thig1.1/de/sabbamitta:0.1))
 
@@ -93,4 +93,4 @@ Keine Lehrrede verkörpert den Geist des modernen reformierten Buddhismus besser
 
 ### Warum lesen Sie nicht: die Lehrrede an den Brahmanen Caṅkī über die Frage, wie man bei der Wahrheit ankommt (--> [MN 95](/suttas#mn95/de/sabbamitta:0.1))
 
-Es gibt viele Stellen, an denen der Buddha ähnliche Probleme ansprach wie wir sie im Kālāma-Sutta finden, und tatsächlich war der Buddha wahrscheinlich der erste Philosoph, der Erkenntnistheorie, die Art, wie wir etwas verstehen, zu einem zentralen Anliegen machte. In dieser Lehrrede hinterfragt er die Vorstellung von Wahrheit und sagt, es gebe einen Unterschied zwischen Tatsachen nicht falsch darstellen und Tatsachen tatsächlich kennen. Aber anders als heutige Skeptiker belässt er es nicht bei der einfachen Aufgabe, Wissen zurückzuweisen, sondern stellt ein praktisches Programm vor, um selbst die Wahrheit zu finden und zu überprüfen.
+Es gibt viele Stellen, an denen der Buddha ähnliche Probleme ansprach, wie wir sie im Kālāma-Sutta finden, und tatsächlich war der Buddha wahrscheinlich der erste Philosoph, der Erkenntnistheorie, die Art, wie wir etwas verstehen, zu einem zentralen Anliegen machte. In dieser Lehrrede hinterfragt er die Vorstellung von Wahrheit und sagt, es gebe einen Unterschied zwischen Tatsachen nicht falsch darstellen und Tatsachen tatsächlich kennen. Aber anders als heutige Skeptiker belässt er es nicht bei der einfachen Aufgabe, Wissen zurückzuweisen, sondern stellt ein praktisches Programm vor, um selbst die Wahrheit zu finden und zu überprüfen.

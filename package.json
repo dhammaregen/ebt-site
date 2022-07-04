@@ -1,6 +1,6 @@
 {
   "name": "ebt-site",
-  "version": "1.5.62",
+  "version": "1.5.63",
   "private": true,
   "description": "Vue/Vuetify website framework for Early Buddhist Texts",
   "scripts": {

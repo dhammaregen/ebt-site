@@ -16,7 +16,7 @@ Bitte klicken Sie auf „Such mir etwas aus!“ oder finden Sie Suchbegriffe üb
 Bisher liegen folgende Suttas auf *Dhammaregen* vor:
 - Dīgha-Nikāya: DN 6-7, DN 10, DN 12, DN 14-21, DN 23-25, DN 28-34
 - Majjhima-Nikāya: MN 2, MN 7, MN 10, MN 23, MN 33, MN 44, MN 81, MN 140-141
-- Saṁyutta-Nikāya: SN 1-12; SN 13 in Arbeit; SN 15.1, SN 15.20; SN 20.7; SN 21.8; SN 22.59, SN 22.62, SN 22.90; SN 35.28, SN 35.238; SN 42.11; SN 44.1; SN 45.2-3, SN 45.8; SN 46.51, SN 46.55; SN 47; SN 51.10; SN 54.9, SN 54.11; SN 55.10; SN 56
+- Saṁyutta-Nikāya: SN 1-13; SN 14 in Arbeit; SN 15.1, SN 15.20; SN 20.7; SN 21.8; SN 22.59, SN 22.62, SN 22.90; SN 35.28, SN 35.238; SN 42.11; SN 44.1; SN 45.2-3, SN 45.8; SN 46.51, SN 46.55; SN 47; SN 51.10; SN 54.9, SN 54.11; SN 55.10; SN 56
 - Aṅguttara-Nikāya: vollständig
 - Khuddaka-Nikāya: Kp vollständig; Dhp 1-20, Dhp 167-178; Ud vollständig; Iti 26; Snp 1.4, Snp 1.8, Snp 1.10, Snp 2.1, Snp 2.4-5, Snp 2.12, Snp 10.12; Thag 1.43, Thag 1.66, Thag 1.69, Thag 2.22, Thag 4.10, Thag 5.10, Thag 15.1-2, Thag 20-21; Thig vollständig
 

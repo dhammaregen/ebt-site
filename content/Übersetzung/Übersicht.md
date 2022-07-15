@@ -7,7 +7,7 @@ order: 1
 ---
 ### Die Suttas in deutscher Sprache
 
-*Dhammaregen* beherbergt neue segmentierte deutsche Übersetzungen der Suttas des Palikanon von Sabbamitta Silashin. Auf [SuttaCentral](https://suttacentral.net) und [Voice.suttacentral.net](https://voice.suttacentral.net) findet man zusätzlich viele frühere deutsche Übersetzungen dieser Texte.
+*Dhammaregen* beherbergt neue segmentierte deutsche Übersetzungen der Suttas des Palikanon von Sabbamitta Silashin. Auf [SuttaCentral](https://suttacentral.net) findet man zusätzlich viele frühere deutsche Übersetzungen dieser Texte.
 
 Zu den [Suttas](/suttas)
 

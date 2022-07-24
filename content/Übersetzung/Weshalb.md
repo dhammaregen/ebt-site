@@ -43,7 +43,7 @@ Das ermöglicht eine sehr einheitliche Übersetzung, auch ohne vollständige Ken
 
 Zusätzlich ermöglicht das von Karl Lew entwickelte und auch in Voice.suttacentral.net genutzte [SCV-bilara](https://www.npmjs.com/package/scv-bilara) eine dreisprachige Suchfunktion, die ebenfalls sehr hilfreich ist.
 
-Etwa Mitte 2019 habe ich mit dem Übersetzungsprojekt begonnen. Geplant ist, die vier Hauptnikāyas des Palikanon sowie die älteren Teile des Khuddaka-Nikāya zu übersetzen.
+<div style="text-align: center;">* * *</div>
 
 Alle Suttas finden sich auf *Dhammaregen* sowie auf [SuttaCentral](https://suttacentral.net) und [Voice.suttacentral.net](https://voice.suttacentral.net), wahlweise mit oder ohne den zugehörigen Palitext.
 

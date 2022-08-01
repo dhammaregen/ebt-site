@@ -22,6 +22,8 @@ Bisher liegen folgende Suttas auf *Dhammaregen* vor:
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
 
+Zur [Beschreibung](/Übersetzung/Beschreibung) des Übersetzungsprojekts
+
 ### Andere deutsche Übersetzungen von Sabbamitta Silashin auf SuttaCentral
 - Die Rede über den Kuhhirten aus dem chinesischen Saṁyuktāgama, [SA 1249](https://suttacentral.net/sa1249/de/sabbamitta), eine Parallele zu [MN 33](/suttas#mn33/de/sabbamitta:0.1) (Die Übersetzung wurde auf der Grundlage [von Bhikkhu Anālayos englischer Übersetzung](https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/exemplary-qualities1.pdf) erstellt.)
 - Saarländisch: Es Metta-Sutta in [Snp 1.8](https://suttacentral.net/snp1.8/sld/sabbamitta) und [Kp 9](https://suttacentral.net/kp9/sld/sabbamitta) (Die Übersetzung wurde auf der Grundlage [der englischen Übersetzung des Amaravati-Sangha](https://suttacentral.net/kp9/en/amaravati) erstellt.)  

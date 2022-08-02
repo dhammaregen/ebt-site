@@ -12,7 +12,7 @@ order: 9.4
 
 *(Bemerkung: Suttas, die noch nicht von Sabbamitta Silashin übersetzt wurden, werden ersatzweise auf Englisch angezeigt; Sie können über den SuttaCentral-Link am Fuß jeder Sutta-Seite zu einer deutschen Übersetzung auf SuttaCentral gelangen.)*
 
-Es gibt Tausende von Lehrreden, die der Buddha gehalten hat, aber nur wenige sind gut bekannt und werden in den buddhistischen Traditionen in Ehren gehalten. Diese Lehrreden werden gechantet, studiert und geübt, während die übrigen häufig übersehen werden.
+Es gibt Tausende von Lehrreden, die der Buddha gehalten hat, aber nur wenige sind gut bekannt und werden in den buddhistischen Traditionen in Ehren gehalten. Diese Lehrreden werden rezitiert, studiert und geübt, während die übrigen häufig übersehen werden.
 
 Es hat seinen Grund, warum diese Lehrreden so beliebt sind: Es sind schöne, machtvolle, tiefgründige Texte mit bewegenden und wichtigen Lehren. Aber es gibt viele ebenso wertvolle Lehren! In diesem Artikel will ich zusammenstellen, was ich für die Top Ten der beliebtesten Suttas des Theravada-Buddhismus halte, und zehn weitere, die verdienen, geradeso beliebt zu sein.
 
@@ -25,7 +25,7 @@ Im Saccavibhaṅga-Sutta erinnert der Buddha an das Dhammacakka und erwähnt, da
 
 ### 2. Sie kennen: das Mettā-Sutta (--> [Snp 1.8](/suttas#snp1.8/de/sabbamitta:0.1) und --> [Kp 9](/suttas#kp9/de/sabbamitta:0.1))
 
-Das Mettā-Sutta oder Karaṇīyamettā-Sutta findet man bei Snp 1.8 und bei Kp 9. Es ist ein Gedicht über die Tugenden von Mettā, der liebenden Güte. Es besteht aus wunderschönen Strophen, die in ihrer kurzen Spanne die ethischen Grundlagen für die Liebe darlegen, zeigen, wie man sie in der Meditation entwickelt, und beschreiben, wie allumfassende Liebe sich anfühlt. Es muss wenig verwundern, dass es vielleicht die beliebteste Lehrrede zum Rezitieren ist, ob in einer Gruppe oder als Bestandteil der perönlichen Meditation. Viele Menschen chanten es gerne, bevor sich sich zum Meditieren hinsetzen, oder hören es im Hintergrund über den Tag.
+Das Mettā-Sutta oder Karaṇīyamettā-Sutta findet man bei Snp 1.8 und bei Kp 9. Es ist ein Gedicht über die Tugenden von Mettā, der liebenden Güte. Es besteht aus wunderschönen Strophen, die in ihrer kurzen Spanne die ethischen Grundlagen für die Liebe darlegen, zeigen, wie man sie in der Meditation entwickelt, und beschreiben, wie allumfassende Liebe sich anfühlt. Es muss wenig verwundern, dass es vielleicht die beliebteste Lehrrede zum Rezitieren ist, ob in einer Gruppe oder als Bestandteil der perönlichen Meditation. Viele Menschen rezitieren es gerne, bevor sie sich zum Meditieren hinsetzen, oder hören es im Hintergrund über den Tag.
 
 ### Warum lesen Sie nicht: das Kodhana-Sutta über Reizbarkeit (--> [AN 7.64](/suttas#an7.64/de/sabbamitta:0.1))
 
@@ -41,7 +41,7 @@ Als der Buddha den jungen Mann Sigala antrifft, als dieser die vier Himmelsricht
 
 ### 4. Sie kennen: das Ratana-Sutta über die drei Juwelen (--> [Snp 2.1](/suttas#snp2.1/de/sabbamitta:0.1) und --> [Kp 6](/suttas#kp6/de/sabbamitta:0.1))
 
-Das Ratana-Sutta ist zusammen mit dem Mettā- und dem Maṅgala-Sutta einer der berühmtesten „Paritta-“ oder Schutzchants, die den Eckpfeiler des Sprechgesangs auf Pali in der Theravada-Welt bilden. Es zählt die Tugenden der „drei Juwelen“ auf: des Buddha, des Dhamma und des Sangha. Tatsächlich leitet sich vielleicht sogar die ganze Idee der „drei Juwelen“ von diesem Sutta ab, obwohl die Juwelen hier Eigenschaften sind, die man im Buddha, im Dhamma und im Sangha findet. Diese Verse, die voll hingebungsvoller Schönheit sind, enthalten auch viele Hinweise auf tiefe Meditationszustände und erhabene Erkenntnisse.
+Das Ratana-Sutta ist zusammen mit dem Mettā- und dem Maṅgala-Sutta einer der berühmtesten „Paritta-“ oder Schutztexte, die den Eckpfeiler des Sprechgesangs auf Pali in der Theravada-Welt bilden. Es zählt die Tugenden der „drei Juwelen“ auf: des Buddha, des Dhamma und des Sangha. Tatsächlich leitet sich vielleicht sogar die ganze Idee der „drei Juwelen“ von diesem Sutta ab, obwohl die Juwelen hier Eigenschaften sind, die man im Buddha, im Dhamma und im Sangha findet. Diese Verse, die voll hingebungsvoller Schönheit sind, enthalten auch viele Hinweise auf tiefe Meditationszustände und erhabene Erkenntnisse.
 
 ### Warum lesen Sie nicht: das Sela-Sutta über Hingabe an den Buddha (--> [MN 92](/suttas#mn92/de/sabbamitta:0.1))
 

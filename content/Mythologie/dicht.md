@@ -3,7 +3,7 @@ title: Vier außerordentlich dichte Wörter
 description: Bhikkhu Sujato
 img: sujato.png
 img-alt: Bhante Sujato sitzt auf Felsen
-order: 5
+order: 10
 ---
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/an-extremely-dense-four-words/6049)

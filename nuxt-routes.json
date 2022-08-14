@@ -41,6 +41,8 @@
 	"wiki/Tropfen",
 	"_content/Studium",
 	"wiki/Studium",
+	"_content/Mythologie",
+	"wiki/Mythologie",
 	"_content/Impressum",
 	"wiki/Impressum",
 	"_content/Erkundungen",
@@ -294,5 +296,9 @@
 	"_content/Einstellungen",
 	"Studium/Einstellungen",
 	"_content/Chronik",
-	"Studium/Chronik"
+	"Studium/Chronik",
+	"_content/video",
+	"Mythologie/video",
+	"_content/dicht",
+	"Mythologie/dicht"
 ]

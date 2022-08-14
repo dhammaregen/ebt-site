@@ -8,5 +8,5 @@ category: Weitere Informationen
 order: 3
 ---
 
-Buddhistische Mythologie ist ein bisher wenig erforschtes Thema. Bhante Sujato ist jemand, der sich dafür interessiert und einiges zu dem Gebiet beigetragen hat. Hier ein paar seiner Aufsätze in deutscher Übersetzung.
+Buddhistische Mythologie ist ein noch wenig erforschtes Thema. Bhante Sujato ist jemand, der sich dafür interessiert und einiges zu dem Gebiet beigetragen hat. Hier ein paar seiner Aufsätze in deutscher Übersetzung sowie einige Videovorträge.
 

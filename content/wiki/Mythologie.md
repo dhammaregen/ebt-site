@@ -1,6 +1,6 @@
 ---
 title: Buddhistische Mythologie
-description: Die andere Ebene in den Suttas
+description: Die andere Ebene der Suttas
 img: myth.png
 img-alt: See, von Bäumen umstanden, die sich darin spiegeln
 slugDir: Mythologie

@@ -1,8 +1,8 @@
 ---
 title: Grundsätze für die Übersetzung
 description: Bhikkhu Brahmali, 2021
-img: patrick-tomasso-Oaqk7qqNh_c-unsplash.png
-img-alt: Viele aufgeschlagene Bücher neben- und übereinander
+img: brahmali.png
+img-alt: Bild von Ajahn Brahmali
 order: 2.5
 ---
 

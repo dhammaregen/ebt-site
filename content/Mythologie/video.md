@@ -20,6 +20,8 @@ Fortlaufender Kurs mit vier Vorträgen von Bhante Sujato
 
 Die buddhistische Überlieferung hat das älteste und umfangreichste Korpus der Welt an mythologischer Literatur geschaffen und weitergegeben, doch dessen Wert wird kaum je gewürdigt. Mythologie schafft einen Sinn, indem sie ein Volk in eine Geschichte über die Welt einbindet. Die buddhistische Mythologie lehrt uns, wie Budhisten sich über die Jahre gemüht haben, die reine und erhabene Lehre des Buddha mit ihrem chaotischen und unvollkommenen Leben in Einklang zu brignen. Es sind die Geschichten, die es nicht zu den „eigentlichen“ Lehren schaffen: Geschichten von Frauen, von Verlust, von den Mittellosen, von Erlösung an den unwahrscheinlichsten Orten. Dieser Kurs bezieht Material aus verschiedenen modernen Interpretationen von Mythos ein, um buddhistische Geschichten zu erhellen; er argumentiert, dass die Mythologie einen zentralen Platz in unserem Verständnis verdient, wie wir als Menschen, die von den Lehren des Buddha bewegt werden, von denen lernen können, die vor uns kamen.
 
+Die Vorträge sind in englischer Sprache. Sie können in den Videoeinstellungen deutsche Untertitel aktivieren.
+
 Teil 1: 21. Mai 2019
 
 <iframe width="690" height="388" src="https://www.youtube-nocookie.com/embed/lgtxSNcNWoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

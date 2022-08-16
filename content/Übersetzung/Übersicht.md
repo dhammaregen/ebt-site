@@ -14,7 +14,7 @@ Zu den [Suttas](/suttas)
 Bitte klicken Sie auf „Such mir etwas aus!“ oder finden Sie Suchbegriffe über das Suchfeld. Sie können auch Sutta-Kennziffern in das Suchfeld eingeben, wie etwa `AN 10.61`.
 
 Bisher liegen folgende Suttas auf *Dhammaregen* vor:
-- Dīgha-Nikāya: DN 6-7, DN 10, DN 12, DN 14-21, DN 23-25, DN 28-34
+- Dīgha-Nikāya: DN 6-7, DN 10, DN 12, DN 14-21, DN 23-25, DN 27-34
 - Majjhima-Nikāya: MN 2, MN 7, MN 10, MN 23, MN 33, MN 44, MN 81, MN 140-141
 - Saṁyutta-Nikāya: SN 1-21; SN 22 in Arbeit; SN 35.28, SN 35.238; SN 40; SN 42.11; SN 44.1; SN 45.2-3, SN 45.8; SN 46.51, SN 46.55; SN 47; SN 51.10; SN 54.9, SN 54.11; SN 55.10; SN 56
 - Aṅguttara-Nikāya: vollständig

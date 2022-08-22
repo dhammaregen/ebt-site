@@ -2,7 +2,7 @@
 title: Vier außerordentlich dichte Wörter
 description: Bhikkhu Sujato
 img: sujato.png
-img-alt: Bhante Sujato sitzt auf Felsen
+img-alt: Foto von Bhante Sujato
 order: 10
 ---
 

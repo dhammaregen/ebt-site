@@ -301,6 +301,10 @@
 	"Studium/Chronik",
 	"_content/video",
 	"Mythologie/video",
+	"_content/lektüre",
+	"Mythologie/lektüre",
 	"_content/dicht",
-	"Mythologie/dicht"
+	"Mythologie/dicht",
+	"_content/Mythos",
+	"Mythologie/Mythos"
 ]

@@ -8,7 +8,7 @@ order: 999
 
 ### Buddhistische Mythologie: Helden und schwierige Zeiten
 
-Vortrag von Bhante Sujato beim [Buddha-Talk Hamburg](https://www.buddha-talk.de/), 15.12.2019 (mit deutscher Übersetzung)
+Vortrag von Bhante Sujato beim [Buddha-Talk Hamburg](https://www.buddha-talk.de/), 15.12.2019 (Englisch mit deutscher Übersetzung)
 
 In den frühen Texten sehen wir einen Buddha, der sich nicht scheut, über seine Schwierigkeiten und Nöte zu sprechen, der die Suche nach dem Erwachen mit einem sehr menschlichen Gesicht unternimmt. Die klassische Heldengeschichte erzählt die Suche nach dem wertvollsten Gut, ohne dass der Held sich von Hindernissen jeglicher Art einschüchtern lässt. Während spätere Traditionen einen Buddha zeichnen, der so erhaben und vollkommen ist, dass das gewöhnliche Menschsein daneben bisweilen klein erscheint. Wenn wir seine Lehren direkt lesen, sehen wir einen Buddha, dessen Ringen unsere eigenen Kämpfe widerspiegelt.
 
@@ -36,6 +36,6 @@ Die Vorträge sind in englischer Sprache. Sie können in den Videoeinstellungen 
 
 ### Crashkurs Mythologie der Welt
 
-Kurzlehrgang in mehreren Episoden, englisch mit deutschen Untertiteln. Hier die erste Folge, weitere finden Sie auf YouTube.
+Kurzlehrgang in mehreren Episoden, Englisch mit deutschen Untertiteln. Hier die erste Folge, weitere finden Sie auf YouTube.
 
 <iframe width="690" height="388" src="https://www.youtube-nocookie.com/embed/HeX6CX5LEj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

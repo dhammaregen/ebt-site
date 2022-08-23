@@ -33,3 +33,9 @@ Die Vorträge sind in englischer Sprache. Sie können in den Videoeinstellungen 
 
 
 <iframe width="690" height="388" src="https://www.youtube-nocookie.com/embed/Pa-CS6366FM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Crashkurs Mythologie der Welt
+
+Kurzlehrgang in mehreren Episoden, englisch mit deutschen Untertiteln. Hier die erste Folge, weitere finden Sie auf YouTube.
+
+<iframe width="690" height="388" src="https://www.youtube-nocookie.com/embed/HeX6CX5LEj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

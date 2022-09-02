@@ -37,7 +37,7 @@ Mit der Zeit wurde der Begriff als allgemeiner polemischer Ausdruck für Indien 
 
 Im Rest des Sutta stellt Mahākaccāna das dekadente Verhalten heutiger Brahmanen den tugendhaften meditierenden Weisen der Vergangenheit gegenüber. Er lässt seinen sonst typischen analytischen Stil beiseite und gebraucht listig Strophen im vedischen Stil; damit zeigt er seine Beherrschung der vedischen Kultur und legt gleichzeitig eine monumentale Abhandlung vor.
 
-Ich denke also, wir sollten *bharata* hier im Sinn von „wahren, ursprünglichen, kultivierten (d. h. brahmanischen) Indern“ verstehen. Die Endung *aka* hat hier die gleiche Dynamik wie in *samaṇaka*, d. h. „falsch“.
+Ich denke also, wir sollten *bharata* hier im Sinn der „wahren, ursprünglichen, kultivierten (d. h. brahmanischen) Inder“ verstehen. Die Endung *aka* hat hier die gleiche Dynamik wie in *samaṇaka*, d. h. „falsch“.
 
 Es scheint, Rabauken, die behaupten, die richtigen, wahren Was-weiß-Ichs zu sein, sind keine neue Erscheinung.
 

@@ -1,6 +1,6 @@
 ---
 title: Die Schlange Gurrangatch und der Jäger Mirragan
-description: Bhikkhu Sujato
+description: Bhikkhu Sujato – ein australischer Mythos
 img: rainbow-naga.png
 img-alt: Regenbogenfarbige Schlange vor einem Tempel in Bangkok
 order: 900

@@ -27,7 +27,7 @@ In [SN 35.132](/suttas/#sn35.132/de/sabbamitta:0.1) haben wir ein interessantes 
 
 In diesem Sutta gibt es Vieles, das von Interesse ist, aber ich will das Augenmerk auf den anscheinend nur hier vorkommenden Begriff *bharataka* lenken. Wie man in meiner (provisorischen!) Übersetzung erkennen kann, denke ich, dass dies ein früher,  möglicherweise einmaliger, Fall ist, in dem der Ausdruck im Sinn von „indisch“ verwendet wird. [Inzwischen wurde die Übersetzung dahingehend abgeändert, dass „Inder“ durch „Erben der vedischen Kultur“ ersetzt wurde. AdÜ]
 
-Bhikkhu Bodhi scheint das Wort von *bhāra* abzuleiten, im Sinn von „Unterstützer“, aber ich denke, dass das ein Fehler ist. Der entscheidende Punkt ist, dass die Jugendlichen, die übereifrige fundamentalistische Brahmanen sind, die Tatsache kritisieren, dass Brahmanen, die es soch besser wissen sollten, die buddhistischen Mönche unterstützen. Das Grundthema des ganzen Sutta ist die wahre Natur der Brahmanen.
+Bhikkhu Bodhi scheint das Wort von *bhāra* abzuleiten, im Sinn von „Unterstützer“, aber ich denke, dass das ein Fehler ist. Der entscheidende Punkt ist, dass die Jugendlichen, die übereifrige fundamentalistische Brahmanen sind, die Tatsache kritisieren, dass Brahmanen, die es doch besser wissen sollten, buddhistische Mönche unterstützen. Das Grundthema des ganzen Sutta ist die wahre Natur der Brahmanen.
 
 Aber zuerst ein wenig Hintergrundinformation. Wir sind natürlich mit dem Mahābharata vertraut, dem größten Mythos Indiens, der die Bedeutung dieser Abstammungslinie etabliert. Von Wijesekera wurde argumentiert, dass der Ursprung des Ausdrucks *bharata* *bhāra* sei, im Sinn der „Beute“, die die indo-arischen Reiterfürsten mitnahmen.
 

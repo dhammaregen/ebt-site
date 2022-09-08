@@ -1,6 +1,6 @@
 ---
 title: Projektbeschreibung
-description: Umfang, Vorgehen; Dank und widmung
+description: Umfang, Vorgehen; Dank und Widmung
 img: signpost.png
 img-alt: Pfosten mit Wegweisern im Wald
 order: 1.6

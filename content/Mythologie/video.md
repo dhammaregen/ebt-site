@@ -12,7 +12,7 @@ Vortrag von Bhante Sujato beim [Buddha-Talk Hamburg](https://www.buddha-talk.de/
 
 In den frühen Texten sehen wir einen Buddha, der sich nicht scheut, über seine Schwierigkeiten und Nöte zu sprechen, der die Suche nach dem Erwachen mit einem sehr menschlichen Gesicht unternimmt. Die klassische Heldengeschichte erzählt die Suche nach dem wertvollsten Gut, ohne dass der Held sich von Hindernissen jeglicher Art einschüchtern lässt. Während spätere Traditionen einen Buddha zeichnen, der so erhaben und vollkommen ist, dass das gewöhnliche Menschsein daneben bisweilen klein erscheint. Wenn wir seine Lehren direkt lesen, sehen wir einen Buddha, dessen Ringen unsere eigenen Kämpfe widerspiegelt.
 
-<iframe width="690" height="388" src="https://www.youtube-nocookie.com/embed/RFr2arZlgbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RFr2arZlgbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Buddhistische Mythologie: das Heilige und das Profane
 
@@ -23,19 +23,19 @@ Die buddhistische Überlieferung hat das älteste und umfangreichste Korpus der 
 Die Vorträge sind in englischer Sprache. Sie können in den Videoeinstellungen deutsche Untertitel aktivieren.
 
 
-<iframe width="690" height="388" src="https://www.youtube-nocookie.com/embed/lgtxSNcNWoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lgtxSNcNWoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<iframe width="690" height="388" src="https://www.youtube-nocookie.com/embed/D5QI5bORT7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/D5QI5bORT7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<iframe width="690" height="388" src="https://www.youtube-nocookie.com/embed/54fXWg1EO00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/54fXWg1EO00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<iframe width="690" height="388" src="https://www.youtube-nocookie.com/embed/Pa-CS6366FM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pa-CS6366FM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Crashkurs Mythologie der Welt
 
 Kurzlehrgang in mehreren Episoden, Englisch mit deutschen Untertiteln. Hier die erste Folge, weitere finden Sie auf YouTube.
 
-<iframe width="690" height="388" src="https://www.youtube-nocookie.com/embed/HeX6CX5LEj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HeX6CX5LEj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

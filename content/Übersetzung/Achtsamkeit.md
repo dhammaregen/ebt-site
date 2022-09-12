@@ -190,7 +190,7 @@ Zum Abschluss bringe ich noch Bhikkhu Sujatos rekonstruiertes „\*Satipaṭṭh
 
 In dem Video spricht Bhikkhu Sujato u. a. über ein Sutta aus dem Satipaṭṭhāna-Saṁyutta, [SN 47.7](/suttas/#sn47.7/de/sabbamitta:0.1).
 - Ca. 39:20: Die Besprechung von SN 47.7 beginnt
-- Ca. 48:20: Über den Begriff *mindfulness*
+- Ca. 48:20: Über den Begriff *Achtsamkeit* (mindfulness)
 - Ca. 1:01:00: Über den Begriff *anupassi*
 - Ca. 1:03:00: Über „einen Körper im Körper betrachten"
 - Ca. 1:12:30: Warum es „Achtsamkeitsmeditation“ (mindfulness meditation) heißt

@@ -6,7 +6,7 @@ img-alt: Aufgeschlagenes Buch am Fenster
 order: 999.5
 ---
 
-Hier sollen einige Bücher, Artikel usw. zum Thema zusammengestellt werden. Es sind moderne Arbeiten über Mythologie und vergleichende Mythologie, nicht Buddhismus-spezifisch.
+Hier sollen einige Bücher, Artikel usw. zum Thema zusammengestellt werden. Es sind moderne Arbeiten über Mythologie und vergleichende Mythologie, zum großen Teil nicht Buddhismus-spezifisch.
 
 ### Bücher
 

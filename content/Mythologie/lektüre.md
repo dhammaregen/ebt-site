@@ -13,7 +13,8 @@ Hier sollen einige Bücher, Artikel usw. zum Thema zusammengestellt werden. Es s
 - Joseph Campbell, *Der Heros in tausend Gestalten*  
    Beschreibung auf Wikipedia: [über das Buch](https://de.wikipedia.org/wiki/Der_Heros_in_tausend_Gestalten) und [über den Autor](https://de.wikipedia.org/wiki/Joseph_Campbell)
 - James George Frazer, *Der goldene Zweig*  
-   Beschreibung auf Wikipedia: [über das Buch](https://de.wikipedia.org/wiki/Der_goldene_Zweig) und [über den Autor](https://de.wikipedia.org/wiki/James_George_Frazer)
+   Beschreibung auf Wikipedia: [über das Buch](https://de.wikipedia.org/wiki/Der_goldene_Zweig) und [über den Autor](https://de.wikipedia.org/wiki/James_George_Frazer)  
+   Buch auf Wikisource: [zum Online-Lesen](https://en.wikisource.org/wiki/The_Golden_Bough) (englisch)
 - Erich Neumann, *Die große Mutter*  
    Beschreibung auf Wikipedia: [über das Buch](https://en.wikipedia.org/wiki/The_Great_Mother) (nur auf Englisch) und [über den Autor](https://de.wikipedia.org/wiki/Erich_Neumann_(Mediziner))
 - Erich Neumann, *Ursprungsgeschichte des Bewusstseins*  

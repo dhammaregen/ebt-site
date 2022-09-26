@@ -1,8 +1,8 @@
 ---
 title: Projektbeschreibung
 description: Umfang, Vorgehen; Dank und Widmung
-img: signpost.png
-img-alt: Pfosten mit Wegweisern im Wald
+img: armand-khoury-Ba6IlmAzl-k-unsplash.png
+img-alt: Mensch auf hoher Leiter, die in einem See steht, streicht Himmel blau
 order: 1.6
 ---
 
@@ -22,11 +22,11 @@ Die ursprüngliche Quelle ist die digitale Mahāsaṅgīti-Ausgabe des Pali-Tipi
 
 Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.
 
-Alle Texte sind der [Datenbank von SuttaCentral](https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta) entnommen.
-
 <div style="text-align: center;">* * *</div>
 
-[Weshalb brauchen wir neue deutsche Sutta-Übersetzungen?](/Übersetzung/Weshalb) – Überlegungen von Sabbamitta Silashin
+Alle Texte sind der [Datenbank von SuttaCentral](https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta) entnommen.
+
+Überlegungen von Sabbamitta Silashin: [Weshalb brauchen wir neue deutsche Sutta-Übersetzungen?](/Übersetzung/Weshalb) 
 
 ### Dank und Widmung 🙏 ❤️
 

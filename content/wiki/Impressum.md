@@ -72,7 +72,7 @@ Es soll in diesem Zusammenhang darauf hingewiesen werden, dass mit dem Einsatz g
 
 Diese Webseite verwendet in den Grundeinstellungen keine Cookies. Wenn Sie es wünschen, können Sie in den Einstellungen dieser Seite Cookies aktivieren, um die Benutzerfreundlichkeit zu erhöhen. Zu einem anderen als dem genannten Zweck werden Cookies auf dieser Webseite nicht verwendet. Sie können die betreffende Einstellung jederzeit ändern.
 
-<!-- Diese Webseite verwendet Cookies lediglich zu dem Zweck, Ihre Einstellungen und Ihre Chronik in Ihrem Browser zu speichern. -->
+<!-- Diese Webseite verwendet Cookies lediglich zu dem Zweck, die Darstellung der Webseiteninhalte zu ermöglichen und die Einstellungen des Benutzers in dessen Browser zu speichern. -->
 
 #### Externe Links
 

@@ -1,7 +1,7 @@
 ---
 title: Projektbeschreibung
 description: Umfang, Vorgehen; Dank und Widmung
-img: fabrizio-conti-UqQ7-LM-PTk-unsplash.png
+img: pixabay-mountain-climbing-g9dd3068e3_640.png
 img-alt: Mensch auf hoher Leiter, die in einem See steht, streicht Himmel blau
 order: 1.6
 ---

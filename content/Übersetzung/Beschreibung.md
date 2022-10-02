@@ -1,7 +1,7 @@
 ---
 title: Projektbeschreibung
 description: Umfang, Vorgehen; Dank und Widmung
-img: armand-khoury-Ba6IlmAzl-k-unsplash.png
+img: fabrizio-conti-UqQ7-LM-PTk-unsplash.png
 img-alt: Mensch auf hoher Leiter, die in einem See steht, streicht Himmel blau
 order: 1.6
 ---

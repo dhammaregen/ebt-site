@@ -1,12 +1,20 @@
 ---
-title: Inhaltsverzeichnis
+title: INHALTSVERZEICHNIS
 description: Übersicht über die Newsletter-Themen
 img: letter.png
 img-alt: Brief, der in einer Baumgabel steckt
 order: -9999
 ---
 
-Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zum jeweiligen Newsletter zu gelangen.
+Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
+
+### [Oktober 2022](/news/2022-10)
+- Rilke und der Buddha (SN8.8)
+- Tissa, Cousin des Buddha von väterlicher Seite (SN 22.84, SN 21.9, Thag 1.39)
+- Heißt Satipaṭṭhāna „Achtsamkeitsmeditation“?
+- Siebter Weiser oder höchster Weiser?
+- Nanda und nördliche schwarze polierte Keramik
+- Newsletter-Übersichtsseite
 
 ### [September 2022](/news/2022-09)
 - Buddhistische Mythologie – was ist das?
@@ -36,7 +44,7 @@ Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. 
 
 ### [April 2022](/news/2022-04)
 - Pasenadi, sympathischer Herrscher mit menschlichen Schwächen (SN 3, AN 10.30)
-- Audio mit menschlicher Stimme (SN 21.)
+- Audio mit menschlicher Stimme (SN 2.1)
 - In eigener Sache: technische Umbauarbeiten
 
 ### [März 2022 (2)](/news/2022-03-2)

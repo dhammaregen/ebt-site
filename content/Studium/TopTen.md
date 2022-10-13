@@ -21,7 +21,7 @@ Es hat seinen Grund, warum diese Lehrreden so beliebt sind: Es sind schöne, mac
 Im Wildpark bei Isipatana lehrte der Buddha eine Gruppe von fünf Asketen die vier edlen Wahrheiten und den edlen achtfachen Pfad. Auf dem Höhepunkt der Unterweisung hatte Koṇḍañña einen Einblick in die Wahrheit, und der Anfang des Lehrsystems des Buddha war begründet. Diese kurze Unterweisung, die als das Dhammacakkappavattana-Sutta bekannt ist, „das Rad des Dhamma ins Rollen bringen“, oder kurz Dhammacakka, ist zweifelsohne die berühmteste Lehrrede des Buddhismus. Sie wird regelmäßig rezitiert und auswendig gelernt und bildet die Grundlage jedes ernsthaften Kurses über die Lehren des Dhamma. Man kann sagen, dass jede spätere Lehre nur eine weitere Ausführung der Ideen ist, die hier vorgestellt werden.
 
 ### Warum lesen Sie nicht: die Aufgliederung der Wahrheiten (--> [MN 141](/suttas#MN141/de/sabbamitta:0.1))
-Im Saccavibhaṅga-Sutta erinnert der Buddha an das Dhammacakka und erwähnt, dass der Ehrwürdige Sāriputta sehr wohl in der Lage ist, die vier edlen Wahrheiten ausführlich zu lehren – was dieser dann tut. Dieser Text macht nicht nur die Bedeutung von Dingen klar, die in der ersten Lehrrede kurz angesprochen wurden; er zeigt auch die Reife des Sangha, der jetzt bestens in der Lage ist, das Rad selbst weiterzurollen.
+Im Saccavibhaṅga-Sutta erinnert der Buddha an das Dhammacakka und erwähnt, dass der Ehrwürdige Sāriputta sehr wohl in der Lage ist, die vier edlen Wahrheiten ausführlich zu lehren – was dieser dann tut. Dieser Text macht nicht nur die Bedeutung von Dingen klar, die in der ersten Lehrrede kurz angesprochen wurden; er zeigt auch die Reife des Saṅgha, der jetzt bestens in der Lage ist, das Rad selbst weiterzurollen.
 
 ### 2. Sie kennen: das Mettā-Sutta (--> [Snp 1.8](/suttas#snp1.8/de/sabbamitta:0.1) und --> [Kp 9](/suttas#kp9/de/sabbamitta:0.1))
 
@@ -41,7 +41,7 @@ Als der Buddha den jungen Mann Sigala antrifft, als dieser die vier Himmelsricht
 
 ### 4. Sie kennen: das Ratana-Sutta über die drei Juwelen (--> [Snp 2.1](/suttas#snp2.1/de/sabbamitta:0.1) und --> [Kp 6](/suttas#kp6/de/sabbamitta:0.1))
 
-Das Ratana-Sutta ist zusammen mit dem Mettā- und dem Maṅgala-Sutta einer der berühmtesten „Paritta-“ oder Schutztexte, die den Eckpfeiler des Sprechgesangs auf Pali in der Theravada-Welt bilden. Es zählt die Tugenden der „drei Juwelen“ auf: des Buddha, des Dhamma und des Sangha. Tatsächlich leitet sich vielleicht sogar die ganze Idee der „drei Juwelen“ von diesem Sutta ab, obwohl die Juwelen hier Eigenschaften sind, die man im Buddha, im Dhamma und im Sangha findet. Diese Verse, die voll hingebungsvoller Schönheit sind, enthalten auch viele Hinweise auf tiefe Meditationszustände und erhabene Erkenntnisse.
+Das Ratana-Sutta ist zusammen mit dem Mettā- und dem Maṅgala-Sutta einer der berühmtesten „Paritta-“ oder Schutztexte, die den Eckpfeiler des Sprechgesangs auf Pali in der Theravada-Welt bilden. Es zählt die Tugenden der „drei Juwelen“ auf: des Buddha, des Dhamma und des Saṅgha. Tatsächlich leitet sich vielleicht sogar die ganze Idee der „drei Juwelen“ von diesem Sutta ab, obwohl die Juwelen hier Eigenschaften sind, die man im Buddha, im Dhamma und im Saṅgha findet. Diese Verse, die voll hingebungsvoller Schönheit sind, enthalten auch viele Hinweise auf tiefe Meditationszustände und erhabene Erkenntnisse.
 
 ### Warum lesen Sie nicht: das Sela-Sutta über Hingabe an den Buddha (--> [MN 92](/suttas#mn92/de/sabbamitta:0.1))
 
@@ -65,7 +65,7 @@ Das Satipaṭṭhāna-Sutta ist mit seiner Betonung eines bestimmten Gliedes des
 
 ### 7. Sie kennen: den Dhammapada (--> [Dhp](/suttas#dhp1/de/sabbamitta:0.1))
 
-Diese Verssammlung bleibt ein anhaltender Lieblingstext, nicht nur unter Buddhisten. Sie wurde viele Male übersetzt und gilt als die älteste Sammlung der Welt an ergreifenden Sprüchen. Sie ist die ursprüngliche Quelle vieler Bilder und Zitate, die im Buddhismus zirkulieren, und heutzutage ist Vieles davon mit der spirituellen Weisheit der Welt verschmolzen.
+Diese Verssammlung bleibt ein dauerhafter Lieblingstext, nicht nur unter Buddhisten. Sie wurde viele Male übersetzt und gilt als die älteste Sammlung der Welt an ergreifenden Sprüchen. Sie ist die ursprüngliche Quelle vieler Bilder und Zitate, die im Buddhismus zirkulieren, und heutzutage ist Vieles davon mit der spirituellen Weisheit der Welt verschmolzen.
 
 ### Warum lesen Sie nicht: das Udāna (--> [Ud](/suttas#ud1.1/de/sabbamitta:0.1))
 

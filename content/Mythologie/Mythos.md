@@ -30,7 +30,7 @@ Wenn die grundlegende Form des Mythos die Schöpfungsgeschichte ist, so ist das 
 
 Doch das ist nur ein Beispiel. In Ägypten, Griechenland, Indien, Persien, überall sehen wir das Gleiche. Und nicht nur das, wir sehen das Gleiche bereits vom ersten Anfang an. Der älteste Mythos, den wir haben – Gilgamesch –, enthält bereits Erinnerungen an ältere Mythen und Betrachtungen darüber, wie Götter betrogen und sich zurückgezogen haben.
 
-Das ist natürlich ein übergreifendes Thema buddhistischer Texte. Sie sind zwar typischerweise sanfter in der Herangehensweise – wir nageln unsere alten Götter nicht an Kreuze, wir machen Witze über sie –, aber der Effekt ist der Gleiche. Sobald wir den nötigen Abstand und die Ironie haben, um in der Lage zu sein, einen Witz auf Gottes Kosten zu machen, ist es mit diesem Gott vorbei. Wir verlassen uns nicht länger auf göttlches Eingreifen oder göttliche Offenbarung, um die Wahrheit oder einen Sinn zu finden, wir verlassen uns auf unsere eigene Erfahrung, unseren Verstand, unsere Erkenntnis.
+Das ist natürlich ein übergreifendes Thema buddhistischer Texte. Sie sind zwar typischerweise sanfter in der Herangehensweise – wir nageln unsere alten Götter nicht an Kreuze, wir machen Witze über sie –, aber der Effekt ist der Gleiche. Sobald wir den nötigen Abstand und die Ironie haben, um in der Lage zu sein, einen Witz auf Kosten Gottes zu machen, ist es mit diesem Gott vorbei. Wir verlassen uns nicht länger auf göttlches Eingreifen oder göttliche Offenbarung, um die Wahrheit oder einen Sinn zu finden, wir verlassen uns auf unsere eigene Erfahrung, unseren Verstand, unsere Erkenntnis.
 
 Die Geschichte vom Tod Gottes ist auch die Geschichte vom Aufstieg der Menschheit. Nietzsche:
 

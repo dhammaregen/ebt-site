@@ -14,13 +14,15 @@ Zu den [Suttas](/suttas)
 Bitte klicken Sie auf „Such mir etwas aus!“ oder finden Sie Suchbegriffe über das Suchfeld. Sie können auch Sutta-Kennziffern in das Suchfeld eingeben, wie etwa `AN 10.61`.
 
 Bisher liegen folgende Suttas auf *Dhammaregen* vor:
-- Dīgha-Nikāya: DN 6-7, DN 10, DN 12, DN 14-21, DN 23-25, DN 27-34
+- Dīgha-Nikāya: DN 6-7, DN 10, DN 12, DN 14-25, DN 27-34
 - Majjhima-Nikāya: MN 2, MN 7, MN 10, MN 23, MN 33, MN 44, MN 52, MN 81, MN 109, MN 139-141
 - Saṁyutta-Nikāya: SN 1-24; SN 35 in Arbeit; SN 40; SN 42.11; SN 44.1; SN 45.2-3, SN 45.8; SN 46.51, SN 46.55; SN 47; SN 51.10; SN 54.9, SN 54.11; SN 55.10; SN 56
 - Aṅguttara-Nikāya: vollständig
-- Khuddaka-Nikāya: Kp vollständig; Dhp 1-20, Dhp 167-178; Ud vollständig; Iti 26-27, Iti 74, Iti 78; Snp 1.4, Snp 1.8, Snp 1.10, Snp 2.1, Snp 2.4-5, Snp 2.12, Snp 10.12; Thag 1.39, 1.43, 1.66, 1.69, 1.97, Thag 2.17, 2.22, Thag 4.10, Thag 5.10, Thag 15.1-2, Thag 18.1, Thag 20-21; Thig vollständig
+- Khuddaka-Nikāya: Kp vollständig; Dhp 1-20, Dhp 167-178, Dhp 273-289; Ud vollständig; Iti 26-27, Iti 74, Iti 78, Iti 106; Snp 1.4, Snp 1.8, Snp 1.10, Snp 2.1, Snp 2.4-5, Snp 2.12, Snp 10.12; Thag 1.39, 1.43, 1.66, 1.69, 1.97, Thag 2.17, 2.22, Thag 4.10, Thag 5.10, Thag 15.1-2, Thag 18.1, Thag 20-21; Thig vollständig
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
+
+(Wegen einer technischen Übergangssituation ist die Audiofunktion momentan nicht für alle Übersetzungen verfügbar. In manchen Fällen kann das Audio eine veraltete Version des Textes wiedergeben, die von der Darstellung auf dem Bildschirm abweicht.)
 
 Zur [Beschreibung](/Übersetzung/Beschreibung) des Übersetzungsprojekts
 

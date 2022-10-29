@@ -203,6 +203,8 @@
 	"images/myth",
 	"_content/map",
 	"images/map",
+	"_content/lumpOfFoam",
+	"images/lumpOfFoam",
 	"_content/listen",
 	"images/listen",
 	"_content/links",

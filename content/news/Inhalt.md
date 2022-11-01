@@ -8,6 +8,15 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [November 2022](/news/2022-11)
+- In eigener Sache: Zukunftsausblick
+  - Zuerst die schlechte Nachricht …
+  - … die gute Nachricht soll aber nicht fehlen!
+- Und nun wie versprochen ein bisschen Dhamma!
+  - Aus dem Saṁyutta über die Aggregate (SN 22.95)
+  - Wenn der Körper sich nicht mehr wohlfühlt (SN 22.1)
+  - Wenn das Meditieren nicht mehr so klappt (SN 22.88)
+
 ### [Oktober 2022](/news/2022-10)
 - Rilke und der Buddha (SN8.8)
 - Tissa, Cousin des Buddha von väterlicher Seite (SN 22.84, SN 21.9, Thag 1.39)

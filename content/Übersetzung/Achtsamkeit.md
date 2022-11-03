@@ -6,7 +6,7 @@ img-alt: Achtsam aufeinandergelegte Steine am Strand
 order: 4
 ---
 
-Die Hauptquelle für diese Notizen ist Bhikkhu Sujatos Buch *Eine Geschichte der Achtsamkeit* (A History of Mindfulness, [Kostenloses Ebook bei Lulu.com](https://www.lulu.com/shop/bhikkhu-sujato/a-history-of-mindfulness/ebook/product-20401381.html?q=sujato&page=1&pageSize=4), englisch). Eine vollständige Übersetzung dieses Werks ist nicht geplant. Hier folgen lediglich einige Auszüge, die für die untersuchte Frage relevant sind. Meine Bemerkungen sind großenteils Paraphrasen und Zusammenfassungen; einige Stellen gebe ich als eigentliche Übersetzung, die dann als Zitat gekennzeichnet ist. Zuletzt füge ich noch eine Übersetzung des rekonstruierten \*Satipaṭṭhāna-Mūla an, des mutmaßlichen Vorläufertextes, aus dem die heutigen Satipaṭṭhāna-Suttas hervorgegangen sind.
+Die Hauptquelle für diese Notizen ist Bhikkhu Sujatos Buch *Eine Geschichte der Achtsamkeit* (A History of Mindfulness, [Kostenloses Ebook bei Lulu.com](https://www.lulu.com/shop/bhikkhu-sujato/a-history-of-mindfulness/ebook/product-20401381.html?q=sujato&page=1&pageSize=4), englisch). Eine vollständige Übersetzung dieses Werks ist nicht geplant. Hier folgen lediglich einige Auszüge, die für die untersuchte Frage relevant sind. Meine Bemerkungen sind großenteils Paraphrasen und Zusammenfassungen; einige Stellen gebe ich als eigentliche Übersetzung, die dann als Zitat gekennzeichnet ist. Zuletzt füge ich noch eine Übersetzung des rekonstruierten \*Satipaṭṭhāna-Mūla an, des mutmaßlichen Vorläufertextes, aus dem die heutigen Satipaṭṭhānasuttas hervorgegangen sind.
 
 Ergänzend findet sich noch ein Videovortrag, in dem der Autor ebenfalls auf die Frage eingeht.
 
@@ -16,11 +16,11 @@ Ergänzend findet sich noch ein Videovortrag, in dem der Autor ebenfalls auf die
 
 Ich möchte zunächst einen ganz kurzen Abriss über dieses Buch geben. Man kann ihn auch gerne überspringen und gleich zu dem Punkt „Heißt Satipaṭṭhāna ‚Achtsamkeitsmeditation‘?“ gehen. Zu bemerken ist noch, dass in diesem Buch, das entstand, bevor der Autor mit seinem Sutta-Übersetzungsprojekt begann, teilweise eine Terminologie verwendet wird, die er heute nicht mehr verwendet.
 
-Der Ausgangspunkt für dieses Buch war die These, dass gewisse Entscheidungen, die die Bearbeiter des Palikanons bei der Zusammenstellung des Satipaṭṭhāna-Sutta trafen, dazu führten, dass der Schwerpunkt der Achtsamkeits-Praxis deutlich von Samatha hin zu Vipassanā verschoben wurde, und dass diese Entwicklung durch vergleichende Textstudien nachvollziehbar sein würde. Ich denke, dass das Buch genügend Material zusammenträgt, dass diese These als gut untermauert gelten kann. 
+Der Ausgangspunkt für dieses Buch war die These, dass gewisse Entscheidungen, die die Bearbeiter des Palikanons bei der Zusammenstellung des Satipaṭṭhānasutta trafen, dazu führten, dass der Schwerpunkt der Achtsamkeits-Praxis deutlich von Samatha hin zu Vipassanā verschoben wurde, und dass diese Entwicklung durch vergleichende Textstudien nachvollziehbar sein würde. Ich denke, dass das Buch genügend Material zusammenträgt, dass diese These als gut untermauert gelten kann. 
 
 Das Buch besteht aus zwei Teilen:
 1. Die Darlegung der GIST, *General Integrated Sutta Theory* = „Allgemeine integrierte Theorie der Suttas“
-1. Die eigentliche Studie zum Satipaṭṭhāna-Sutta
+1. Die eigentliche Studie zum Satipaṭṭhānasutta
 
 Beide überlappen sich teilweise und bestätigen einander wechselseitig.
 
@@ -47,15 +47,15 @@ Dabei mögen diese Antworten gar nicht besondes spektakulär erscheinen; dem Aut
 
 <div style="text-align: center;">* * *</div>
 
-Der zweite Teil des Buches widmet sich spezifischer der Entwicklung der Satipaṭṭhāna-Suttas im Palikanon und den übrigen Überlieferungen. Besonderes Augenmerk liegt dabei auf dem Verhältnis zwischen Samatha und Vipassanā in den verschiedenen Versionen. Beide Teile, die GIST und die Geschichte der Achtsamkeit, berühren und bestätigen einander in einigen Bereichen. 
+Der zweite Teil des Buches widmet sich spezifischer der Entwicklung der Satipaṭṭhānasuttas im Palikanon und den übrigen Überlieferungen. Besonderes Augenmerk liegt dabei auf dem Verhältnis zwischen Samatha und Vipassanā in den verschiedenen Versionen. Beide Teile, die GIST und die Geschichte der Achtsamkeit, berühren und bestätigen einander in einigen Bereichen. 
 
 Einige Punkte (aus dem Nachwort entnommen):
 - Der historische und kulturelle Kontext, in dem die buddhistischen Schriften entstanden sind, ist in einigen Fällen für das richtige Verständnis wesentlich.
-- Die Satipaṭṭhāna-Texte in den Saṁyuttas sind als die primären Quellen anzusehen. Die eigentlichen Satipaṭṭhāna-Suttas sind sekundäre Entwicklungen. Daher ist es wesentlich, die Saṁyutta-Texte bei dieser Untersuchung mit zu berücksichtigen.
+- Die Satipaṭṭhāna-Texte in den Saṁyuttas sind als die primären Quellen anzusehen. Die eigentlichen Satipaṭṭhānasuttas sind sekundäre Entwicklungen. Daher ist es wesentlich, die Saṁyutta-Texte bei dieser Untersuchung mit zu berücksichtigen.
 - Nur eine holistische Betrachtung der Lehre ist letztlich zielführend. Einzelne Glieder losgelöst vom Gesamtorganismus zu betrachten, kann zu irreführenden Ergebnissen führen. So liegt das Zentrum des Dhamma bei den edlen Wahrheiten und den Lehren, die unmittelbar von ihnen abgeleitet sind. Für Satipaṭṭhāna heißt das, dass es nicht der „einzige Weg“ ist, sondern der siebte Faktor des achtfachen Pfades.
 - Der Saṁyutta ist als die älteste Sammlung anzusehen und existierte wahrscheinlich bereits zu Lebzeiten des Buddha. Vermutlich war er das, was beim ersten Konzil nach seinem Tod rezitiert wurde. Erweiterungen bestehen hier zumeist lediglich in geringfügigen redaktionellen Anpassungen; doch in ein paar Fällen kann man auch hier einen leichten inhaltlichen Einfluss der Schulen erkennen.
 - Vergleichende Untersuchungen zeigen, dass die Ähnlichkeiten zwischen den Schulen, besonders, was die Darstellung der Lehre betrifft, im Vergleich zu den Unterschieden bei Weitem überwiegen.
-- Es zeigt sich, dass in späteren Werken die größte Betonung auf den Zuwächsen liegt, die die Satipaṭṭhāna-Suttas über ihren ursprünglichen Inhalt hinaus erfahren haben. Diese bestehen hauptsächlich in dem Vipassanā-Refrain und dem Hinzunehmen der Aggregate, Sinnesfelder und edlen Wahrheiten zur Betrachtung der Dhammas. Aber alle Schulen haben auch wichtige Aspekte richtig bewahrt und erklärt. Somit ist das Ergebnis einer sorgfältigen Analyse weder, dass man den Traditionalisten zustimmt, die das von ihrer Schule Überliefterte als die absolute Wahrheit ansehen, noch den radikalen modenen Reformern, die die Traditionen am liebsten ganz abschaffen würden.
+- Es zeigt sich, dass in späteren Werken die größte Betonung auf den Zuwächsen liegt, die die Satipaṭṭhānasuttas über ihren ursprünglichen Inhalt hinaus erfahren haben. Diese bestehen hauptsächlich in dem Vipassanā-Refrain und dem Hinzunehmen der Aggregate, Sinnesfelder und edlen Wahrheiten zur Betrachtung der Dhammas. Aber alle Schulen haben auch wichtige Aspekte richtig bewahrt und erklärt. Somit ist das Ergebnis einer sorgfältigen Analyse weder, dass man den Traditionalisten zustimmt, die das von ihrer Schule Überliefterte als die absolute Wahrheit ansehen, noch den radikalen modenen Reformern, die die Traditionen am liebsten ganz abschaffen würden.
 - In den verschiedenen Meditationsschulen gehen die Meinungen zwischen Samatha- und Vipassanā-zentrierten Schulen oft auseinander. Daher kann ein Ansatz, der die Harmonie zwischen den beiden und ihre gegenseitige Ergänzung betont, eine heilende Kraft sein.
 
 #### Heißt Satipaṭṭhāna „Achtsamkeitsmeditation“?
@@ -94,13 +94,13 @@ Das Kapitel fährt fort, die Rolle der Achtsamkeit an ihrer Stelle in der Reihe 
 >
 >In der stufenweisen Schulung kommen *sati* und *upaṭṭhāna* in der Wendung *parimukhaṁ satiṁ upaṭṭhapeti* vor. Der Ausdruck *parimukha* ist eins dieser einfachen Wörter, die so schwer zu interpretieren sind. Wörtlich bedeutet es „um den Mund herum“, aber der Vibhaṅga sagt „an der Nasenspitze“, und moderne Übersetzungen benutzen gewöhnlich etwas Unbestimmtes wie „vor sich“. Doch der Begriff kommt auch außerhalb von *ānāpānasati* vor, was die Interpretation „an der Nasenspitze“, oder jede buchtsäblich räumliche Interpretatiion, unwahrscheinlich macht. Das Sanskrit hat eine andere Lesart, *pratimukha*. Das hat viele Bedeutungen, darunter „Betrachtung“ und „Gegenwart“. Diese sind beide passend für einen Zusammenhang mit der Meditation. Aber das Wort kommt gewöhnlich, wie hier, zusammen mit *upaṭṭhāna* vor, das ebenfalls „Gegenwart“ bedeutet. Ich denke, wir haben hier ein Beispiel für das im Pali oder Sanskrit sehr häufige Merkmal, dass Synonyme zur Hervorhebung miteinander verbunden werden. Wörtlich: „Man macht die Gegenwart eine Gegenwart für die Gegenwart der Achtsamkeit“; oder schöner: „Man verankert die Gegenwart der Achtsamkeit.“
 
-- **Kapitel 12.1.5 Das Satipaṭṭhāna-Saṁyutta: das Samudaya-Sutta**
+- **Kapitel 12.1.5 Das Satipaṭṭhāna-Saṁyutta: das Samudayasutta**
 
-In fast allen frühen Texten wird Satipaṭṭhāna im Sinn dieses subjektiven Vorgangs verwendet. Eine Ausnahme bildet das Samudaya-Sutta, [SN 47.42](/suttas/#sn47.42/de/sabbamitta:0.1):
+In fast allen frühen Texten wird Satipaṭṭhāna im Sinn dieses subjektiven Vorgangs verwendet. Eine Ausnahme bildet das Samudayasutta, [SN 47.42](/suttas/#sn47.42/de/sabbamitta:0.1):
 
 >Als einziger in den Niāyas behandelt dieser Text „Satipaṭṭhāna“ in einem objektiven Sinn. Normalerweise bezieht sich „Satipaṭṭhāna“ („Verankerung der Achtsamkeit“) auf den subjektiven Akt des Ausrichtens der Achtsamkeit auf eines der vier Felder. Aber hier bezieht sich Satipaṭṭhāna auf die Objekte der Achtsakeit, das heißt auf den Körper usw. („die Dinge, in denen die Achtsamkeit verankert wird“). Wenn man diese objektive Bedeutung wörtlich nimmt, führt das ins Absurde – es würde bedeuten, dass der Körper der „gerade Weg“ zum Nibbāna wäre. Das wäre eine erfreuliche Neuigkeit; denn da Speise die Nahrung für den Körper ist, muss Essen die Nahrung für den Pfad sein! Diese Zweideutigkeit kommt von der Verschiebung des Blickwinkels, da der Rahmen, der für Samatha gedacht war, unter dem Einfluss der fünf Aggregate auf Vipassanā ausgedehnt wird. Beim normalen Satipaṭṭhāna ist man „innerhalb“ der vier Felder und „tritt“ in den Bereich der Meditation „ein“. Hier hingegen hat man sich von dem Vorgang „zurückgezogen“ und ihn zum Zweck der Untersuchung zum Objekt gemacht. Es ist wie der Unterschied zwischen dem Lesen einer Geschichte, wobei man sich in die Charaktere und ihre Gefühle hineinversetzt – man fühlt sich zornig, traurig oder glücklich – und dem Lesen einer Rezension der Geschichte, wobei man eine kritische, analytische Einsicht darüber entwickelt, wie die Geschichte wirkt – man versteht, wie der Text uns dazu bringt, dass wir uns zornig, traurig oder glücklich fühlen. Wir werden später sehen, dass diese Zweideutigkeit in späteren Schriften für erhebliche Verwirrung sorgte.
 
-Wie die Analyse des Autors nahelegt, war die ursprüngliche Heimat des Samudaya-Sutta möglicherweise nicht das Satipaṭṭhāna-Saṁyutta, sondern das Khanda-Saṁyutta, und es kam zu einer Verwirrung, da die Objekte von Satipaṭṭhāna sich teilweise mit den Khandas überlappen.
+Wie die Analyse des Autors nahelegt, war die ursprüngliche Heimat des Samudayasutta möglicherweise nicht das Satipaṭṭhāna-Saṁyutta, sondern das Khanda-Saṁyutta, und es kam zu einer Verwirrung, da die Objekte von Satipaṭṭhāna sich teilweise mit den Khandas überlappen.
 
 <div style="text-align: center;">* * *</div>
 

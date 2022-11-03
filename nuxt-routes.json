@@ -1,6 +1,10 @@
 [
 	"_content/Übersicht",
 	"Übersetzung/Übersicht",
+	"_content/vijayasutta",
+	"Übersetzung/vijayasutta",
+	"_content/mettasutta",
+	"Übersetzung/mettasutta",
 	"_content/keramik",
 	"Übersetzung/keramik",
 	"_content/bhikkhave",
@@ -321,6 +325,8 @@
 	"Mythologie/video",
 	"_content/siebter",
 	"Mythologie/siebter",
+	"_content/metteyya",
+	"Mythologie/metteyya",
 	"_content/mahakaccana",
 	"Mythologie/mahakaccana",
 	"_content/lektüre",
@@ -331,6 +337,8 @@
 	"Mythologie/ghatikara",
 	"_content/dicht",
 	"Mythologie/dicht",
+	"_content/bhaddaji",
+	"Mythologie/bhaddaji",
 	"_content/Mythos",
 	"Mythologie/Mythos"
 ]

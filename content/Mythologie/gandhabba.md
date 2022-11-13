@@ -14,7 +14,7 @@ Traditionelle Erklärungen für merkwürdige Vorstellungen blicken typischerweis
 
 Hier ist die Passage aus MN 93. Sie kommt als Teil eines langen Streitgesprächs über die Kasten vor. Der Brahmanenschüler Assalāyana erklärt die Vorrangstellung der Brahmanen, und der Buddha hinterfragt die Gründe für seinen Glauben. Der Buddha erzählt dann die Geschichte aus der Vergangenheit, ein Gespräch zwischen „Devala dem Dunklen“ – einem der mysteriösen „dunklen Eremiten“, die im Palikanon vorkommen – und sieben brahmanischen Eremiten (ein Anklang an die „sieben Eremiten“ der brahmanischen Überlieferung). Devala provoziert sie, widersteht ihren Flüchen und befragt sie zum Thema Kaste. Sie sagen, sie verstünden, wie ein Embryo empfangen werde:
 
->‚Ein Embryo wird empfangen, wenn diese drei Dinge zusammenkommen: Mutter und Vater kommen zusammen, die Mutter ist in der fruchtbaren Phase ihres Zyklus und der *gandhabba* ist anwesend.‘
+>‚Ein Embryo wird empfangen, wenn diese drei Dinge zusammenkommen: Mutter und Vater kommen zusammen, die Mutter ist in der fruchtbaren Phase ihres Zyklus, und der *gandhabba* ist anwesend.‘
 >
 >‚Aber wisst ihr sicher, ob dieser *gandhabba* ein Adliger, ein Brahmane, ein Kaufmann oder ein Arbeiter ist?‘
 >
@@ -70,4 +70,4 @@ Nein. Der *gandhabba* ist ein Euphemismus für das göttliche Element der männl
 
 Somit sollten wir etwa in dieser Art übersetzen:
 
->Ein Embryo wird empfangen, wenn diese drei Dinge zusammenkommen: Mutter und Vater kommen zusammen, die Mutter ist in der fruchtbaren Phase ihres Zyklus und der männliche Geist ist zeugungsfähig.
+>Ein Embryo wird empfangen, wenn diese drei Dinge zusammenkommen: Mutter und Vater kommen zusammen, die Mutter ist in der fruchtbaren Phase ihres Zyklus, und der männliche Geist ist zeugungsfähig.

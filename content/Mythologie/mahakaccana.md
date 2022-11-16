@@ -1,6 +1,6 @@
 ---
 title: Mahākaccāna und die Ausbreitung der indo-arischen Kultur nach Avanti
-description: Bhikkhu Sujato
+description: Bhikkhu Sujato, 2016
 img: sujato.png
 img-alt: Foto von Bhante Sujato
 order: 12

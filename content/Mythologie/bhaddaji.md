@@ -1,6 +1,6 @@
 ---
 title: Über Thag 2.22 – was bedeutet dieses Gedicht?
-description: Bhikkhu Sujato
+description: Bhikkhu Sujato, 2016
 img: sujato.png
 img-alt: Foto von Bhante Sujato
 order: 13.5

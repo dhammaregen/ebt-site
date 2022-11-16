@@ -10,7 +10,7 @@ order: 15
 
 Eine Stelle im Palikanon führt den *gandhabba* ein als etwas, das bei der Empfängnis eines Kindes eine wichtige Rolle spielt. Die Passage kommt im Majjhima zweimal vor (wie auch in verschiedenen Parallelen). Von diesen ist die Quelle in [MN 38 Mahātaṇhāsaṅkhayasutta](/suttas/#mn38/de/sabbamitta:0.1) wegen der erweiterten Darstellung sicher zweitrangig, während man die Quelle in [MN 93 Assalāyana](/suttas/#mn93/de/sabbamitta:0.1) als das primäre Vorkommen betrachten sollte.
 
-Traditionelle Erklärungen für merkwürdige Vorstellungen blicken typischerweise nach vorne und versuchen, die Sache in den Rahmen der späteren Lehre einzupassen; aus diesem Grund ist MN 38 mit seinem buddhistischen Kontext viel berühmter. Als jemand, der sich mit Geschichte befasst, bin ich nicht so sehr daran interessiert, was Buddhisten in späteren Jahren aus etwas machten, sondern daran, was diese Sache für die ursprünglichen Zuhörer bedeutete. Da die Stelle in MN 93 rein brahmanisch ist – sie befindet sich in einem Gespräch nur zwischen Brahmanen, ohne dass Buddhisten überhaupt anwesend wären –, kann man sicher annehman, dass die Vorstellung ursprünglich eine brahmanische war oder zumindest für eine solche gehalten wurde.
+Traditionelle Erklärungen für merkwürdige Vorstellungen blicken typischerweise nach vorne und versuchen, die Sache in den Rahmen der späteren Lehre einzupassen; aus diesem Grund ist MN 38 mit seinem buddhistischen Kontext viel berühmter. Als jemand, der sich mit Geschichte befasst, bin ich nicht so sehr daran interessiert, was Buddhisten in späteren Jahren aus etwas machten, sondern daran, was diese Sache für die ursprünglichen Zuhörer bedeutete. Da die Stelle in MN 93 rein brahmanisch ist – sie findet sich in einem Gespräch nur zwischen Brahmanen, ohne dass Buddhisten überhaupt anwesend wären –, kann man sicher annehman, dass die Vorstellung ursprünglich eine brahmanische war oder zumindest für eine solche gehalten wurde.
 
 Hier ist die Passage aus MN 93. Sie kommt als Teil eines langen Streitgesprächs über die Kasten vor. Der Brahmanenschüler Assalāyana erklärt die Vorrangstellung der Brahmanen, und der Buddha hinterfragt die Gründe für seinen Glauben. Der Buddha erzählt dann die Geschichte aus der Vergangenheit, ein Gespräch zwischen „Devala dem Dunklen“ – einem der mysteriösen „dunklen Eremiten“, die im Palikanon vorkommen – und sieben brahmanischen Eremiten (ein Anklang an die „sieben Eremiten“ der brahmanischen Überlieferung). Devala provoziert sie, widersteht ihren Flüchen und befragt sie zum Thema Kaste. Sie sagen, sie verstünden, wie ein Embryo empfangen werde:
 
@@ -35,7 +35,7 @@ In diesem Kapitel gibt es so viel großartige mythologische Überlieferung, und 
 - Der Regen, der die Erde belebt, und der Samen, der Schwangerschaft erzeugt, werden zumindest seit vedischer Zeit miteinander assoziiert.
 - Die hemmungslose Sexualität der *gandhabbas* stellt eine Gefahr für den Embryo dar, sie werden als „die Haarigen, die Embryonen verschlingen“ beschrieben. (Das gehört zum normalen Erscheinungsbild alter Mythologie: Götter sind nicht gut oder schlecht, sondern *mächtig* und müssen daher beschwichtigt werden.)
 - Der *gandhabba* ist auch die Sonne, besonders in ihrem Aspekt des Einsinkens ins Wasser, eine andere sexuelle Metapher, und ist daher mit Fortpflanzung assoziiert.
-- Die Lebhaftigkeit des *gandhabba* führte dazu, dass er mit dem Begehren nach Frauen assoziiert wurde und später mit der Vorstellung einer „Liebesheirat“.
+- Die Lebhaftigkeit des *gandhabba* führte dazu, dass er mit dem Begehren nach Frauen assoziiert wurde, und später mit der Vorstellung einer „Liebesheirat“.
 - Er ist somit in der Lage, sowohl Männer als auch Frauen in den Wahnsinn zu treiben.
 - Und in einigen Fällen ist er sogar ein körperloser Geist, der von Menschen Besitz ergreift.
 
@@ -64,7 +64,7 @@ Das größte Einzelproblem mit der späteren buddhistischen Idee, dass *gandhabb
 
 (Aus: https://sacred-texts.com/hin/sbe15/sbe15098.htm)
 
-Ich glaube keinen Augenblick, dass die Brahmanen Männern eine so unbedeutende Rolle zuordnen würden.
+Ich glaube keinen Augenblick, dass die Brahmanen Männern eine so reduzierte Rolle zuordnen würden.
 
 Nein. Der *gandhabba* ist ein Euphemismus für das göttliche Element der männlichen Potenz, das die vorrangige Kraft der Fortpflanzung ist. Das ist der Samen, der die Atmans derer enthält, die zuvor gestorben sind und die die Pfade des Mondes, des Regens, der Erde und der Feldfrucht gewandert sind, bevor sie von ihm gegessen wurden. Niemand kann die Kaste dieser Atmans kennen, und das ist der Grund, warum die Sache für die brahmanische Kastenlehre so beunruhigend ist.
 

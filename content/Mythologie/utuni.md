@@ -1,6 +1,6 @@
 ---
 title: Menstruation und Fruchtbarkeit in den Palitexten
-description: Bhikkhu Sujato
+description: Bhikkhu Sujato, 2016
 img: sujato.png
 img-alt: Foto von Bhante Sujato
 order: 14.5

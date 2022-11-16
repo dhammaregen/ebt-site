@@ -12,6 +12,8 @@ Ergänzend findet sich noch ein Videovortrag, in dem der Autor ebenfalls auf die
 
 ### Eine Geschichte der Achtsamkeit
 
+(Überarbeitete Auflage, 2012)
+
 #### Allgemeines über das Anliegen des Buches
 
 Ich möchte zunächst einen ganz kurzen Abriss über dieses Buch geben. Man kann ihn auch gerne überspringen und gleich zu dem Punkt „Heißt Satipaṭṭhāna ‚Achtsamkeitsmeditation‘?“ gehen. Zu bemerken ist noch, dass in diesem Buch, das entstand, bevor der Autor mit seinem Sutta-Übersetzungsprojekt begann, teilweise eine Terminologie verwendet wird, die er heute nicht mehr verwendet.

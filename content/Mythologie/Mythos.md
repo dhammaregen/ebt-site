@@ -1,6 +1,6 @@
 ---
 title: Was ist Mythos, und warum ist er bedeutsam?
-description: Bhikkhu Sujato
+description: Bhikkhu Sujato, 2016
 img: sujato.png
 img-alt: Foto von Bhante Sujato
 order: 1

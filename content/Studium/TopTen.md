@@ -1,6 +1,6 @@
 ---
 title: Top Ten Suttas
-description: Bhikkhu Sujato
+description: Bhikkhu Sujato, 2019
 img: sujato.png
 img-alt: Foto von Bhante Sujato
 order: 9.4

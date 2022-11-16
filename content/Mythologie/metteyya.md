@@ -1,6 +1,6 @@
 ---
 title: Über den Buddha Metteyya und Menschenopfer am heiligen Baum
-description: Bhikkhu Sujato
+description: Bhikkhu Sujato, 2017
 img: sujato.png
 img-alt: Foto von Bhante Sujato
 order: 14

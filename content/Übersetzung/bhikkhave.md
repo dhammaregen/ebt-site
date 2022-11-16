@@ -1,6 +1,6 @@
 ---
 title: Bhikkhave und Bhikkhu
-description: Alice Collett und Bhikkhu Anālayo
+description: Alice Collett und Bhikkhu Anālayo, 2014
 img:  pixabay-theravada-buddhism-1773666_1920.png
 img-alt: Ordinierte Person, die Stapel mit Roben trägt; obenauf eine Blüte
 order: 3

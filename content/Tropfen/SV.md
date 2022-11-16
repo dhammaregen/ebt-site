@@ -1,6 +1,6 @@
 ---
 title: Warum Samatha und Vipassanā unzertrennlich sind
-description: Bhikkhu Brahmāli
+description: Bhikkhu Brahmāli, 2015
 img: inseparable.png
 img-alt: Zwei Papageien, die sich mit den Schnäbeln liebkosen
 order: 0

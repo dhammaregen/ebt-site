@@ -1,6 +1,6 @@
 ---
 title: Mythologie eines kulturellen Transformationsprozesses im Ghaṭīkāra-Sutta
-description: Bhikkhu Sujato
+description: Bhikkhu Sujato, 2017
 img: sujato.png
 img-alt: Foto von Bhante Sujato
 order: 11

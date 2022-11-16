@@ -1,6 +1,6 @@
 ---
 title: Das Vijayasutta, der „Sieg über das Sehnen nach dem Körper“
-description: Bhikkhu Sujato
+description: Bhikkhu Sujato, 2022
 img: sujato.png
 img-alt: Foto von Bhante Sujato
 order: 6

@@ -1,6 +1,6 @@
 ---
 title: Wie soll man die Suttas lesen?
-description: Bhikkhu Sujato
+description: Bhikkhu Sujato, 2017
 img: sujato.png
 img-alt: Foto von Bhante Sujato
 order: 9.5

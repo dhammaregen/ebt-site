@@ -1,6 +1,6 @@
 ---
 title: Abhängiges Entstehen
-description: Bhikkhu Brahmāli
+description: Bhikkhu Brahmāli, 2012
 img: ammonite.png
 img-alt: Ein Ammonit
 order: 2

@@ -1,6 +1,6 @@
 ---
 title: Heißt gandhabba „Samen“?
-description: Bhikkhu Sujato
+description: Bhikkhu Sujato, 2022
 img: sujato.png
 img-alt: Foto von Bhante Sujato
 order: 15

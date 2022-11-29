@@ -36,7 +36,7 @@ In seiner Anmerkung zitiert er den Subkommentar und bezieht sich auf das [Campey
 
 >Gemäß buddhistischer Folklore können die Nāgas an Uposathatagen die Ethikregeln auf sich nehmen und sich sogar entschließen, diese auf Kosten ihres Lebens aufrechtzuerhalten.
 
-So schwach es auch ist, das schafft ein kanonisches Vorbild für die Vorstellung, seinen eigenen Körper zu opfern, könne im Buddhismus als eine spirituelle Übung betrachtet werden.
+So schwach es auch ist, das schafft ein kanonisches Vorbild für die Vorstellung, seinen eigenen Körper zu opfern könne im Buddhismus als eine spirituelle Übung betrachtet werden.
 
 Bei genauerem Hinsehen zeigt sich aber, dass diese Übersetzung und die Schlussfolgerung, die sie anstößt, nicht gerechtfertigt sind. Es gibt eine gut bekannte Geschichte im Vinaya ([Kd 1, Abschnitt 49](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow)) von einem Nāga, der, gerade wie in unserem Sutta, seine Geburt als Drache (*nāgayoni*) bedauerte und wünschte, Tugend zu üben. Daher nahm er die Form eines jungen Mannes an und ließ sich ordinieren.
 

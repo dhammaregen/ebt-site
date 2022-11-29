@@ -40,11 +40,11 @@ So schwach es auch ist, das schafft ein kanonisches Vorbild für die Vorstellung
 
 Bei genauerem Hinsehen zeigt sich aber, dass diese Übersetzung und die Schlussfolgerung, die sie anstößt, nicht gerechtfertigt sind. Es gibt eine gut bekannte Geschichte im Vinaya ([Kd 1, Abschnitt 49](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow)) von einem Nāga, der, gerade wie in unserem Sutta, seine Geburt als Drache (*nāgayoni*) bedauerte und wünschte, Tugend zu üben. Daher nahm er die Form eines jungen Mannes an und ließ sich ordinieren.
 
-Verwandlungen zwischen menschlicher Form und Tierform ist eine der zentralen mythischen Eigenschaften des Drachens in Indien.
+Zwischen menschlicher Form und Tierform zu wechseln, ist eine der zentralen mythischen Eigenschaften des Drachens in Indien.
 
 <a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/4/4c6c147aed9dee451729fed9389e854cff97a21a.jpg"><img height="400" alt="steinerne Stelen mit Schlangen- und Menschenbildern" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/4/4c6c147aed9dee451729fed9389e854cff97a21a.jpg"></a>
 
-Später verwandelte er sich allerdings im Schlaf in seine Schlangenform zurück und wurde so entdeckt. Der Buddha fühlte zwar Teilnahme für ihn, sagte aber, er könne als Mönch nicht gedeihen und könne daher nicht im Saṅgha bleiben. Der Buddha legte die Regel fest, dass man ein Mensch sein muss, um ordiniert zu werden. Er ermunterte den Drachen, sich am Uposatha die Ethikregeln vorzunehmen, das würde ihn rasch zu einer menschlichen Geburt zurückbringen.
+Später verwandelte der Drache in der Vinayageschichte sich allerdings im Schlaf in seine Schlangenform zurück und wurde so entdeckt. Der Buddha fühlte zwar Teilnahme für ihn, sagte aber, er könne als Mönch nicht gedeihen und könne daher nicht im Saṅgha bleiben. Der Buddha legte die Regel fest, dass man ein Mensch sein muss, um ordiniert zu werden. Er ermunterte den Drachen, sich am Uposatha die Ethikregeln vorzunehmen, das würde ihn rasch zu einer menschlichen Geburt zurückbringen.
 
 Diese bunte Vinayageschichte veranschaulicht die Situation, die wir im Saṁyutta vorfinden. Ein Drache, der seine Geburt bedauert, sollte den Uposatha einhalten. Und im Zusammenhang hat *vossaṭṭhakāya* nichts damit zu tun, seinen Körper zu opfern. Es bedeutet, dass der Drache seine Drachenform „aufgibt“ und menschliche Form annimmt, wenn er den Uposatha einhält. Wir sollten vielleicht in etwa übersetzen:
 

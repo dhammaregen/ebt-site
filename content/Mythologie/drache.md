@@ -14,7 +14,7 @@ Er war der Erste, aber keineswegs der Letzte. Eine Serie ähnlicher Proteste fol
 
 Ich selbst als ein Mönch, der sich dem Weg der Sanftmut und Mäßigung des Buddha gewidmet hat, kann diese Handlungen nicht anders als mit Grauen sehen. Ungeachtet der Motivation hat der Buddha nie zu solcher Selbstverletzung angeregt. Tatsächlich scheinen solche Taten in eine primitivere Ära zurückzureichen, zu den extremen Formen von Selbstquälerei, die der Buddha ablehnte.
 
-Solche extremen Handlungen kommen nicht aus dem Nirgendwo. In der buddhistischen Tradition gibt es [wohlbekannte Geschichten](http://www.himalayanart.org/items/50220) in den Jātakas, in denen der Bodhisattva mit einem ähnlichen Mangel an Rücksicht auf seinen Körper handelt. Obwohl diese ihrer Natur nach nicht politisch sind, sind sie dennoch ein klarer Präzedenzfall für die moderne Praxis der Selbstopferung.
+Solche extremen Handlungen kommen nicht aus dem Nichts. In der buddhistischen Tradition gibt es [wohlbekannte Geschichten](http://www.himalayanart.org/items/50220) in den Jātakas, in denen der Bodhisattva mit einem ähnlichen Mangel an Rücksicht auf seinen Körper handelt. Obwohl diese ihrer Natur nach nicht politisch sind, sind sie dennoch ein klarer Präzedenzfall für die moderne Praxis der Selbstopferung.
 
 Als Texthistoriker ist es für mich offensichtlich, dass solche Praktiken aus den zweideutigen historischen Quellen der Jātakageschichten hervorgehen. Diese sind offensichtlich eine spätere Literaturform und entwickelten sich einige hundert Jahre nach den Hauptsuttas. Daher können sie nicht als Worte des Buddha angesehen werden. Nichtsdestotrotz spielen sie in der Zeit vor dem Buddha, da sie von seinen früheren Leben erzählen. Und die sozialen und historischen Bedingungen, die in diesen Geschichten dargestellt sind, stammen tatsächlich oft aus einer früheren Zeit.
 
@@ -38,7 +38,7 @@ In seiner Anmerkung zitiert er den Subkommentar und bezieht sich auf das [Campey
 
 So schwach es auch ist, das schafft ein kanonisches Vorbild für die Vorstellung, seinen eigenen Körper zu opfern könne im Buddhismus als eine spirituelle Übung betrachtet werden.
 
-Bei genauerem Hinsehen zeigt sich aber, dass diese Übersetzung und die Schlussfolgerung, die sie anstößt, nicht gerechtfertigt sind. Es gibt eine gut bekannte Geschichte im Vinaya ([Kd 1, Abschnitt 49](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow)) von einem Nāga, der, gerade wie in unserem Sutta, seine Geburt als Drache (*nāgayoni*) bedauerte und wünschte, Tugend zu üben. Daher nahm er die Form eines jungen Mannes an und ließ sich ordinieren.
+Bei genauerem Hinsehen zeigt sich aber, dass diese Übersetzung und die Schlussfolgerung, die sie anstößt, nicht gerechtfertigt sind. Es gibt eine gut bekannte Geschichte im Vinaya ([Kd 1, Abschnitt 50](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow)) von einem Nāga, der, gerade wie in unserem Sutta, seine Geburt als Drache (*nāgayoni*) bedauerte und wünschte, Tugend zu üben. Daher nahm er die Form eines jungen Mannes an und ließ sich ordinieren.
 
 Zwischen menschlicher Form und Tierform zu wechseln, ist eine der zentralen mythischen Eigenschaften des Drachens in Indien.
 

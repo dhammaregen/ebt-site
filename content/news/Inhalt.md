@@ -8,6 +8,17 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Dezember 2022](/news/2022-12)
+- Die Lehrrede von der Liebe (Snp 1.8, Kp 9)
+- Das Gleichnis von der Schildkröte (SN 35.240)
+- Ein neues Verständnis des Mettāsutta, das alles ändert
+- Das Vijayasutta, der „Sieg über das Sehnen nach dem Körper“ 
+- Über Thag 2.22 – was bedeutet dieses Gedicht?
+- Über den Buddha Metteyya und Menschenopfer am heiligen Baum
+- Menstruation und Fruchtbarkeit in den Palitexten
+- Heißt gandhabba „Samen“?
+- Von Drachen und Menschenopfern
+
 ### [November 2022](/news/2022-11)
 - In eigener Sache: Zukunftsausblick
   - Zuerst die schlechte Nachricht …

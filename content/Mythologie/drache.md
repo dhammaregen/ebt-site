@@ -40,7 +40,7 @@ So schwach es auch ist, das schafft ein kanonisches Vorbild für die Vorstellung
 
 Bei genauerem Hinsehen zeigt sich aber, dass diese Übersetzung und die Schlussfolgerung, die sie anstößt, nicht gerechtfertigt sind. Es gibt eine gut bekannte Geschichte im Vinaya ([Kd 1, Abschnitt 50](https://suttacentral.net/pli-tv-kd1/de/maitrimurti-traetow)) von einem Nāga, der, gerade wie in unserem Sutta, seine Geburt als Drache (*nāgayoni*) bedauerte und wünschte, Tugend zu üben. Daher nahm er die Form eines jungen Mannes an und ließ sich ordinieren.
 
-Zwischen menschlicher Form und Tierform zu wechseln, ist eine der zentralen mythischen Eigenschaften des Drachens in Indien.
+Zwischen menschlicher Form und Tierform zu wechseln, ist eine der zentralen mythischen Eigenschaften des Drachen in Indien.
 
 <a href="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/4/4c6c147aed9dee451729fed9389e854cff97a21a.jpg"><img height="400" alt="steinerne Stelen mit Schlangen- und Menschenbildern" src="https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/4/4c6c147aed9dee451729fed9389e854cff97a21a.jpg"></a>
 

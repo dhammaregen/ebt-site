@@ -8,6 +8,11 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Januar 2023](/news/2023-01)
+- Die Jātakas, Volksmärchen und großer Mythos
+- Welches ist das älteste Jātaka? (Essay: „Das erste Jātaka?“, AN 3.15)
+- Der Klang der Liebe (SN 42.8)
+
 ### [Dezember 2022](/news/2022-12)
 - Die Lehrrede von der Liebe (Snp 1.8, Kp 9)
 - Das Gleichnis von der Schildkröte (SN 35.240)

@@ -1,6 +1,6 @@
 ---
 title: Dhamma-Regentropfen
-description: Dhamma-Essays
+description: Dhamma-Essays und Diverses
 img: drops.png
 img-alt: Tautropfen auf Moos 
 slugDir: Tropfen

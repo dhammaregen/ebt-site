@@ -8,7 +8,7 @@ category: Weitere Informationen
 order: 2
 ---
 
-Hier finden Sie Dhamma-Essays verschiedener Autoren, die sich auf die frühen buddhistischen Texte (FBT) stützen.
+Hier finden Sie Dhamma-Essays verschiedener Autoren, die sich auf die frühen buddhistischen Texte (FBT) stützen, sowie ein paar andere interessante Texte.
 
 ### Dhamma-Regentropfen: Inhalt
 

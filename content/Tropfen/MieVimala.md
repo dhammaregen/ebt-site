@@ -6,7 +6,7 @@ img-alt: Ayya Mie Vimala 2019
 order: -1
 ---
 
-Am 3. Januar erhielt ich eine Email von Ken und Visakha Kawasaki, einem amerikanischen Ehepaar, das in Kandy lebt. Sie informierten mich darüber, dass eine langjährige Freundin, die Ehrwürdige Ayyā Mie Vimalā, in einem Krankenhaus in Kandy gestorben war. Obwohl sie an Bauchspeicheldrüsenkrebs litt, hatt sie ihr Ende nicht so rasch erwartet. Nur Tage vorher war sie in Kandy angekommen, um einen geeigneten Ort zum Leben und für ihre Dhamma-Aktivitäten zu suchen.
+Am 3. Januar erhielt ich eine Email von Ken und Visakha Kawasaki, einem amerikanischen Ehepaar, das in Kandy lebt. Sie informierten mich darüber, dass eine langjährige Freundin, die Ehrwürdige Ayyā Mie Vimalā, in einem Krankenhaus in Kandy gestorben war. Obwohl sie an Bauchspeicheldrüsenkrebs litt, hatte sie ihr Ende nicht so rasch erwartet. Nur Tage vorher war sie in Kandy angekommen, um einen geeigneten Ort zum Leben und für ihre Dhamma-Aktivitäten zu suchen.
 
 Ich hatte Ayyā Vimalā Jahre vor ihrer Ordination zur Dasa Silmata, eine Zehn-Regel-Nonne, gekannt. Ich begegnete ihr zum ersten Mal in der Forest Hermitage in Kandy Ende 1985, als sie gekommen war, um den altehrwürdigen deutschen Mönch, den Ehrwürdigen Nyanaponika Mahathera (1901–94), zu besuchen, den sie als ihren Lehrer betrachtete. Vor ihrer Ordination kannte ich sie unter dem Namen Michiko Tokue; ihr Pass wies sie allerdings unter einem anderen Namen aus, Mie Margarete Kurbjeweit.
 

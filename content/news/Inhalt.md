@@ -8,6 +8,10 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Februar 2023](/news/2023-02)
+- Sechs Gegenstände zur Besinnung (AN 6.9, AN 6.26, AN 3.70, AN 11.13, AN 6.29)
+- Ayya Mie Vimala von Königsberg
+
 ### [Januar 2023](/news/2023-01)
 - Die Jātakas, Volksmärchen und großer Mythos
 - Welches ist das älteste Jātaka? (Essay: „Das erste Jātaka?“, AN 3.15)

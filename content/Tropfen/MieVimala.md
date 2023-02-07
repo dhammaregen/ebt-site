@@ -55,3 +55,6 @@ Möge Ayyā Mie Vimalā das höchste Ziel, Nibbāna, erreichen!
 (*Nyanaponika Thera in seinem Büro in der Forest Hermitage in den frühen 1970er Jahren.*)
 
 Das ist das Foto, das Ayyā Vimalā zu ihrer ersten Reise nach Sri Lanka bewog, um dort den Ehrwürdigen Nyanaponika zu treffen.
+
+---
+Ayya Mie Vimalas Bücher (alle auf Englisch) können [hier](https://www.brelief.org/vimala/books.html) heruntergeladen werden.

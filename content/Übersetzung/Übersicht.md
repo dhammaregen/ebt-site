@@ -7,11 +7,11 @@ order: 1
 ---
 ### Die Suttas in deutscher Sprache
 
-*Dhammaregen* beherbergt neue segmentierte deutsche Übersetzungen der Suttas des Palikanon von Sabbamitta Silashin. Auf [SuttaCentral](https://suttacentral.net) findet man zusätzlich viele frühere deutsche Übersetzungen dieser Texte.
+*Dhammaregen* beherbergt neue segmentierte deutsche Übersetzungen der Suttas des Palikanons von Sabbamitta Silashin. Auf [SuttaCentral](https://suttacentral.net) findet man zusätzlich viele frühere deutsche Übersetzungen dieser Texte.
 
 Zu den [Suttas](/suttas)
 
-Bitte klicken Sie auf „Such mir etwas aus!“ oder finden Sie Suchbegriffe über das Suchfeld. Sie können auch Sutta-Kennziffern in das Suchfeld eingeben, wie etwa `AN 10.61`.
+Bitte klicken Sie auf „Such mir etwas aus!“ oder finden Sie Suchbegriffe über das Suchfeld. Sie können auch Sutta-Kennziffern in das Suchfeld eingeben, wie etwa `AN 10.61` oder `an10.61`.
 
 Bisher liegen folgende Suttas auf *Dhammaregen* vor:
 - Dīgha-Nikāya: DN 6-7, DN 10, DN 12, DN 14-34

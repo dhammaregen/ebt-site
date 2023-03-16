@@ -6,6 +6,8 @@ img-alt: Kissen mit MP3-Player am Fuß eines Baumes
 order: 2
 ---
 
+***Wegen einer technischen Übergangssituation ist die Audiofunktion momentan nicht für alle Übersetzungen verfügbar. In manchen Fällen kann das Audio auch eine veraltete Version des Textes wiedergeben, die von der Darstellung auf dem Bildschirm abweicht.***
+
 Die Schaltfläche für die Audiofunktion 🗣️ findet sich links an der unteren Navigationsleiste.
 
 <img src="./play.png" class="ebt-image" alt="Bildschirmfoto des Audio-Bedienelements">

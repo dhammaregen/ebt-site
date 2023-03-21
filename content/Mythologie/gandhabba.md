@@ -22,9 +22,9 @@ Hier ist die Passage aus MN 93. Sie kommt als Teil eines langen Streitgesprächs
 
 Was bedeutete das nun für die Brahmanen? Die Ansicht wird eindeutig so dargestellt, als gehöre sie zu einer alten brahmanischen Überlieferung. Nun, ich bin in diesen Dingen bloß ein Amateur, daher begrüße ich eine Meinung, die von mehr Hintergrundwissen getragen ist. Aber für mich war der faszinierendste Essay darüber Wijesekeras Artikel in seinen erstaunlichen *Buddhist and Vedic Studies*. [Hier ist er](https://archive.org/details/in.ernet.dli.2015.463583/page/n177/mode/2up), den guten Leuten vom *Internet Archive* sei Dank!
 
-In diesem Kapitel gibt es so viel großartige mythologische Überlieferung, und ich hasse es, sie zusammenfassen zu müssen. Aber sehr kurz, Wijesekera weist auf folgende Aspekte des *gandhabba* (*gandharva* auf Sanskrit) hin:
+In diesem Kapitel gibt es so viel großartige mythologische Überlieferung, und ich hasse es, sie zusammenfassen zu müssen. Aber sehr kurz gesagt, weist Wijesekera auf folgende Aspekte des *gandhabba* (*gandharva* auf Sanskrit) hin:
 
-- Er entstand in sehr früher Vergangenheit, möglicherweise vor-indo-europäisch, und erscheint früh als ein Ungetüm oder eine Nymphe aus den tiefen Wassern mit goldenen Hufen.
+- Sein Ursprung liegt in sehr früher Vergangenheit, möglicherweise vor-indo-europäisch, und erscheint früh als ein Ungetüm oder eine Nymphe aus den tiefen Wassern mit goldenen Hufen.
 - Er bewacht auch die himmlischen Gewässer.
 - Er ist wahrscheinlich mit dem griechischen *kantauros* (Zentaur) verwandt und besitzt daher ungezügelte männliche Potenz.
   - Wijesekera geht darauf nicht näher ein, aber das weckt bei mir die Vorstellung, dass der *gandhabba* die bestimmende Gottheit der sich herausbildenen Indo-Europäer war, denen die Zähmung des Pferdes beispiellose Macht verlieh. Andere Gottheiten hatten sie möglicherweise mit anderen gemeinsam oder erbten sie, aber der *gandhabba* repräsentierte *sie*.
@@ -53,14 +53,14 @@ Kommen wir nun zu der Stelle im Palikanon. Nach meinem Empfinden ist Wijesekeras
 
 Aber dann sagt er, der Text sei „unmissverständlich und lässt keinen Zweifel an der wahren Natur des *gandhabba*, der sich in diesem Zusammenhang sicher auf den ‚Geist‘ eines früher verstorbenen Adligen, Brahmanen, Kaufmanns oder Arbeiters beziehen muss“. Dann verweist er auf seine vorhergehende Diskussion in Abschnitt 12.
 
-Aber ich glaube nicht, dass diese Diskussion überhaupt eine so klare Schlussfolgerung begründet. Er zeigt eine Verbindung zwischen dem *gandhabba* und der Macht über den Geist, die ich als Bezug auf die Macht des Sexualverlangens verstehe. Die *apsaras* zum Beispiel gelten als die „Frauen der *gandhabbas*, die den Geist verwirren“. Dann verweist er auf ein paar Fälle von Besessenheit zur Unterstützung der Vorstellung, dass ein *gandhabba* ein Geist war, aber das sind bloß gewöhnliche Fälle von Besessenheit durch einen Geist, die nichts mit Frotpflanzung zu tun haben.
+Aber ich glaube nicht, dass diese Diskussion überhaupt eine so klare Schlussfolgerung begründet. Wijesekera zeigt eine Verbindung zwischen dem *gandhabba* und der Macht über den Geist, die ich als Bezug auf die Macht des Sexualverlangens verstehe. Die *apsaras* zum Beispiel gelten als die „Frauen der *gandhabbas*, die den Geist verwirren“. Dann verweist er auf ein paar Fälle von Besessenheit zur Unterstützung der Vorstellung, dass ein *gandhabba* ein Geist war, aber das sind bloß gewöhnliche Fälle von Besessenheit durch einen Geist, die nichts mit Fortpflanzung zu tun haben.
 
-All die Hinweise über die kosmischen bzw. organischen Eingeschaften des *gandhabba* und des Samens, die er so akribisch zusammengetragen hat, lässt er beiseite. Dann stützt er als Nächstes seine Schlussfolgerung mit Bezügen zu späteren buddhistischen Texten. Aber diese sind natürlich bemüht, diese merkwürdige Idee zu rationalisieren, die auf alle möglichen rätselhaften und unbquemen Vorstellungen anspielt, und sie in ihre Lehren einzupassen.
+All die Hinweise über die kosmischen bzw. organischen Eingeschaften des *gandhabba* und des Samens, die er so akribisch zusammengetragen hat, lässt er beiseite. Dann stützt er als Nächstes seine Schlussfolgerung mit Bezügen zu späteren buddhistischen Texten. Aber diese sind natürlich bemüht, diese merkwürdige Idee, die auf alle möglichen rätselhaften und unbquemen Vorstellungen anspielt, zu rationalisieren und sie in ihre Lehren einzupassen.
 
-Das größte Einzelproblem mit der späteren buddhistischen Idee, dass *gandhabba* = Wiedergeburtsbewusstsein sei, ist, dass dann der Mann kaum eine Rolle spielt. Tatsächlich hat bei den drei Faktoren der Mann nichts weiter zu tun, als Geschlechtsverkehr zu haben. Er hat sonst überhaupt keinen direkten Bezug zur Fortpflanzung. Aber wie wir gesehen haben, ist in der brahmanischen Tradition der „Keim“ im Wesentlichen männlich, und es ist die Frau, die zweitrangig ist.
+Das größte Einzelproblem mit der späteren buddhistischen Idee, dass *gandhabba* = Wiedergeburtsbewusstsein sei, ist, dass dann der Mann kaum eine Rolle spielen würde. Tatsächlich hätte bei den drei Faktoren der Mann nichts weiter zu tun, als Geschlechtsverkehr zu haben. Er hätte sonst überhaupt keinen direkten Bezug zur Fortpflanzung. Aber wie wir gesehen haben, ist in der brahmanischen Tradition der „Keim“ im Wesentlichen männlich, und es ist die Frau, die zweitrangig ist.
 
 >indriyeṇa te retasā reta ādadhāmīti | garbhiṇy eva bhavati || BrhUp_6,4.11 ||  
->‚Mit Macht, mit Samen lege ich Samen in dir ab!‘ So wird sie schwanger.
+>‚Mit Macht, mit Samen, lege ich Samen in dir ab!‘ So wird sie schwanger.
 
 (Aus: https://sacred-texts.com/hin/sbe15/sbe15098.htm)
 

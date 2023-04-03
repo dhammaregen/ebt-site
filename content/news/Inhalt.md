@@ -8,6 +8,13 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [April 2023](/news/2023-04)
+- Von schwarzen und weißen Mäusen
+- Ein Lehrer des kurzen Lebens (AN 7.74)
+- Und ein Appetithäppchen aus dem Itivuttaka (Iti 1, Iti 74)
+- SC: Die Verbundenen Lehrreden: Blaupause für die buddhistische Philosophie
+- SC: Die Langen Lehrreden: der Dhamma als Literatur und Zusammenstellung
+
 ### [März 2023](/news/2023-03)
 - Eine furchtlose Begegnung mit der Wahrheit (MN 58)
 - Was behindert und was fördert Erkennen und Sehen? (SN 46.56)

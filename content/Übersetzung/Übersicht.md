@@ -14,7 +14,7 @@ Zu den [Suttas](/suttas)
 Bitte klicken Sie auf „Such mir etwas aus!“ oder finden Sie Suchbegriffe über das Suchfeld. Sie können auch Sutta-Kennziffern in das Suchfeld eingeben, wie etwa `AN 10.61` oder `an10.61`.
 
 Bisher liegen folgende Suttas auf *Dhammaregen* vor:
-- Dīgha-Nikāya: DN 1, DN 2-5 in Arbeit, DN 6-7, DN 10, DN 12, DN 14-34
+- Dīgha-Nikāya: DN 1-2, DN 3-5 in Arbeit, DN 6-7, DN 10, DN 12, DN 14-34
 - Majjhima-Nikāya: MN 2, MN 7, MN 10, MN 23, MN 33, MN 44, MN 52, MN 58-59, MN 81, MN 109, MN 118-119, MN 139-141, MN 144-146
 - Saṁyutta-Nikāya: vollständig
 - Aṅguttara-Nikāya: vollständig
@@ -24,7 +24,7 @@ Bisher liegen folgende Suttas auf *Dhammaregen* vor:
   - Ud vollständig
   - Iti vollständig
   - Snp 1.4, Snp 1.8, Snp 1.10-11, Snp 2.1, Snp 2.4-5, Snp 2.12, Snp 10.12
-  - Thag 1.39, 1.43, 1.66, 1.69, 1.97-98, Thag 2.17, 2.22, 2.32, Thag 4.10, Thag 5.10, Thag 14.1, Thag 15.1-2, Thag 16.5, Thag 18.1, Thag 20-21
+  - Thag 1.1-17, 1.39, 1.43, 1.66, 1.69, 1.97-98, Thag 2.17, 2.22, 2.32, Thag 4.10, Thag 5.10, Thag 14.1, Thag 15.1-2, Thag 16.5, Thag 18.1, Thag 20-21
   - Thig vollständig
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.

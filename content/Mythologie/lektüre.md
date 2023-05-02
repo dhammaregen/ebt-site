@@ -25,8 +25,10 @@ Hier sollen einige Bücher, Artikel usw. zum Thema zusammengestellt werden. Es s
 - Marina Warner: *From the Beast to the Blonde* (nicht in deutscher Übersetzung)  
    Beschreibung auf Wikipedia: [über die Autorin](https://de.wikipedia.org/wiki/Marina_Warner)  
    Kurzbeschreibung auf Englisch: [über das Buch](https://www.marinawarner.com/book/from-the-beast-to-the-blonde-on-fairy-tales-and-their-tellers/)
-- Roberto Calasso, *Ka* (nicht in deutscher Übersetzung)  
+- Roberto Calasso, *Die Glut* (engl.: *Ardor*)  
    Beschreibung auf Wikipedia: [über den Autor](https://de.wikipedia.org/wiki/Roberto_Calasso)  
+   Kurzbeschreibung auf Englisch: [über das Buch](https://www.goodreads.com/book/show/18490618-ardor)
+- Roberto Calasso, *Ka* (nicht in deutscher Übersetzung)    
    Kurzbeschreibung auf Englisch: [über das Buch](https://www.goodreads.com/book/show/163014.Ka)
 - Roberto Calasso, *Die Hochzeit von Kadmos und Harmonia*  
    Kurzbeschreibung: [über das Buch](https://www.buch7.de/produkt/die-hochzeit-von-kadmos-und-harmonia-roberto-calasso/1026636428?ean=9783518467084)

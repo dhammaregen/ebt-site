@@ -14,7 +14,7 @@ In den frühen Texten sehen wir einen Buddha, der sich nicht scheut, über seine
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RFr2arZlgbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Buddhistische Mythologie: das Heilige und das Profane
+### Buddhistische Mythologie: das Sakrale und das Profane
 
 Vortragsreihe von Bhante Sujato in der [Buddhist Library in Sydney](https://buddhistlibrary.org.au/), 2019
 

@@ -8,6 +8,10 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Mai 2023](/news/2023-05)
+- Die Kosaler Brahmanen (AN 10.176)
+- Das Feueropfer (AN 7.47)
+
 ### [April 2023](/news/2023-04)
 - Von schwarzen und weißen Mäusen
 - Ein Lehrer des kurzen Lebens (AN 7.74)

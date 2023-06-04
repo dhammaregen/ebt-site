@@ -8,6 +8,11 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Juni 2023](/news/2023-06)
+- Das Sāmaññaphalasutta (DN 2)
+- Ajahn Brahm: Was ist Buddhismus?
+- SC: Anmerkungen
+
 ### [Mai 2023](/news/2023-05)
 - Die Kosaler Brahmanen (AN 10.176)
 - Das Feueropfer (AN 7.47)

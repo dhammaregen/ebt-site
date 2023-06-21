@@ -7,4 +7,4 @@ slugDir: Buddhismuskunde
 category: Weitere Informationen
 order: 4
 ---
-In diesem Kanal werden allggemeine Texte zur Buddhismuskunde gesammelt.
+In diesem Kanal werden allgemeine Texte zur Buddhismuskunde gesammelt.

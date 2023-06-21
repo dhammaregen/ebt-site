@@ -1,6 +1,6 @@
 ---
-title: buddhismuskunde title
-description: buddhismuskunde description
+title: Buddhismuskunde
+description: Allgemeine Texte zur Buddhismuskunde
 img: wheel.png
 img-alt: Generic image for buddhismuskunde 
 slugDir: Buddhismuskunde

@@ -24,7 +24,7 @@ Diese Übersetzung ist vorläufig und unterliegt weiterer Bearbeitung.
 
 <div style="text-align: center;">* * *</div>
 
-Alle Texte sind der [Datenbank von SuttaCentral](https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta) entnommen.
+Alle Texte sind dem [Datendepot von SuttaCentral](https://github.com/suttacentral/bilara-data/tree/published/translation/de/sabbamitta/sutta) entnommen.
 
 Überlegungen von Sabbamitta Silashin: [Weshalb brauchen wir neue deutsche Sutta-Übersetzungen?](/Übersetzung/Weshalb) 
 

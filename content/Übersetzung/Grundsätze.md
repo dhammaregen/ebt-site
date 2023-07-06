@@ -27,7 +27,7 @@ Hier zunächst die Grundsätze in der Übersicht, danach folgt eine ausführlich
 
 ### (1) (Fast) alles übersetzen
 
-Ich habe mich von dem Grundsatz leiten lassen, die sakrale buddhistische Literatur so leicht wie möglich zugänglich zu machen, unabhängig vom Grad der Vertrautheit des Lesers mit dem Buddhismus oder mit Pali. Praktisch bedeutete das, dass ich alle Palibegriffe und -ausdrücke übersetzt habe, mit den folgenden Ausnahmen: Buddha, Saṅgha und Paṇḍaka.
+Ich habe mich von dem Grundsatz leiten lassen, die sakrale buddhistische Literatur so leicht wie möglich zugänglich zu machen, unabhängig vom Grad der Vertrautheit des Lesers mit dem Buddhismus oder mit Pali. Praktisch bedeutete das, dass ich alle Palibegriffe und -ausdrücke übersetzt habe, mit den folgenden Ausnahmen: *Buddha*, *Saṅgha* und *Paṇḍaka*.
 
 Beim Übersetzen von Palitexten gibt es eine Tendenz, eine beträchtliche Zahl von Begriffen unübersetzt zu lassen. Typische Beispiele von Wörtern, die unübersetzt bleiben, betreffen Kernvorstellungen wie Dhamma, Jhāna, Arahant, Uposatha, Kamma, Tathāgata und Nibbāna. Das Problem bei dieser Herangehensweise ist, dass sie Leser, besonders, wenn sie neu zum Buddhismus kommen, im Dunkeln lässt. Meiner Meinung nach ist es besser, einen Palibegriff zu übersetzen, selbst in Fällen, in denen man keine vollständig befriedigende englische Entsprechung finden kann. Zumindest bekommt der Leser eine ungefähre Vorstellung von der Bedeutung des Textes, wodurch unerwartete Brüche in der Leseerfahrung vermieden werden.
 

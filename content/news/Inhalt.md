@@ -8,6 +8,10 @@ order: -9999
 
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
+### [Juli 2023](/news/2023-07)
+- *Dhammaregen* packt die Koffer
+- Anāthapiṇḍika (Pli-tv-kd16, AN 4.58, AN 4.61, AN 4.62, AN 10.91, AN 5.176, AN 5.179, AN 10.93, SN 55.26, MN 143, SN 2.20)
+
 ### [Juni 2023](/news/2023-06)
 - Das Sāmaññaphalasutta (DN 2)
 - Ajahn Brahm: Was ist Buddhismus?

@@ -19,13 +19,13 @@ Bisher liegen folgende Suttas auf *Dhammaregen* vor:
 - Saṁyutta-Nikāya: vollständig
 - Aṅguttara-Nikāya: vollständig
 - Khuddaka-Nikāya: 
-  - Kp vollständig 
-  - Dhp 1-20, Dhp 167-178, Dhp 273-289
-  - Ud vollständig
-  - Iti vollständig
-  - Snp 1.4, Snp 1.8, Snp 1.10-11, Snp 2.1, Snp 2.4-5, Snp 2.12, Snp 10.12
-  - Thag 1.1-40, 1.43, 1.66, 1.69, 1.97-98, Thag 2.17, 2.22, 2.32, Thag 4.10, Thag 5.10, Thag 14.1, Thag 15.1-2, Thag 16.5, Thag 18.1, Thag 20-21
-  - Thig vollständig
+  - Kp: vollständig 
+  - Dhp: 1-20, Dhp 167-178, Dhp 273-289
+  - Ud: vollständig
+  - Iti: vollständig
+  - Snp: 1.4, Snp 1.8, Snp 1.10-11, Snp 2.1, Snp 2.4-5, Snp 2.12, Snp 10.12
+  - Thag: 1.1-40, 1.43, 1.66, 1.69, 1.97-98, Thag 2.17, 2.22, 2.32, Thag 4.10, Thag 5.10, Thag 14.1, Thag 15.1-2, Thag 16.5, Thag 18.1, Thag 20-21
+  - Thig: vollständig
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
 

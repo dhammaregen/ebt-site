@@ -29,8 +29,6 @@ Bisher liegen folgende Suttas auf *Dhammaregen* vor:
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
 
-(Wegen einer technischen Übergangssituation ist die Audiofunktion momentan nicht für alle Übersetzungen verfügbar. In manchen Fällen kann das Audio auch eine veraltete Version des Textes wiedergeben, die von der Darstellung auf dem Bildschirm abweicht.)
-
 Zur [Beschreibung](/Übersetzung/Beschreibung) des Übersetzungsprojekts
 
 ### Andere deutsche Übersetzungen von Sabbamitta Silashin auf SuttaCentral

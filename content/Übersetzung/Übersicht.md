@@ -15,7 +15,7 @@ Bitte klicken Sie auf „Such mir etwas aus!“ oder finden Sie Suchbegriffe üb
 
 Bisher liegen folgende Suttas auf *Dhammaregen* vor:
 - Dīgha-Nikāya: vollständig
-- Majjhima-Nikāya: MN 2, MN 7, MN 10, MN 23, MN 33, MN 44, MN 52, MN 58-59, MN 81, MN 109, MN 118-119, MN 139-141, MN 144-146
+- Majjhima-Nikāya: MN 2, MN 7, MN 10, MN 23, MN 33, MN 44, MN 52, MN 58-59, MN 81, MN 109, MN 116, MN 118-119, MN 139-141, MN 144-146
 - Saṁyutta-Nikāya: vollständig
 - Aṅguttara-Nikāya: vollständig
 - Khuddaka-Nikāya: 
@@ -26,6 +26,7 @@ Bisher liegen folgende Suttas auf *Dhammaregen* vor:
   - Snp: 1.4, Snp 1.8, Snp 1.10-11, Snp 2.1, Snp 2.4-5, Snp 2.12, Snp 10.12
   - Thag: 1.1-40, 1.43, 1.66, 1.69, 1.97-98, Thag 2.17, 2.22, 2.32, Thag 4.10, Thag 5.10, Thag 14.1, Thag 15.1-2, Thag 16.5, Thag 18.1, Thag 20-21
   - Thig: vollständig
+  - Cp 1-9
 
 Neue Texte kommen laufend hinzu, die vorhandenen werden regelmäßig aktualisiert.
 

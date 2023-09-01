@@ -6,6 +6,14 @@ img-alt: Foto von Bhante Sujato
 order: 16
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/mythologie/drache">https://dhammaregen.net/#/wiki/mythologie/drache</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-dragons-and-human-sacrifice/2981)
 
 Kein Bild von buddhistischen Mönchen hat sich ins Bewusstsein der Menschheit so eingebrannt wie das des Ehrwürdigen Thích Quảng Đức, der sich 1963 aus Protest gegen die südvietnamesische Regierung [durch Selbstverbrennung geopfert hat](https://de.wikipedia.org/wiki/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c#/media/Datei:Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c_self-immolation.jpg).

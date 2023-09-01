@@ -6,6 +6,14 @@ img-alt: Foto von Bhante Sujato
 order: 17
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/mythologie/pacetana">https://dhammaregen.net/#/wiki/mythologie/pacetana</a>.
+</p>
+
 [Zum Originaltext](https://sujato.wordpress.com/2012/12/02/the-first-jataka/)
 
 Ich habe die Gelegenheit genutzt und Bhikkhu Bodhis (wie immer!) wunderbare Übersetzung des Aṅguttara-Nikāya gelesen. Wenn Sie das Buch noch  nicht haben, [worauf warten Sie noch](https://wisdomexperience.org/product/numerical-discourses-buddha/)?

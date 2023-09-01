@@ -6,6 +6,14 @@ img-alt: Ayya Mie Vimala 2019
 order: -1
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/tropfen/mievimala">https://dhammaregen.net/#/wiki/tropfen/mievimala</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/the-passing-of-a-generation-in-memory-of-ven-ayya-mie-vimala-of-konigsberg/27835/5?u=sabbamitta)
 
 Am 3. Januar erhielt ich eine Email von Ken und Visakha Kawasaki, einem amerikanischen Ehepaar, das in Kandy lebt. Sie informierten mich darüber, dass eine langjährige Freundin, die Ehrwürdige Ayyā Mie Vimalā, in einem Krankenhaus in Kandy gestorben war. Obwohl sie an Bauchspeicheldrüsenkrebs litt, hatte sie ihr Ende nicht so rasch erwartet. Nur Tage vorher war sie in Kandy angekommen, um einen geeigneten Ort zum Leben und für ihre Dhamma-Aktivitäten zu suchen.

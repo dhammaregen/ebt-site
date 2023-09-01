@@ -8,6 +8,14 @@ category: Weitere Informationen
 order: 1.5
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/erkundung">https://dhammaregen.net/#/wiki/erkundung</a>.
+</p>
+
 Mit [Santacitta Bhikkhuni](https://alokavihara.org/deutsch/#ayyasc) & [Sabbamitta Silashin](/Übersetzung/Sabbamitta)
 
 Seit Juni 2022 bietet Dhammaregen in Kooperation mit [Aloka-Dharma-Zoom](https://alokavihara.org/aloka-dharma-zoom/) ein monatliches Sutta-Erkundungsprogramm auf Zoom an. Die Sitzungen finden an jedem ersten Freitag im Monat statt, jeweils 18:30–20:00 h ME(S)Z.

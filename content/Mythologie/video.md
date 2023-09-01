@@ -6,6 +6,14 @@ img-alt: Schematisches Bild eines Filmprojektors
 order: 999
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/mythologie/video">https://dhammaregen.net/#/wiki/mythologie/video</a>.
+</p>
+
 ### Buddhistische Mythologie: Helden und schwierige Zeiten
 
 Vortrag von Bhante Sujato beim [Buddha-Talk Hamburg](https://www.buddha-talk.de/), 15.12.2019 (Englisch mit deutscher Übersetzung)

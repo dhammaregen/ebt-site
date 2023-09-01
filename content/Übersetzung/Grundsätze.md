@@ -6,6 +6,14 @@ img-alt: Bild von Ajahn Brahmali
 order: 2.5
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/uebersetzung/grundsaetze">https://dhammaregen.net/#/wiki/uebersetzung/grundsaetze</a>.
+</p>
+
 *[Dieser Text Ajahn Brahmalis bezieht sich auf Übersetzungen ins Englische; das Meiste ist aber auch für Übersetzungen ins Deutsche oder in andere Sprachen anwendbar. Die Grundsätze wurden bei der Übersetzung von Vinaya-Texten zusammengestellt, sind aber prinzipiell auch für die Suttas anwendbar. Punkt 10 wurde dem ursprünglichen Aufsatz aus der Diskussion hinzugefügt. Diese Grundsätze sind für meine eigene Übersetzungsarbeit eine wichtige Orientierungshilfe. — A.d.Ü.]*
 
 Zum [Originaltext](https://discourse.suttacentral.net/t/principles-of-translation/19485) mit Diskussion

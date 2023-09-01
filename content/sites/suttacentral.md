@@ -6,6 +6,15 @@ img: suttacentral.png
 img-alt: Bild der Webseite Suttacentral
 order: 1
 ---
+
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/webseiten/suttacentral">https://dhammaregen.net/#/wiki/webseiten/suttacentral</a>.
+</p>
+
 ### Frühe buddhistische Texte
 SuttaCentral ist die Quelle für alle frühen buddhistischen Texte (FBT), die auf dieser Webseite gezeigt werden. Es ist eine internationale Webseite mit FBT in ihren Originalsprachen und zahlreichen Übersetzungen sowie vielen Parallelen in frühen Texten.
 

@@ -6,6 +6,14 @@ img-alt: Brief, der in einer Baumgabel steckt
 order: -9999
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/news/uebersicht">https://dhammaregen.net/#/wiki/news/uebersicht</a>.
+</p>
+
 Hier finden Sie eine kurze Themenübersicht der bisher erschienenen Newsletter. Klicken sie auf die Überschrift, um zu einem Newsletter zu gelangen.
 
 ### [Juli 2023](/news/2023-07)

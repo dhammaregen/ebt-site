@@ -5,6 +5,15 @@ img: signpost.png
 img-alt: Pfosten mit Wegweisern im Wald
 order: 1
 ---
+
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/uebersetzung/uebersicht">https://dhammaregen.net/#/wiki/uebersetzung/uebersicht</a>.
+</p>
+
 ### Die Suttas in deutscher Sprache
 
 *Dhammaregen* beherbergt neue segmentierte deutsche Übersetzungen der Suttas des Palikanons von Sabbamitta Silashin. Auf [SuttaCentral](https://suttacentral.net) findet man zusätzlich viele frühere deutsche Übersetzungen dieser Texte.

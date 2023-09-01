@@ -7,6 +7,14 @@ category: Hintergrundinformationen
 order: 4
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden diese Webseite jetzt unter <a href="https://dhammaregen.net/#/wiki/startseite">https://dhammaregen.net</a>.
+</p>
+
 [Originalartikel](https://ebt-site.github.io/ebt-site/study/history) von Karl Lew
 
 ### Erinnerung verblasst

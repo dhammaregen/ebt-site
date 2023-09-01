@@ -6,6 +6,14 @@ img-alt: Foto von Bhante Sujato
 order: 6
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/buddhismuskunde/vijayasutta">https://dhammaregen.net/#/wiki/buddhismuskunde/vijayasutta</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/snp-1-11-vijayasutta-victory-over-desire-for-the-body/26835)
 
 Obwohl sie durch zwei Suttas getrennt sind, kann das Vijayasutta ([Snp 1.11](/suttas/#snp1.11/de/sabbamitta:0.1)) zusammen mit dem Mettāsutta als Paar angesehen werden, da jenes die Meditation über Liebe lehrt, die den Hass überwindet, während dieses die Meditation über die Körperteile lehrt, die das Verlangen überwindet (Strophe 11, *kāye chandaṁ virājaye*). Mir ist aufgefallen, dass das Mettāsutta anscheinend eine Meditationsanleitung für jemanden ist, der die Texte bereits studiert hat, und das Vijayasutta formuliert das ganz ausdrücklich und sagt, die Übung sei für einen weisen Mönch, der „die Worte des Buddha gelernt“ hat (*sutvāna buddhavacanaṁ*).

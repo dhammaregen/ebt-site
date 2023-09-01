@@ -6,6 +6,14 @@ img-alt: Foto von Bhante Sujato
 order: 1
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/mythologie/mythos">https://dhammaregen.net/#/wiki/mythologie/mythos</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/what-is-myth-and-why-does-it-matter/3398); der Essay bezieht sich auf [diesen vorausgegangenen Diskussionsbeitrag](https://discourse.suttacentral.net/t/fun-with-buddhist-mythology/3369/10)
 
 In der Umgangssprache ist „Mythos“ etwas, das falsch ist, aber häufig für wahr gehalten wird. Aber das ist recht weit von der ursprünglichen Bedeutung, „eine sakrale Geschichte“, entfernt.

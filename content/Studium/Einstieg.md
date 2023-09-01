@@ -6,6 +6,14 @@ img-alt: Kleine weiße Buddhafigur am Fuß eines Baumes
 order: 0.1
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/studium/einstieg">https://dhammaregen.net/#/wiki/studium/einstieg</a>.
+</p>
+
 ### Was hat der Buddha zuerst gelehrt?
 
 Die erste Lehrrede nach seinem Erwachen hielt der Buddha in Benares, im Wildpark bei Isipatana, und erklärte darin den edlen achtfachen Pfad und die vier edlen Wahrheiten.

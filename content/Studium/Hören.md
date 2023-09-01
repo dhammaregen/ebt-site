@@ -6,6 +6,14 @@ img-alt: Kissen mit MP3-Player am Fuß eines Baumes
 order: 2
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/studium/hoeren">https://dhammaregen.net/#/wiki/studium/hoeren</a>.
+</p>
+
 Die Schaltfläche für die Audiofunktion 🗣️ findet sich links an der unteren Navigationsleiste.
 
 <img src="./play.png" class="ebt-image" alt="Bildschirmfoto des Audio-Bedienelements">

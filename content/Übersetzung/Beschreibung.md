@@ -6,6 +6,14 @@ img-alt: Mensch auf hoher Leiter, die in einem See steht, streicht Himmel blau
 order: 1.6
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/uebersetzung/projekt">https://dhammaregen.net/#/wiki/uebersetzung/projekt</a>.
+</p>
+
 ### Übersetzung – Projektbeschreibung
 
 #### Beschreibung

@@ -5,6 +5,15 @@ img: newpath.png
 img-alt: Waldweg, in den von der Seite die Sonne fällt
 order: 2
 ---
+
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/uebersetzung/weshalb">https://dhammaregen.net/#/wiki/uebersetzung/weshalb</a>.
+</p>
+
 Die deutschsprachige Welt ist in der glücklichen Lage, dass es bereits viele deutsche Übersetzungen früher buddhistischer Texte gibt. Der Palikanon ist weitgehend abgedeckt, und Deutsch gehörte zu den ersten europäischen Sprachen, in die buddhistische Texte übersetzt wurden.
 
 Mit dieser Situation war ich lange Zeit sehr zufrieden und dachte nicht daran, dass etwas anderes nötig sei.

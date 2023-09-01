@@ -6,6 +6,14 @@ img-alt: Foto von Bhante Sujato
 order: 5
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/buddhismuskunde/mettasutta">https://dhammaregen.net/#/wiki/buddhismuskunde/mettasutta</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/a-new-reading-of-the-mettasutta-that-will-change-everything/26828/19)
 
 >Dies ist Teil einer Reihe von Beiträgen, mit denen ich Entwürfe verschiedener Diskusionen für meine Einführung zum Suttanipāta schreibe.

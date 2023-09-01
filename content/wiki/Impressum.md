@@ -7,6 +7,14 @@ category:
 order: 9999
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/impressum">https://dhammaregen.net/#/wiki/impressum</a>.
+</p>
+
 ### Impressum
 
 Es ist das Ziel dieser Webseite, interessierten Besuchern frühe buddhistische Texte in ihrer Quellsprache Pali und in Übersetzung frei von Kosten oder Beschränkungen durch Copyright zugänglich zu machen. Auf größtmögliche Barrierefreiheit für sehbehinderte Menschen wird ebenfalls Wert gelegt. 

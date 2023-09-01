@@ -6,6 +6,14 @@ img-alt: Foto von Bhante Sujato
 order: 13
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/mythologie/siebter">https://dhammaregen.net/#/wiki/mythologie/siebter</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/seventh-sage-or-supreme-sage/3589)
 
 In [SN 8.8](/suttas/#sn8.8/de/sabbamitta:5.2) und an verschiedenen anderen Stellen ([Thag 21.1](/suttas/#thag21.1/de/sabbamitta:32.2), [Snp 2.12](/suttas/#snp2.12/de/sabbamitta:15.2), [MN 56](/suttas/#mn56/de/sabbamitta:29.33)) finden wir für den Buddha das Attribut *isisattama*. All diese Fälle sind von sehr poetischer Natur und werden, mit Ausnahme von MN 56, dem blumigsten Dichter des frühen Saṅgha, dem Ehrwürdigen Vaṅgīsa, zugeschrieben. Der Ausdruck taucht auch mehrmals in späteren Verssammlungen wie den Apadānas und dem Vimānavatthu auf.

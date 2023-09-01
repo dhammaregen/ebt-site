@@ -5,6 +5,15 @@ img: newdress.png
 img-alt: Waldboden mit Teppich aus blühenden Anemonen
 order: 10
 ---
+
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/studium/neu">https://dhammaregen.net/#/wiki/studium/neu</a>.
+</p>
+
 ### Historisches
 *Dhammaregen* wurde ursprünglich als eine Begleitwebseite zu [Voice.suttacentral.net](https://voice.suttacentral.net) entworfen und enthielt Informationen über die Benutzung von Voice und [SuttaCentral](https://suttacentral.net) sowie auch eine Infoseite zu den deutschen Sutta-Übersetzungen von Sabbamitta Silashin. Die Informationen zu Voice und SuttaCentral sind jetzt unter [Dhammaregen.github.io/voice](https://dhammaregen.github.io/voice) zu finden.
 

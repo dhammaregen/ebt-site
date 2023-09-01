@@ -7,6 +7,15 @@ category: Dhammaregen
 order: 1
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden diese Webseite jetzt unter <a href="https://dhammaregen.net/#/wiki/startseite">https://dhammaregen.net</a>.
+</p>
+
+
 > *„Es ist, wie wenn auf einem Berggipfel der Regen in dicken Tropfen herabprasselt, und das Wasser fließt bergab und füllt die Hohlräume, Spalten und Bäche. Wenn sie voll werden, füllen sie die Teiche. Die Teiche füllen die Seen, die Seen füllen die Flüsse, und die Flüsse füllen die Ströme. Und wenn die Ströme voll werden, füllen sie das Weltmeer.*
 > 
 > *Ebenso füllt der Faktor des Umgangs mit guten Menschen, wenn er voll wird, den Faktor auf, der wahren Lehre zuzuhören. Wenn der Faktor, der wahren Lehre zuzuhören, voll wird, füllt er … Wissen und Freiheit auf.“*

@@ -6,6 +6,14 @@ img-alt: Foto von Bhante Sujato
 order: 12
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/mythologie/mahakaccana">https://dhammaregen.net/#/wiki/mythologie/mahakaccana</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-mahakaccana-and-the-spread-of-aryan-culture-to-avanti/3008)
 
 Der Ehrwürdige Mahākaccāna ist als einer der großen Schüler des Buddha gut bekannt. Praktisch als Einziger unter diesen verbrachte er Zeit in Avanti, das etwas südwestlich des Hauptverbreitungsgebietes des frühen Buddhismus gelegen ist.

@@ -6,6 +6,14 @@ img-alt: Zwei Papageien, die sich mit den Schnäbeln liebkosen
 order: 0
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/tropfen/sv">https://dhammaregen.net/#/wiki/tropfen/sv</a>.
+</p>
+
 Auf der Grundlage eines Vortrags vom Freitag, den 8. Mai 2015 im buddhistischen Zentrum Dhammaloka, Perth, Australien. Überarbeitete Auflage. 
 
 Lektorat für die deutsche Übersetzung: Bhikkhu Bodhidhaja

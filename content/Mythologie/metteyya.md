@@ -6,6 +6,15 @@ img-alt: Foto von Bhante Sujato
 order: 14
 ---
 
+
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/mythologie/metteyya">https://dhammaregen.net/#/wiki/mythologie/metteyya</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/on-the-buddha-metteyya-and-human-sacrifice-on-the-sacred-tree/6025)
 
 [DN 26 Cakkavatti](/suttas/#dn26/de/sabbamitta:0.1) ist ein reichhaltiges Sutta mit vielen außerordentlichen Merkmalen. Aber bei Weitem das bedeutsamste Merkmal des Textes ist die Einführung des Buddha Metteyya. Es wird zwar als ein allgemeiner Grundsatz der Buddhismuskunde angenommen, dass Buddhas von Zeit zu Zeit in der Vergangenheit erschienen sind und in Zukunft erscheinen werden, aber hier haben wir eine konkrete Geschichte mit Namen und vielen Einzelheiten.

@@ -6,6 +6,14 @@ img-alt: Papierrolle mit Aufschrift „Sutta-Zitat der Woche“ hängt vom Baum
 order: 3
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden diese Webseite jetzt unter <a href="https://dhammaregen.net/#/wiki/startseite">https://dhammaregen.net</a>.
+</p>
+
 Wenn Sie sich gerne mit anderen über die Lehrreden austauschen, kann es sehr hifreich sein, wenn Sie diesen Ihre Lieblingssuttas oder -stellen z. B. in einer Email schicken können, und zwar so, dass es für die Empfängerin leicht ist, den Text dann selbst nachzulesen. Vielleicht sind Sie auch Mitglied auf einem buddhistischen Diskussionsforum und wollen gerne dort das eine oder andere Zitat posten. *Dhammaregen* hat verschiedene Optionen, Suttas oder Segmente daraus zusammen mit dem dazugehörigen Link zu kopieren.
 
 ### Link zu einem ganzen Sutta

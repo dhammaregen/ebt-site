@@ -6,6 +6,14 @@ img-alt: Foto von Bhante Sujato
 order: 3.5
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/buddhismuskunde/keramik">https://dhammaregen.net/#/wiki/buddhismuskunde/keramik</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/nanda-and-northern-black-polished-ware/2919)
 
 Das Studium des frühen Buddhismus ist durch die Spärlichkeit archäologischer Hinterlassenschaften aus der Zeit erschwert. Das ist zum Teil durch die Art der Kultur in dieser Zeit bedingt, in der Gebäude vorwiegend aus Holz und monumentale Bauwerke und Steinbauweise noch nicht verbreitet waren; aber es liegt auch am allgemein niedrigen Stand der Archäologie in Indien. Dennoch haben wir einige Anhaltspunkte. Die Kultur dieser Zeit ist als Kultur der nördlichen schwarzen polierten Keramik bekannt ([Northern Black Polished Ware](https://en.wikipedia.org/wiki/Northern_Black_Polished_Ware), NBPW), benannt nach den charakteristischen glänzenden glasierten Töpferwaren. Die zeitliche und geografische Verbreitung dieser Kultur kommt dem in den FBT dargestellten Kulturkreis sehr nahe, und es gibt keinen Zweifel, dass die Kultur, die in den Suttas beschrieben wird, tatsächlich die Kultur der nördlichen schwarzen polierten Keramik ist.

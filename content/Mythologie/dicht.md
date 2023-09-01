@@ -6,6 +6,14 @@ img-alt: Foto von Bhante Sujato
 order: 10
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/mythologie/dicht">https://dhammaregen.net/#/wiki/mythologie/dicht</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/an-extremely-dense-four-words/6049)
 
 Normalerweise ist der Stil in den FBT eher ausdrücklich, sogar ausgesprochen wortreich. Vieles davon ist den Wiederholungen geschuldet, die notwendig sind, um den Sinn zu bewahren; aber der Buddha ist in Passagen der Lehre auch darum bemüht, die Bedeutung klar und unmissverständlich zu vermitteln. Außerhalb der direkten Lehre, in Erzählpassagen, Dialogen und Versen, begegnen wir allerdings manchmal einem eher spielerischen Geist, der voller Anspielungen steckt.

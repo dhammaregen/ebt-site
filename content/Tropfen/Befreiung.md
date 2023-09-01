@@ -6,6 +6,14 @@ img-alt: Ein Ammonit
 order: 1
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/tropfen/befreiung">https://dhammaregen.net/#/wiki/tropfen/befreiung</a>.
+</p>
+
 Dieses Werk wurde in deutscher Sprache erstmals 2014 vom Verlag [Beyerlein & Steinschulte](http://www.buddhareden.de) unter Mithilfe von Horst Neugebauer als Lektor publiziert.
 
 Der Essay ist eine Abschrift eines Vortrags, der am 23. März 2012 in [Dhammaloka](https://bswa.org/location/dhammaloka-city-centre/), Perth, Australien gehalten wurde. Zum [Originaltext](https://bswa.org/teaching/dependent-liberation/) (PDF zum Herunterladen, 176 kB).

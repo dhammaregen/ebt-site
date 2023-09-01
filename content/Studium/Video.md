@@ -6,6 +6,14 @@ img-alt: Vogel, der über Bäumen dahinfliegt
 order: 9
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden diese Webseite jetzt unter <a href="https://dhammaregen.net/#/wiki/startseite">https://dhammaregen.net</a>.
+</p>
+
 ### Dhammaregen-Präsentation vom 13.08.2021 beim iSangha des Klosters Tilorien
 
 Frage-Antwort-Stunde

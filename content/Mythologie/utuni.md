@@ -6,6 +6,14 @@ img-alt: Foto von Bhante Sujato
 order: 14.5
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/mythologie/utuni">https://dhammaregen.net/#/wiki/mythologie/utuni</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/menstruation-and-fertility-in-the-pali-texts/3042)
 
 Ich war mir nie ganz sicher, was das Wort *utuni* bedeutet. Üblicherweise wird es als eine Frau übersetzt, die „in ihrer Zeit“ ist oder „ihre Zeit hat“. Das ist eine wörtliche Übersetzung, denn *utuni* heißt „Zeit, Jahreszeit“. Aber welche Zeit ist es genau?

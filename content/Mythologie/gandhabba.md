@@ -6,6 +6,14 @@ img-alt: Foto von Bhante Sujato
 order: 15
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/mythologie/gandhabba">https://dhammaregen.net/#/wiki/mythologie/gandhabba</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/does-gandhabba-mean-semen/26734)
 
 Eine Stelle im Palikanon führt den *gandhabba* ein als etwas, das bei der Empfängnis eines Kindes eine wichtige Rolle spielt. Die Passage kommt im Majjhima zweimal vor (wie auch in verschiedenen Parallelen). Von diesen ist die Quelle in [MN 38 Mahātaṇhāsaṅkhayasutta](/suttas/#mn38/de/sabbamitta:0.1) wegen der erweiterten Darstellung sicher zweitrangig, während man die Quelle in [MN 93 Assalāyana](/suttas/#mn93/de/sabbamitta:0.1) als das primäre Vorkommen betrachten sollte.

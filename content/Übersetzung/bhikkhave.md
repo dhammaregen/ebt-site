@@ -6,6 +6,14 @@ img-alt: Ordinierte Person, die Stapel mit Roben trägt; obenauf eine Blüte
 order: 3
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/uebersetzung/bhikkhave">https://dhammaregen.net/#/wiki/uebersetzung/bhikkhave</a>.
+</p>
+
 # *Bhikkhave* und *Bhikkhu* als Terminologie in frühen buddhistischen Texten, die alle Geschlechter einschließt
 (Aus: [*Journal of Buddhist Ethics*](http://blogs.dickinson.edu/buddhistethics/), ISSN 1076-9005, Band 21, 2014)
 

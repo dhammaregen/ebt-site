@@ -7,6 +7,14 @@ category: Weitere Informationen
 order: 9999
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/quellen">https://dhammaregen.net/#/wiki/quellen</a>.
+</p>
+
 Gongtöne, die am Ende eines Sutta abgespielt werden können:
 
 ### [383542__alixgaus__turn-page.mp3](https://www.pexels.com/photo/woman-holding-a-wooden-stick-and-a-bowl-3543916/)

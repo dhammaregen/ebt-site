@@ -6,6 +6,14 @@ img-alt: Ein Ammonit
 order: 2
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/tropfen/entstehen">https://dhammaregen.net/#/wiki/tropfen/entstehen</a>.
+</p>
+
 Dieses Werk wurde in deutscher Sprache erstmals 2014 vom Verlag [Beyerlein & Steinschulte](http://www.buddhareden.de) unter Mithilfe von Horst Neugebauer als Lektor publiziert.
 
 Der Essay ist ein bearbeiteter Mitschnitt eines Vortrags, der am 17. April 2009 bei der [Buddhistischen Gesellschaft Westaustraliens](https://bswa.org/) gehalten wurde. Zum [Originaltext](https://bswa.org/teaching/dependent-origination/) (PDF zum Herunterladen, 186 kB).

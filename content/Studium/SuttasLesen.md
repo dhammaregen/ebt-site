@@ -6,6 +6,14 @@ img-alt: Foto von Bhante Sujato
 order: 9.5
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/studium/suttas-lesen">https://dhammaregen.net/#/wiki/studium/suttas-lesen</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/how-to-read-the-suttas/6676)
 
 Seit ich mit der Praxis des Buddhismus begonnen habe, habe ich die Suttas als eine unschätzbare Zuflucht erlebt. Da gibt es soviel Weisheit, so viele erstaunliche Dinge – sie sind eine unerschöpfliche Dhamma-Fundgrube. Ich ermutige alle Buddhistinnen und Buddhisten, sich tägliches oder zumindest wöchentliches Suttalesen zur Gewohnheit zu machen.

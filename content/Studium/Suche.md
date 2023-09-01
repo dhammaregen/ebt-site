@@ -6,6 +6,14 @@ img-alt: Aufgeschlagenes Buch auf einem Tuch auf dem Waldboden
 order: 1
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/studium/suche">https://dhammaregen.net/#/wiki/studium/suche</a>.
+</p>
+
 So gelangen Sie zu dem Text, den Sie studieren möchten:
 
 ### 1. „Such mir etwas aus!“

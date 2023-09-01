@@ -6,6 +6,14 @@ img-alt: Ajahn Brahm
 order: -2
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/tropfen/buddhismus">https://dhammaregen.net/#/wiki/tropfen/buddhismus</a>.
+</p>
+
 [Zum Originaltext](https://bswa.org/practices/buddhism-ajahn-brahm/)
 
 ZUR KOSTENLOSEN VERTEILUNG  

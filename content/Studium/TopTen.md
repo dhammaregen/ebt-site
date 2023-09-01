@@ -6,6 +6,14 @@ img-alt: Foto von Bhante Sujato
 order: 9.4
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/studium/topten">https://dhammaregen.net/#/wiki/studium/topten</a>.
+</p>
+
 … und zehn weitere, die sich ebenfalls zu lesen lohnen
 
 [Zum Originaltext](https://discourse.suttacentral.net/t/top-ten-suttas-and-ten-more-to-read-as-well/12978)

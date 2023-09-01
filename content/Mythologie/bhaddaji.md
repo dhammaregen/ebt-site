@@ -6,6 +6,15 @@ img-alt: Foto von Bhante Sujato
 order: 13.5
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  border: thin solid black;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/mythologie/bhaddaji">https://dhammaregen.net/#/wiki/mythologie/bhaddaji</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/about-thag-2-22-what-this-verse-means/3784/5)
 
 *Bhante Sujato antwortet auf die Frage eines Benutzers auf dem SuttaCentral-Diskussionsforum:*

@@ -6,6 +6,14 @@ img-alt: Foto von Bhante Sujato
 order: 11
 ---
 
+<p style="padding: 25px;
+  border: thin solid black;
+  background-color: lightblue;
+  padding: 25px;
+  font-size: 20px;"
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/mythologie/ghatikara">https://dhammaregen.net/#/wiki/mythologie/ghatikara</a>.
+</p>
+
 [Zum Originaltext](https://discourse.suttacentral.net/t/a-mythology-of-cultural-transformation-in-the-gha-ikara-sutta/4657)
 
 Das Ghaṭīkāra-Sutta ([MN 81](/suttas/#mn81/de/sabbamitta:0.1)) ist recht viel beachtet und analysiert worden. Es ist einer der sehr wenigen frühen Texte, in denen der Buddha sich ausdrücklich mit einem der Protagonisten identifiziert, somit wäre es ein kanonisches Jātaka. Zudem kommt darin ein früherer Buddha vor, Kassapa, was es noch mehr zu etwas Besonderem macht, denn es erzählt die Geschichte unseres Buddha, als er der  Schüler eines früheren Buddha war.

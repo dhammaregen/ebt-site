@@ -11,7 +11,7 @@ order: 1
   background-color: lightblue;
   padding: 25px;
   font-size: 20px;"
-><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/uebersetzung/uebersicht">https://dhammaregen.net/#/wiki/uebersetzung/uebersicht</a>.
+><b><em>Dhammaregen</em> ist zu einer neuen Domain umgezogen!</b> Sie finden das Pendant zu dieser Seite jetzt unter <a href="https://dhammaregen.net/#/wiki/uebersetzung/uebersicht">https://dhammaregen.net/#/wiki/uebersetzung/uebersicht</a>. Dort finden Sie auch den aktuellen Stand des Übersetzungsprojekts.
 </p>
 
 ### Die Suttas in deutscher Sprache
@@ -33,7 +33,7 @@ Bisher liegen folgende Suttas auf *Dhammaregen* vor:
   - Ud: vollständig
   - Iti: vollständig
   - Snp: 1.4, Snp 1.8, Snp 1.10-11, Snp 2.1, Snp 2.4-5, Snp 2.8, Snp 2.12, Snp 10.12
-  - Thag: 1.1-40, 1.43, 1.66, 1.69, 1.97-98, Thag 2.17, 2.22, 2.32, Thag 4.10, Thag 5.10, Thag 14.1, Thag 15.1-2, Thag 16.5, Thag 18.1, Thag 20-21
+  - Thag: Thag 1, Thag 2.17, 2.22, 2.32, Thag 4.10, Thag 5.10, Thag 14.1, Thag 15.1-2, Thag 16.5, Thag 18.1, Thag 20-21
   - Thig: vollständig
   - Cp 1-34
 
